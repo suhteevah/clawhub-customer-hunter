@@ -1,0 +1,12 @@
+Subject: Did a breakdown on {{BUSINESS_NAME}} - check it out
+
+Hey {{CONTACT_NAME}},
+
+I was messing around with some stuff and put together a breakdown of {{BUSINESS_NAME}}'s digital presence. Figured I'd send it your way since I already had all the info pulled up.
+
+Basically mapped out where things stand online right now and what the opportunities look like. No pitch or anything - just thought you'd want to see it. {{KEY_FINDING}}
+
+Let me know if you want to chop it up about any of it. Always down to brainstorm.
+
+Matt
+(530) 786-3655

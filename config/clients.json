@@ -1,0 +1,30 @@
+{
+  "clients": [
+    {
+      "id": "midnight-munitions",
+      "name": "Midnight Munitions",
+      "contact": "Christian Anderson",
+      "email": "sales@midnightmunitions.com",
+      "url": "https://midnightmunitions.com",
+      "location": "Nephi, Utah",
+      "relationship": "homie",
+      "status": "proposal_generated",
+      "proposalFile": "Midnight_Munitions_Digital_Growth_Proposal.docx",
+      "emailSent": false,
+      "notes": "Veteran-owned NAS3 ammunition manufacturer. Freebie - Matt's homie."
+    },
+    {
+      "id": "first-choice-plastics",
+      "name": "First Choice Plastics LLC",
+      "contact": "Cory Sturgis",
+      "email": "Corysturgis@live.com",
+      "url": null,
+      "location": "Oroville, California",
+      "relationship": "homie",
+      "status": "proposal_generated",
+      "proposalFile": "First_Choice_Plastics_Digital_Growth_Proposal.docx",
+      "emailSent": false,
+      "notes": "Plastics/3D printing. Homie deal/business partnership - do NOT sell."
+    }
+  ]
+}

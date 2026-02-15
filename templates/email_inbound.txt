@@ -1,0 +1,14 @@
+Subject: Digital Growth Proposal for {{BUSINESS_NAME}}
+
+Hey {{CONTACT_NAME}},
+
+Thanks for reaching out. I took a deep dive into {{BUSINESS_NAME}}'s digital presence and put together a proposal based on what you described and what I found.
+
+{{KEY_FINDING}}
+
+I laid out a phased strategy and a few options in the attached proposal. Would love to walk through it with you whenever you've got 30 minutes.
+
+Best,
+Matt Gates
+Ridge Cell Repair LLC
+(530) 786-3655

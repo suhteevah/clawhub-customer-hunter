@@ -1,0 +1,12 @@
+{
+  "name": "Matt Gates",
+  "company": "Ridge Cell Repair LLC",
+  "phone": "(530) 786-3655",
+  "location": "California",
+  "services": ["SEO", "Digital Marketing", "Website Development", "Business Analysis"],
+  "brand": {
+    "primaryColor": "1B4F72",
+    "accentColor": "2E86C1",
+    "font": "Arial"
+  }
+}

@@ -1,0 +1,14 @@
+Subject: Put something together for you - digital growth proposal
+
+Hey {{CONTACT_NAME}},
+
+Hope all is well. I put together a full digital growth proposal for {{BUSINESS_NAME}} - just wanted to get this in your hands because I think there's a ton of low-hanging fruit you're leaving on the table right now.
+
+I did a full audit of your site, your SEO visibility, and what your competitors are doing in the space. The short version: {{KEY_FINDING}}
+
+The proposal breaks down everything I found and lays out a game plan. Take a look when you get a chance and let me know if you want to hop on a call to talk through it.
+
+Talk soon,
+Matt Gates
+Ridge Cell Repair LLC
+(530) 786-3655

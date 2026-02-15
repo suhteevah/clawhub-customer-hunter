@@ -1,0 +1,16 @@
+{
+  "name": "proposal-generator",
+  "version": "1.0.0",
+  "description": "Client proposal pipeline for Ridge Cell Repair LLC",
+  "main": "scripts/pipeline.js",
+  "scripts": {
+    "send": "node scripts/send_email.js",
+    "build": "node scripts/build_proposal.js",
+    "pipeline": "node scripts/pipeline.js"
+  },
+  "dependencies": {
+    "docx": "^9.5.1",
+    "nodemailer": "^6.9.0",
+    "dotenv": "^16.4.0"
+  }
+}
