@@ -1,0 +1,147 @@
+{
+  "businessName": "Western Termite Solutions Inc",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Western Termite Solutions has some smart pieces in place -- GA4 tracking, LocalBusiness schema, trust badges (BBB, Chamber of Commerce), and social media links to five platforms. Someone invested in the foundation. But critical issues are undermining all of it.",
+    "The most damaging finding: your business data is fighting itself. Your schema markup shows an Oroville address with phone (530) 628-9237 and hours Mon-Thu 9-5. Your footer shows a Yuba City address with phone (530) 712-9161 and hours Mon-Thu 8-5. Your Google Maps embed shows Oroville. Google sees three different sets of data and loses trust in your listing -- this directly hurts your local pack rankings.",
+    "Beyond that, your homepage has massive blank whitespace sections (broken Divi layout), no contact form anywhere on the site, a blog that's been dead since June 2024, and no FAQ sections. Your homepage is only 628 words -- below the 800+ recommended for competitive local keywords. These are all fixable without a rebuild."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- westerntermitepest.com",
+      "points": [
+        "Built on WordPress with Divi Theme Builder -- functional but generates heavy, bloated output.",
+        "HTTPS active -- SSL properly configured.",
+        "Google Analytics 4 (G-SRN3Z4BLYD) installed via Google Tag Manager -- tracking active.",
+        "LocalBusiness schema present with AggregateRating -- strong structured data foundation.",
+        "Trust badges: BBB Accredited Business and Chamber of Commerce displayed in footer.",
+        "Social media links to Facebook, Instagram, YouTube, TikTok, and X (Twitter).",
+        "Phone number (530) 712-9161 prominently displayed in sticky header.",
+        "Blog has 11 posts -- all published Nov 2023 to June 2024, then abandoned."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "NAP conflict: schema shows Oroville address/(530) 628-9237, footer shows Yuba City/(530) 712-9161 -- Google penalizes this.",
+        "Hours mismatch: schema says Mon-Thu 9-5, footer says Mon-Thu 8-5 -- different by 1 hour open and close.",
+        "No contact form anywhere on the site -- phone and form link only, massive conversion killer.",
+        "Homepage has broken whitespace sections (empty Divi containers) adding 2000+ pixels of blank space.",
+        "Blog dead since June 2024 -- all 11 posts filed under 'Uncategorized' with no taxonomy.",
+        "No FAQ section or FAQ schema on any page -- missing featured snippet opportunities.",
+        "No email address displayed anywhere -- Gmail (westerntermite@gmail.com) instead of branded email.",
+        "No dedicated Oroville landing page despite it being HQ city -- only Chico, Yuba City, Marysville pages exist."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Oroville/Chico/Yuba City pest control market has moderate competition.",
+        "Your BBB and Chamber badges are trust signals most competitors lack.",
+        "NAP conflicts are actively hurting you against competitors with clean, consistent data.",
+        "Any competitor that starts publishing monthly blog content and adds FAQ schema will overtake you in local search."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "NAP Data", "finding": "Schema, footer, and Google Maps show 3 different address/phone/hours combinations -- Google penalty risk", "priority": "High", "status": "Critical" },
+    { "area": "Contact Form", "finding": "No contact form on homepage or contact page -- phone-only conversion path", "priority": "High", "status": "Critical" },
+    { "area": "Layout", "finding": "Broken Divi sections creating massive blank whitespace on homepage -- users will bounce", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog", "finding": "Dead since June 2024 -- 11 posts total, all 'Uncategorized,' no local targeting", "priority": "High", "status": "Critical" },
+    { "area": "FAQ", "finding": "No FAQ section or FAQ schema anywhere -- missing featured snippets and 'People Also Ask'", "priority": "High", "status": "Missing" },
+    { "area": "Email", "finding": "No email displayed on site -- known Gmail instead of branded @westerntermitepest.com", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Location Pages", "finding": "Only 3 city pages (Chico, Yuba City, Marysville) -- no Oroville page despite being HQ", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Analytics", "finding": "GA4 and GTM installed -- good tracking foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix Critical Issues (Months 1-2)",
+      "actions": [
+        "Fix NAP conflicts -- align schema, footer, and Google Maps to one consistent address, phone, and hours.",
+        "Add contact/estimate request form to homepage and contact page.",
+        "Fix broken Divi whitespace sections -- remove empty containers.",
+        "Set up branded email (info@westerntermitepest.com) and display on site.",
+        "Create dedicated Oroville landing page with unique local content.",
+        "Build FAQ section with FAQ schema targeting common pest control questions.",
+        "Add Review schema to homepage testimonial section for star ratings in Google."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Visibility (Months 3-5)",
+      "actions": [
+        "Relaunch blog with 2-4 locally-targeted posts/month: 'Termite season in Oroville CA,' 'Bed bug prevention Chico,' 'Pest control costs Northern California.'",
+        "Categorize and tag existing 11 blog posts properly -- remove 'Uncategorized.'",
+        "Create About Us/Our Team page leveraging family-owned story.",
+        "Build dedicated Escrow Inspection landing page -- highest-margin service deserves its own page.",
+        "Add unique content to existing location pages with local landmarks and pest concerns.",
+        "Implement review solicitation system for Google reviews after service calls."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent pest control keywords during peak seasons.",
+        "Video content: treatment process walkthroughs, seasonal pest prevention tips.",
+        "Email marketing to existing customers for seasonal reminders.",
+        "Page speed optimization -- reduce Divi bloat, consolidate 4 font families to 2.",
+        "Monthly reporting on traffic, rankings, and lead generation."
+      ]
+    }
+  ],
+  "pricingIntro": "Western Termite Solutions has real assets -- GA4 tracking, schema markup, trust badges, and social links. But the NAP conflicts are actively working against you, and a dead blog with no contact form means you're leaving leads and rankings on the table. The fixes are straightforward and the competitive landscape means fast results.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "NAP conflict resolution",
+        "Contact form implementation",
+        "Layout/whitespace fixes",
+        "Branded email setup",
+        "Oroville landing page",
+        "FAQ section with schema",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog relaunch (2-4 posts/month)",
+        "Escrow inspection landing page",
+        "About Us page creation",
+        "Location page improvements",
+        "Review solicitation system",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Page speed optimization",
+        "Social media management",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Your BBB badge and Chamber membership are trust signals most pest control competitors don't have. But the NAP conflicts are actively undermining your local search presence. Fixing that alone could move you up in the local pack.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Pest season is coming. The companies with clean data, fresh content, and FAQ schema are the ones that will be getting the calls. Let's make sure Western Termite is one of them."
+  ]
+}

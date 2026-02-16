@@ -1,0 +1,139 @@
+{
+  "businessName": "Lakeside Auto & Diesel Repair",
+  "contactName": "Ernest Rissler",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Lakeside Auto & Diesel Repair has built an outstanding reputation over 25+ years — 4.9 stars across 127 reviews is exceptional in the auto repair industry. But here's the problem: you have NO website. Your entire online presence is a placeholder directory page that you don't control.",
+    "When customers in Oroville search for 'auto repair near me' or 'diesel mechanic Oroville CA,' they're finding competitors with websites, not you. Your 4.9 star rating and family-owned reputation are invisible to anyone searching online — and that's where 97% of local service searches start.",
+    "The opportunity is straightforward: a professional website combined with basic SEO would immediately start capturing the online leads you're currently losing. Most auto repair shops in Oroville have weak or nonexistent digital presence, so even a basic website would put you ahead of the pack."
+  ],
+  "assessment": [
+    {
+      "title": "Current Digital Presence",
+      "points": [
+        "NO website exists — only a placeholder page on localsearch.com that you likely don't control.",
+        "4.9 stars across 127 Google reviews — this is top-tier reputation that's being wasted without a website.",
+        "Google Business Profile appears to be your only online asset — and it needs optimization.",
+        "No social media presence found.",
+        "No email marketing capability — no way to stay in touch with past customers.",
+        "Family-owned for 25+ years — this trust factor is completely absent from online search."
+      ]
+    },
+    {
+      "title": "What You're Losing Without a Website",
+      "points": [
+        "Customers searching 'auto repair Oroville CA' find Braun's Auto, Gilbert's Auto Remedy, and AJ Auto before you.",
+        "Diesel repair is a specialty service with higher margins — 'diesel mechanic Oroville' or 'diesel repair Butte County' could drive premium leads.",
+        "You can't showcase your services, pricing, or certifications anywhere you control.",
+        "No contact form means customers who prefer to reach out online (especially younger demographics) go elsewhere.",
+        "Directory sites control your narrative — they can change your listing, add competitor ads, or display incorrect info."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Gilbert's Auto Remedy has a functioning website and 280 reviews — they're currently the online leader in Oroville auto repair.",
+        "Braun's Auto Service and Ridge Transmission appear in directory listings with basic info.",
+        "AJ Auto Repair also has no website — you'd both benefit, but whoever moves first wins.",
+        "Dirks Automotive and Jeff's Mobile Auto are competing for the same local keywords.",
+        "Your diesel repair specialty gives you a unique angle that few competitors can match."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website", "finding": "NO website exists — zero online presence you control", "priority": "High", "status": "Critical" },
+    { "area": "Lead Capture", "finding": "No contact form, no online booking, no way for customers to reach you digitally", "priority": "High", "status": "Critical" },
+    { "area": "SEO", "finding": "Not ranking for any local search terms — invisible to online searchers", "priority": "High", "status": "Missing" },
+    { "area": "Diesel Specialty", "finding": "High-value diesel repair niche completely untargeted online", "priority": "High", "status": "Missed Opportunity" },
+    { "area": "Reviews", "finding": "4.9 stars, 127 reviews — excellent but not leveraged on owned platform", "priority": "Medium", "status": "Underutilized" },
+    { "area": "Social Media", "finding": "No Facebook, Instagram, or other social presence found", "priority": "Medium", "status": "Missing" },
+    { "area": "Brand History", "finding": "25+ years family-owned — strong trust signal absent from online presence", "priority": "Medium", "status": "Underutilized" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Get Online (Months 1-2)",
+      "actions": [
+        "Build a professional 5-7 page website: Home, Auto Repair, Diesel Repair, About Us, Reviews, Contact.",
+        "Mobile-first responsive design with click-to-call, contact form, and Google Maps integration.",
+        "SEO-optimized content targeting 'auto repair Oroville CA,' 'diesel mechanic Oroville,' 'diesel repair Butte County.'",
+        "LocalBusiness schema markup for Google Maps and rich search results.",
+        "Set up branded email (info@lakesideautodiesel.com) for professional communications.",
+        "Optimize Google Business Profile with photos, service categories, and updated business description."
+      ]
+    },
+    {
+      "title": "Phase 2: Build Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog: 'diesel vs gas engine maintenance,' 'when to get an oil change,' 'signs you need brake work.'",
+        "Create dedicated diesel repair landing page — this is your differentiator.",
+        "Set up Facebook page with shop photos, team introductions, and customer stories.",
+        "Claim all directory listings (Yelp, Angi, HomeAdvisor) with consistent info.",
+        "Launch review solicitation — QR codes, follow-up texts to maintain 4.9 rating on Google."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "City-specific landing pages: auto repair Paradise, Chico, Gridley.",
+        "Google Ads for diesel repair keywords (low competition, high value).",
+        "Video content: shop tour, meet the team, common repair explainers.",
+        "Monthly reporting on traffic, leads, and search rankings."
+      ]
+    }
+  ],
+  "pricingIntro": "Since Lakeside Auto & Diesel Repair needs a website built from scratch, our packages include the full website build along with ongoing SEO and marketing to ensure it generates leads from day one.",
+  "pricingTiers": [
+    {
+      "name": "LAUNCH",
+      "price": "$650/mo",
+      "recommended": false,
+      "features": [
+        "5-page website build",
+        "Mobile responsive design",
+        "Basic SEO optimization",
+        "Google Business Profile setup",
+        "Contact form & click-to-call",
+        "SSL & hosting included",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Launch, plus:",
+        "Full SEO strategy",
+        "Diesel repair specialty page",
+        "Blog content (2 posts/month)",
+        "Social media setup",
+        "Directory listings",
+        "Review solicitation system"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Advanced analytics dashboard",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work."
+  ],
+  "nextSteps": [
+    "I'd love to show you what a professional website could do for Lakeside Auto & Diesel. No obligation — just a look at what the opportunity is.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "With 4.9 stars and 25+ years of reputation, you've earned the trust. A website would let that reputation work for you 24/7."
+  ]
+}

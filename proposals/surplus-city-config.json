@@ -1,0 +1,139 @@
+{
+  "businessName": "Surplus City's Fabrication Manufacturing & Welding",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Surplus City's Fabrication Manufacturing & Welding has been serving Oroville from Pacific Heights Road for years — but without a website, email, or any online presence you control, you're essentially invisible to anyone who doesn't already know you exist.",
+    "The fabrication and welding market in Butte County is growing, especially with Paradise's ongoing rebuild creating demand for custom metalwork, structural fabrication, and specialty welding. Customers searching for these services online are finding competitors who have invested in their digital presence.",
+    "A basic website and Google Business Profile optimization would immediately start capturing leads that are currently going to competitors. As one of the few full-service fabrication shops in Oroville, you have a unique position — you just need to be findable online."
+  ],
+  "assessment": [
+    {
+      "title": "Current Digital Presence",
+      "points": [
+        "NO website exists — completely absent from search engines.",
+        "NO public email address — customers can only reach you by phone or in person.",
+        "Yelp listing exists but you likely don't manage it — no owner responses, limited info.",
+        "No social media presence found — no Facebook, Instagram, or YouTube.",
+        "Business hours (Mon-Sat 8-5) and address (4514 Pacific Heights Rd) only found on third-party directories.",
+        "Phone number (530) 534-1454 is your only online contact point."
+      ]
+    },
+    {
+      "title": "Market Opportunity",
+      "points": [
+        "Searching 'welding Oroville CA' or 'metal fabrication Oroville' returns directory listings — no individual shop websites dominate.",
+        "Paradise rebuild continues to drive demand for fabrication, structural welding, and custom metalwork.",
+        "Fox Welding is mentioned on Yelp for custom vehicle cages — they're getting visibility you should have.",
+        "The surplus/supply side of your business could drive additional online traffic — people searching for materials and fabrication in one place.",
+        "'Fabrication manufacturing' is a broad keyword that could capture commercial and industrial leads beyond just consumer work."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Fox Welding (Oroville) appears in local Yelp searches for custom fabrication work.",
+        "Ken's Paradise Hitch & Welding has a domain (currently down) and 59 reviews — but they're offline.",
+        "WeldWright Mobile Welding and Thomas Welding & Machine serve the Chico market.",
+        "Gerlinger Steel & Supply is a materials competitor in the region.",
+        "Most welding/fabrication shops in the area have minimal or no web presence — low barrier to becoming the online leader."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website", "finding": "NO website — zero online presence", "priority": "High", "status": "Critical" },
+    { "area": "Email", "finding": "No email — limits customer communication to phone only", "priority": "High", "status": "Critical" },
+    { "area": "Search Visibility", "finding": "Not appearing in any local search results for welding/fabrication", "priority": "High", "status": "Missing" },
+    { "area": "Directory Listings", "finding": "Yelp listing exists but unmanaged", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Social Media", "finding": "No social presence to showcase fabrication work", "priority": "Medium", "status": "Missing" },
+    { "area": "Rebuild Demand", "finding": "Paradise rebuild driving fabrication demand — not being captured", "priority": "Medium", "status": "Missed Opportunity" },
+    { "area": "Dual Business", "finding": "Surplus supply + fabrication combo not marketed as differentiator", "priority": "Medium", "status": "Underutilized" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Get Online (Months 1-2)",
+      "actions": [
+        "Build professional website: Home, Fabrication Services, Surplus/Supply, Gallery, Contact.",
+        "Set up branded email and domain.",
+        "SEO targeting: 'welding Oroville CA,' 'metal fabrication Butte County,' 'custom welding near me.'",
+        "Claim and optimize Google Business Profile with service categories, photos, and hours.",
+        "Add LocalBusiness schema markup for Google Maps.",
+        "Mobile-first design with click-to-call and contact form."
+      ]
+    },
+    {
+      "title": "Phase 2: Build Visibility (Months 3-5)",
+      "actions": [
+        "Launch Instagram/Facebook with fabrication project photos — welding is highly visual content.",
+        "Blog content: 'types of welding services,' 'custom fabrication vs off-the-shelf,' 'materials guide.'",
+        "Claim Yelp listing and respond to all reviews.",
+        "Create pages targeting Paradise rebuild keywords: structural welding, steel fabrication, custom metalwork.",
+        "Directory listings on all relevant platforms."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "City-specific landing pages for Chico, Paradise, Gridley.",
+        "Google Ads for fabrication and welding keywords.",
+        "Video content of fabrication projects for YouTube.",
+        "Monthly reporting on traffic, leads, and search rankings."
+      ]
+    }
+  ],
+  "pricingIntro": "Surplus City's needs a complete digital foundation — website, email, and online visibility. Our packages include everything needed to go from invisible to findable.",
+  "pricingTiers": [
+    {
+      "name": "LAUNCH",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "5-page website build",
+        "Branded email setup",
+        "Basic SEO optimization",
+        "Google Business Profile",
+        "Click-to-call & contact form",
+        "SSL & hosting included",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,000/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Launch, plus:",
+        "Full SEO strategy",
+        "Blog content (2 posts/month)",
+        "Social media setup (Instagram/FB)",
+        "Project photo gallery",
+        "Directory listings",
+        "Yelp claim & management"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,700/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Advanced analytics",
+        "Competitor monitoring",
+        "Weekly reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads.",
+    "Our approach is data-first: we research your market, identify gaps, and build strategies that deliver real business outcomes.",
+    "We treat every client like a partner. Direct access, no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to show you what even a basic website could do for your business. No pressure — just a straightforward conversation.",
+    "Free 30-minute strategy call — (530) 786-3655.",
+    "The fabrication shops that get online first in this market will own the search results. Let's make sure that's you."
+  ]
+}

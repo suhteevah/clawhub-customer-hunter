@@ -1,0 +1,148 @@
+{
+  "businessName": "Apex HVAC",
+  "contactName": "Jesse",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "After conducting a thorough audit of Apex HVAC's digital presence, I found a business with a solid foundation — a well-designed website, strong brand partnerships (Samsung, Carrier, Rheem), and 25+ years of combined experience. You're ahead of most HVAC companies in Redding. But there are several gaps that are costing you organic traffic and leads.",
+    "The most significant finding: your website has zero blog content. In the HVAC industry, educational content drives massive search traffic — people searching 'how often should I change my HVAC filter Redding' or 'best time to replace furnace in Northern California' are pre-qualified leads who are currently going to competitors or generic content sites instead of apexhvac.co.",
+    "The good news: your technical foundation is strong (schema markup, SSL, responsive design, social links). The investment needed is primarily in content and SEO optimization — not a rebuild. This means you can see results faster and at lower cost than competitors starting from scratch."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — apexhvac.co",
+      "points": [
+        "Professional design with clear branding — significantly above average for local HVAC companies.",
+        "Page title and meta description are present and descriptive: 'Apex HVAC | Reliable Heating & Cooling in Redding, CA.'",
+        "Schema.org markup implemented (WebPage, Organization, BreadcrumbList) — gives you an edge in structured search results.",
+        "SSL/HTTPS active with responsive mobile design.",
+        "Facebook and Instagram linked in footer — social presence established.",
+        "NO blog or content marketing section — zero educational or informational content.",
+        "Service page descriptions are thin — 1-2 sentences each, competitors likely have 300+ word pages.",
+        "Image alt text missing or using placeholder values — hurting image search rankings and accessibility.",
+        "No FAQ schema markup on existing FAQ content — missing Google featured snippet opportunities.",
+        "Customer testimonials displayed but missing Review schema markup — Google can't pull star ratings into search results.",
+        "No visible NATE certification badges, licensing info, or warranty details on main pages."
+      ]
+    },
+    {
+      "title": "SEO & Search Visibility",
+      "points": [
+        "Strong for brand searches ('Apex HVAC Redding') but likely weak for commercial keywords ('HVAC repair Redding CA').",
+        "No long-tail keyword optimization — missing traffic from searches like 'furnace repair near me,' 'emergency AC service Redding,' 'heat pump installation cost.'",
+        "Internal linking between service pages is limited — site authority isn't flowing efficiently.",
+        "Competitor Dennis' Heating (since 1981) and Wallner Plumbing (since 1968) are established players with deeper content.",
+        "Voice search optimization absent — 'HVAC repair open now near me' queries aren't being captured."
+      ]
+    },
+    {
+      "title": "Competitive Landscape — Redding HVAC Market",
+      "points": [
+        "Wallner Plumbing, Heating & Air (since 1968) is the dominant established player with a comprehensive website.",
+        "Dennis' Heating & Air (since 1981) has family-owned branding similar to yours but more content depth.",
+        "Directory listings (Yelp, Rheem Pro Finder) currently outrank individual HVAC company websites for commercial keywords.",
+        "Your Samsung, Carrier, and Rheem partnerships are strong differentiators — but they need to be leveraged more visibly in content.",
+        "Content-rich HVAC sites nationally are stealing informational traffic that should be going to local providers like you."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Content", "finding": "Zero blog posts — missing all informational/educational search traffic", "priority": "High", "status": "Missing" },
+    { "area": "Service Pages", "finding": "Thin descriptions (1-2 sentences) — need 400+ words each for SEO", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image SEO", "finding": "Alt text missing/placeholder on most images", "priority": "High", "status": "Needs Fix" },
+    { "area": "FAQ Schema", "finding": "FAQ content exists but no schema markup for featured snippets", "priority": "High", "status": "Needs Fix" },
+    { "area": "Review Schema", "finding": "Testimonials shown but missing structured review markup", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Trust Signals", "finding": "NATE, licensing, warranty info not prominently displayed", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Internal Linking", "finding": "Limited contextual links between service pages", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Design/SSL", "finding": "Professional design, HTTPS, mobile responsive", "priority": "Low", "status": "Good" },
+    { "area": "Schema", "finding": "Organization and BreadcrumbList markup implemented", "priority": "Low", "status": "Good" },
+    { "area": "Social Media", "finding": "Facebook and Instagram linked and active", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Quick Wins (Months 1-2)",
+      "actions": [
+        "Expand all service page descriptions to 400+ words with location-specific keywords and problem-solution content.",
+        "Add descriptive alt text to every image across the site — 'technician installing Carrier furnace in Redding home.'",
+        "Implement FAQ schema markup on existing FAQ content for Google featured snippet eligibility.",
+        "Add Review schema markup to customer testimonials for star ratings in search results.",
+        "Display NATE certifications, licensing info, and warranty details prominently on service pages.",
+        "Improve internal linking — every service page should link to related services and the contact page."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Authority (Months 3-5)",
+      "actions": [
+        "Launch blog with 3-4 posts/month targeting high-intent keywords: 'when to replace HVAC system,' 'heat pump vs furnace Redding CA,' 'HVAC maintenance checklist Northern California.'",
+        "Create seasonal content calendar: summer AC prep, winter heating guides, spring maintenance tips.",
+        "Develop comparison content: 'Carrier vs Rheem,' 'mini-split vs central AC' — leveraging your brand partnerships.",
+        "Build local content: 'HVAC considerations for Redding's extreme heat,' 'energy efficiency rebates in Shasta County.'",
+        "Optimize for voice search with conversational long-tail keywords."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Domination (Months 6-12)",
+      "actions": [
+        "Create city-specific landing pages: Anderson, Cottonwood, Shasta Lake, Red Bluff HVAC services.",
+        "Launch Google Ads campaigns for emergency and high-intent keywords during peak seasons.",
+        "Develop video content: system installation walkthroughs, energy saving tips, brand comparisons.",
+        "Build local backlinks through Redding Chamber of Commerce and community sponsorships.",
+        "Monthly performance reporting with traffic, keyword rankings, and lead generation metrics."
+      ]
+    }
+  ],
+  "pricingIntro": "Apex HVAC already has a strong digital foundation. The investment here is about turning a good website into a lead generation machine by filling the content and SEO gaps that are currently leaving traffic on the table.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$700/mo",
+      "recommended": false,
+      "features": [
+        "Service page expansion & optimization",
+        "Image alt text optimization",
+        "FAQ & Review schema markup",
+        "Internal linking improvements",
+        "Trust signal placement",
+        "Monthly reporting",
+        "Google Business Profile optimization"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,300/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (3-4 posts/month)",
+        "Seasonal content calendar",
+        "Brand comparison content",
+        "Local/regional content pieces",
+        "Voice search optimization",
+        "Directory listing management"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$2,200/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Local link building",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes. We've worked with businesses across multiple industries including manufacturing, construction, and professional services.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to walk through these findings and discuss which approach makes the most sense for Apex HVAC. No obligation — just a data-driven conversation about where the opportunities are.",
+    "I'm offering a free 30-minute strategy call to dig into the specifics. Reach me at (530) 786-3655 or reply to this email.",
+    "Your website foundation is strong. The right content and SEO strategy would turn it from a digital brochure into a consistent lead generation engine. Let's make that happen."
+  ]
+}

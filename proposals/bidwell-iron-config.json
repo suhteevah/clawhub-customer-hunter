@@ -1,0 +1,146 @@
+{
+  "businessName": "Bidwell Iron Company",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Bidwell Iron Company has serious manufacturing capabilities -- a 6kW fiber laser, 5-axis CNC press brake, in-house welding, and powder coating through ATOMIC. That's equipment most shops in the region can't match. But nobody searching Google knows it, because your website isn't telling that story.",
+    "Your site runs on Shopify with an e-commerce store that has zero products listed, promotional banners with placeholder text ('Add the details of your promotion'), and a blog section with zero published posts. The contact page still has default Shopify template text and lists a different email domain (BidwellwoodandIron.com vs Bidwelliron.com). It's a storefront that was set up but never finished.",
+    "The core issue: there are no dedicated service pages. Someone searching 'laser cutting Chico CA' or 'custom metal fabrication Northern California' won't find you because those terms don't exist on separate, indexable pages. All your services are brief sections on the homepage. This is the single biggest fix that would change everything."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- bidwelliron.com",
+      "points": [
+        "Built on Shopify (Impulse theme v7.1.0) -- e-commerce infrastructure but no products listed.",
+        "HTTPS active via Shopify SSL -- baseline security covered.",
+        "Branded email (Mail@Bidwelliron.com) -- professional signal.",
+        "Shopify analytics (Trekkie library) installed but no Google Analytics (GA4) or Search Console.",
+        "Age verification gate active (18+ confirmation) with no apparent reason for a fabrication shop.",
+        "Contact page has default Shopify placeholder text still live.",
+        "Email inconsistency: contact page shows Mail@BidwellwoodandIron.com vs primary Mail@Bidwelliron.com."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Zero schema markup -- no LocalBusiness, Organization, Product, or FAQ structured data.",
+        "No meta descriptions or optimized title tags on any page.",
+        "Blog/news section exists but has zero published posts.",
+        "No dedicated service pages -- laser cutting, press brake, welding, powder coating all on homepage only.",
+        "No image alt text on any image -- equipment photos, project images all invisible to search.",
+        "No social media links anywhere on the site.",
+        "No customer reviews or testimonials.",
+        "No FAQ section."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Chico sheet metal fabrication market has low online competition -- first mover advantage is significant.",
+        "Double Diamond Steel is a nearby competitor with a similar online gap -- whoever invests in SEO first wins.",
+        "Your equipment capabilities (6kW fiber laser, 5-axis CNC) are major differentiators that should be front and center.",
+        "ATOMIC Powder Coating sister brand is an untapped cross-promotion opportunity."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Service Pages", "finding": "No dedicated pages for laser cutting, press brake, welding, or powder coating", "priority": "High", "status": "Critical" },
+    { "area": "Schema", "finding": "Zero structured data -- no LocalBusiness, Organization, or Service schema", "priority": "High", "status": "Missing" },
+    { "area": "Meta SEO", "finding": "No meta descriptions or optimized title tags on any page", "priority": "High", "status": "Missing" },
+    { "area": "Content", "finding": "Blog exists with zero posts -- no content marketing at all", "priority": "High", "status": "Missing" },
+    { "area": "E-Commerce", "finding": "Shopify store set up with zero products, placeholder promotional text still live", "priority": "High", "status": "Needs Fix" },
+    { "area": "Contact Page", "finding": "Default Shopify placeholder text and inconsistent email domains", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Image SEO", "finding": "No alt text on any image -- equipment and project photos invisible to search", "priority": "Medium", "status": "Missing" },
+    { "area": "Social", "finding": "Zero social media links or profiles linked from site", "priority": "Medium", "status": "Missing" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Build the Foundation (Months 1-2)",
+      "actions": [
+        "Create dedicated service pages: Laser Cutting, CNC Press Brake Forming, Welding, Powder Coating (ATOMIC), Contract Manufacturing -- each with 500+ words.",
+        "Implement LocalBusiness and Organization schema with NAP data, hours, and equipment details.",
+        "Write optimized meta titles and descriptions for every page.",
+        "Clean up contact page -- remove placeholder text, fix email domain inconsistency.",
+        "Add descriptive alt text to all images -- equipment photos, project images.",
+        "Remove age verification gate or justify its presence.",
+        "Decide: build out Shopify store or migrate to service-focused platform."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog with project showcases, capabilities features, and fabrication process content.",
+        "Set up Google Analytics 4 and Google Search Console.",
+        "Create service area pages for Chico, Oroville, Red Bluff, Northern California.",
+        "Set up social media profiles -- Instagram for project photos, Facebook for community.",
+        "Cross-promote ATOMIC Powder Coating with shared content and backlinks.",
+        "Build FAQ section with fabrication questions and FAQ schema."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting fabrication and manufacturing keywords.",
+        "Video content: laser cutting in action, press brake forming, project timelapses.",
+        "Email marketing to existing customers for repeat orders and referrals.",
+        "Monthly reporting on traffic, rankings, and lead generation.",
+        "Competitor monitoring to maintain search advantage."
+      ]
+    }
+  ],
+  "pricingIntro": "Bidwell Iron has world-class equipment sitting behind a website that's essentially a placeholder. Dedicated service pages, schema markup, and a content strategy would transform this from a digital business card into a lead generation machine.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Dedicated service pages (5+)",
+        "Schema markup implementation",
+        "Meta tags & on-page SEO",
+        "Contact page cleanup",
+        "Image alt text optimization",
+        "Google Analytics setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Service area landing pages",
+        "Social media setup",
+        "FAQ section with schema",
+        "ATOMIC cross-promotion",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "E-commerce optimization",
+        "Email marketing setup",
+        "Advanced analytics",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "You have equipment that most shops in the region can't match. Your website should reflect that. The fixes are straightforward -- dedicated service pages, schema, content -- and the competitive landscape means fast results.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "A 6kW fiber laser deserves more than a placeholder Shopify page. Let's build something that matches what's in your shop."
+  ]
+}

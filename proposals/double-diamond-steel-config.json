@@ -1,0 +1,145 @@
+{
+  "businessName": "Double Diamond Steel",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Double Diamond Steel has a solid Squarespace website with some smart fundamentals in place -- LocalBusiness schema, Google Analytics, branded email, and Facebook Pixel. You clearly understand the value of a digital presence. But the site itself is barely scratching the surface of what it could do for you.",
+    "The biggest issue: you have 9 services (Steel Sales, Press Brake, Plasma Cutting, Metal Fabrication, Custom Metal Art, Metal Shearing, Nuts and Bolts, Welding Supplies, Local Delivery) but they're all crammed onto the homepage as 1-3 sentence cards. Google can't rank you for 'plasma cutting Chico CA' or 'custom metal fabrication Northern California' because those terms don't exist on dedicated, indexable pages.",
+    "On top of that, your sitemap shows 8 total pages -- and 2 of them are literally named 'New Page' and 'New Page 2.' There's zero blog content, no image alt text anywhere on the site, and no customer reviews or testimonials. Your 70-mile delivery radius is a content goldmine for geo-targeted service pages that don't exist yet."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- doublediamondsteel.com",
+      "points": [
+        "Built on Squarespace -- responsive, modern framework with CDN and minified assets. Good technical foundation.",
+        "LocalBusiness, Organization, and WebSite schema markup implemented -- better than most local competitors.",
+        "Google Analytics (GA4) and Google Tag Manager installed -- someone is aware of tracking needs.",
+        "Facebook Pixel active -- indicates prior interest in paid social advertising.",
+        "Only 8 total pages in sitemap -- 2 are placeholder pages named 'New Page' and 'New Page 2' that are publicly indexed.",
+        "9 services displayed as brief cards on homepage (1-3 sentences each) -- no dedicated service pages.",
+        "Zero image alt text across the entire site -- invisible to Google Image Search.",
+        "Using branded email (office@doublediamondsteel.com) -- positive signal for digital maturity."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Zero blog content -- no project showcases, fabrication guides, or material comparisons.",
+        "No FAQ section or FAQ schema -- missing easy wins for rich snippets.",
+        "No customer reviews or testimonials anywhere on the site.",
+        "Homepage meta description is vague: 'Chico's finest retailer in steel' -- no service keywords included.",
+        "Custom Metal Art page is primarily a gallery with minimal descriptive text.",
+        "No Google Maps embed on contact page despite having a physical location.",
+        "No click-to-call optimization for mobile users."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Chico's steel fabrication market has relatively low online competition -- first mover advantage is available.",
+        "Your 70-mile delivery radius covers Chico, Paradise, Oroville, Red Bluff, and surrounding areas -- each city needs a landing page.",
+        "Custom Metal Art is a unique differentiator that could drive social media engagement and image search traffic.",
+        "Most competitors in the fabrication space have minimal or no web presence -- proper SEO would dominate local search quickly."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Site Structure", "finding": "9 services crammed onto homepage with 1-3 sentences each -- no dedicated service pages", "priority": "High", "status": "Critical" },
+    { "area": "Content", "finding": "Zero blog content, no project showcases or fabrication guides", "priority": "High", "status": "Missing" },
+    { "area": "Image SEO", "finding": "No alt text on any image sitewide -- invisible to Google Image Search", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "No testimonials, no Google Reviews integration, no social proof", "priority": "High", "status": "Missing" },
+    { "area": "Meta SEO", "finding": "Homepage meta description is generic -- no service or location keywords", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "FAQ", "finding": "No FAQ section or FAQ schema -- missing rich snippet opportunities", "priority": "Medium", "status": "Missing" },
+    { "area": "Placeholder Pages", "finding": "'New Page' and 'New Page 2' are indexed -- unprofessional and wasting crawl budget", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Schema", "finding": "LocalBusiness schema present via Squarespace defaults -- good foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Build Service Pages & Fix Fundamentals (Months 1-2)",
+      "actions": [
+        "Create dedicated service pages for each offering: Steel Sales, Press Brake, Plasma Cutting, Metal Fabrication, Custom Metal Art, Metal Shearing, Welding Supplies, Local Delivery -- each with 500+ words targeting local keywords.",
+        "Write optimized meta titles and descriptions for every page targeting 'steel fabrication Chico CA,' 'plasma cutting Northern California,' etc.",
+        "Add descriptive, keyword-rich alt text to every image on the site.",
+        "Remove or build out placeholder pages ('New Page' and 'New Page 2').",
+        "Add customer testimonials and Google review integration.",
+        "Build an FAQ section with 10+ questions and FAQ schema markup.",
+        "Add Google Maps embed and click-to-call on contact page."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog with 2-4 posts/month: project showcases, fabrication process guides, material comparisons, custom metal art features.",
+        "Create service area landing pages for each city within 70-mile delivery radius (Chico, Paradise, Oroville, Red Bluff, Corning).",
+        "Set up Google review solicitation strategy -- QR codes on invoices, follow-up emails after projects.",
+        "Claim and optimize directory listings on Yelp, BBB, and industry directories.",
+        "Leverage Custom Metal Art for Instagram content and Google Image Search optimization."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Paid Channels (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent fabrication and steel keywords.",
+        "Video content: fabrication process timelapses, custom art creation, equipment in action.",
+        "Email marketing to existing customers for repeat orders and referrals.",
+        "Monthly reporting on traffic, rankings, and lead generation.",
+        "Competitor monitoring to maintain search advantage."
+      ]
+    }
+  ],
+  "pricingIntro": "Double Diamond Steel has a solid Squarespace foundation with analytics and schema already in place -- it needs dedicated service pages, content depth, and a growth strategy to start generating organic leads from Google.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Dedicated service page creation",
+        "Meta tags & on-page SEO",
+        "Image alt text optimization",
+        "FAQ section with schema",
+        "Google review integration",
+        "Placeholder page cleanup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Service area landing pages",
+        "Directory listings & review strategy",
+        "Social media optimization",
+        "Custom Metal Art content strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Advanced analytics dashboard",
+        "Weekly performance reports",
+        "Facebook/Instagram ad campaigns"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to walk you through these findings. You've already invested in the right foundation -- analytics, schema, branded email. The next step is building service pages that actually let Google rank you for the work you do.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Steel fabrication is a visual, high-value trade. With the right content strategy, Double Diamond could own local search in the Chico area. Let's make that happen."
+  ]
+}

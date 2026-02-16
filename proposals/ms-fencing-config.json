@@ -1,0 +1,145 @@
+{
+  "businessName": "M&S Fencing LLC",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "M&S Fencing has one of the better contractor websites I've audited -- 32 pages, proper schema markup, branded email, service area pages, an online booking system, and 37 five-star testimonials. You clearly invested in building a professional web presence. But there are specific gaps preventing it from reaching its full potential.",
+    "The biggest missed opportunity: you have 37 five-star reviews on your site, but Google can't see them as reviews because individual Review schema markup isn't implemented. Adding AggregateRating schema could unlock gold stars in search results, which typically increase click-through rates by 20-30%. That's free traffic you're leaving on the table.",
+    "The other critical gap: zero blog content. You have a beautiful brochure site, but no content marketing engine. You're capturing people who already know they want a fence contractor in Yuba City -- but missing the much larger audience researching fencing decisions. A competitor who starts publishing content could leapfrog you within 6-12 months."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- mandsfencingllc.com",
+      "points": [
+        "32-page site with excellent hierarchy -- residential, commercial, service area, resource pages.",
+        "HomeAndConstructionBusiness and LocalBusiness schema markup implemented.",
+        "Branded email (contact@msfences.com) -- professional and credible.",
+        "Online booking via Jobber integration -- modern customer experience.",
+        "37 five-star testimonials with credibility disclaimers -- strong social proof.",
+        "American Fence Association (AFA) and Fence Workers Association (FWA) memberships displayed.",
+        "Heavy jQuery + Bootstrap + multiple plugin stack -- likely slow Core Web Vitals scores.",
+        "No blog or content marketing section -- zero informational keyword capture."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Zero blog posts -- missing top-of-funnel content like 'best fence material for hot weather' or 'fence permit requirements Yuba City.'",
+        "37 testimonials lack individual Review schema -- Google can't display star ratings in SERPs.",
+        "Homepage missing meta description -- Google auto-generates your search snippet.",
+        "Gridley service area page has a copy-paste error: 'About Golusa' instead of 'About Gridley.'",
+        "Service area pages are partially templated with city-name swaps -- Google devalues this pattern.",
+        "No FAQ schema on FAQ accordion sections that appear on service pages.",
+        "Images on several pages missing alt text attributes."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Yuba City fencing market has moderate competition -- but few competitors are investing in content marketing.",
+        "Your AFA membership and 37+ reviews are strong differentiators most competitors can't match.",
+        "M&M Fence, Campbell Fence, and others in the area have weaker websites -- you have a head start.",
+        "First mover advantage for content marketing is available -- whoever starts blogging first wins long-term."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Content", "finding": "Zero blog content -- missing 70%+ of fence-related searches that are informational", "priority": "High", "status": "Critical" },
+    { "area": "Review Schema", "finding": "37 five-star reviews without Review/AggregateRating schema -- no star ratings in Google", "priority": "High", "status": "Missing" },
+    { "area": "Page Speed", "finding": "Heavy jQuery + Bootstrap + multiple plugins -- likely poor Core Web Vitals on mobile", "priority": "High", "status": "Needs Fix" },
+    { "area": "Meta SEO", "finding": "Homepage and key service pages missing meta descriptions", "priority": "High", "status": "Missing" },
+    { "area": "FAQ Schema", "finding": "FAQ accordion content on 6+ pages but no FAQPage schema deployed", "priority": "Medium", "status": "Missing" },
+    { "area": "Location Pages", "finding": "Service area pages are thin/templated -- Gridley page says 'About Golusa'", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Image SEO", "finding": "Some pages missing image alt text -- accessibility and SEO gap", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Schema", "finding": "HomeAndConstructionBusiness schema present -- good foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Quick Wins & Technical Fixes (Months 1-2)",
+      "actions": [
+        "Implement Review and AggregateRating schema on testimonials page -- unlock star ratings in Google.",
+        "Add FAQPage schema to all pages with FAQ accordion content.",
+        "Write meta descriptions for homepage and all key service/location pages.",
+        "Fix Gridley page 'About Golusa' copy-paste error.",
+        "Add unique, location-specific content to service area pages (replace templated text).",
+        "Fix missing image alt text across the site.",
+        "Optimize page speed -- audit JavaScript payload and reduce unnecessary plugins."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Marketing Launch (Months 3-5)",
+      "actions": [
+        "Launch blog with 2-4 posts/month: 'Best fence materials for Sacramento Valley climate,' 'Fence permit requirements in Yuba City,' 'Wood vs vinyl fence comparison.'",
+        "Create additional service area pages for Marysville, Plumas Lake, Wheatland, Olivehurst.",
+        "Build pricing guide page targeting 'fence installation cost Yuba City' searches.",
+        "Set up YouTube/TikTok for fence installation videos.",
+        "Implement automated Google review solicitation after each project."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Domination (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent fencing keywords during peak season.",
+        "Video content: installation timelapses, material comparisons, customer testimonial videos.",
+        "Email marketing to past customers for referral incentives and seasonal maintenance.",
+        "Monthly reporting on traffic, rankings, and lead generation.",
+        "Competitor monitoring to maintain search advantage."
+      ]
+    }
+  ],
+  "pricingIntro": "M&S Fencing has the strongest foundation of any fence contractor website I've seen in this market. The fixes are targeted and specific -- unlock your existing reviews with schema, add a content engine, and tighten up the technical SEO.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Review & FAQ schema implementation",
+        "Meta descriptions for all pages",
+        "Location page content improvements",
+        "Image alt text optimization",
+        "Page speed audit & fixes",
+        "Copy-paste error corrections",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Additional service area pages",
+        "Pricing guide page",
+        "Video content strategy",
+        "Review solicitation system",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Advanced analytics dashboard",
+        "Social media management",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Your site is already better than most fence contractor websites. The fixes I'm recommending are about going from good to dominant -- unlocking the reviews you already have, adding the content layer that captures research-phase customers, and tightening up the technical details.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "The fence market in Yuba-Sutter is yours to lose. Let's lock it down."
+  ]
+}

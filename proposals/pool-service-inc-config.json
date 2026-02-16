@@ -1,0 +1,148 @@
+{
+  "businessName": "Pool Service, Inc.",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Pool Service, Inc. has been serving Yuba City and the surrounding communities since 1969 — that's over 55 years of trusted service, backed by a BBB A+ rating. That kind of longevity is rare and valuable. But your website doesn't reflect the strength of your business.",
+    "Your site at poolservice95.com is only 4 pages total — Home, Services, Gallery, and Contact. Every service you offer is crammed onto a single page. There are no meta descriptions, no schema markup, no blog content, and the only 'blog post' is the default WordPress 'Hello World' from 2019. When someone searches 'pool service Yuba City' or 'pool pump repair Marysville,' you're invisible to Google.",
+    "The good news: because you already have WordPress and a domain, the improvements don't require starting over. Adding service-specific pages, basic SEO, and a content strategy would put you ahead of most pool service competitors in the Sacramento Valley — most of whom aren't investing in SEO either."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — poolservice95.com",
+      "points": [
+        "Only 4 pages total — Home, Services, Gallery, Contact. This is critically thin for SEO.",
+        "ALL services (cleaning, repair, surfacing, seasonal) are on a single Services page with roughly 350 words — each service should have its own dedicated page.",
+        "No meta descriptions on any page — Google auto-generates your search snippets.",
+        "Built on WordPress with Divi theme — Divi is notoriously heavy and slow on mobile without optimization.",
+        "Gallery has 18 images with zero alt text and generic filenames like '258s.jpg' — invisible to Google Image search.",
+        "Only blog post is the default 'Hello World' from June 2019 — zero content marketing.",
+        "Using Yahoo email (poolservice95@yahoo.com) instead of branded email (info@poolservice95.com).",
+        "Contact form uses basic math CAPTCHA instead of reCAPTCHA — less secure and more friction.",
+        "No Google Maps embed on contact page — common trust signal for local businesses."
+      ]
+    },
+    {
+      "title": "SEO & Technical Issues",
+      "points": [
+        "No schema markup detected — no LocalBusiness, Service, FAQ, or Review structured data.",
+        "No FAQ section anywhere on the site — missing easy long-tail keyword opportunities.",
+        "No social media links — no Facebook, Instagram, Yelp, or Google Business Profile integration.",
+        "No review or testimonial integration despite 55+ years of customers.",
+        "BBB A+ badge is present but not leveraged with structured data.",
+        "No click-to-call markup detected — mobile users can't tap to call easily.",
+        "No online scheduling or booking system — modern customers expect self-serve booking."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Pool Service Inc. in Yuba City faces competition from Chico-based companies like Holiday Pools, Emerald Pools (20+ years), and Executive Pool & Spa (since 1984).",
+        "Sunshine Pools of Chico has been in business 47 years with strong brand recognition.",
+        "Clear Choice Pool Service has 19 Yelp reviews and strong local visibility despite also having a weak website.",
+        "Most competitors have basic websites but few are investing in SEO — first mover advantage is available.",
+        "Your 55+ year legacy and BBB A+ rating are powerful differentiators that aren't being used online."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Site Structure", "finding": "Only 4 pages total — all services on one page, impossible to rank for specific keywords", "priority": "High", "status": "Critical" },
+    { "area": "Content", "finding": "Zero blog content — only a default 'Hello World' post from 2019", "priority": "High", "status": "Critical" },
+    { "area": "Schema Markup", "finding": "No LocalBusiness, Service, FAQ, or Review structured data", "priority": "High", "status": "Missing" },
+    { "area": "Meta SEO", "finding": "No meta descriptions on any page — Google controls your search appearance", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "55+ years of customers but zero testimonials or reviews displayed on site", "priority": "High", "status": "Missing" },
+    { "area": "Images", "finding": "18 gallery images with no alt text and generic filenames", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Email", "finding": "Yahoo email instead of branded — undermines 55-year business credibility", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "SSL/Mobile", "finding": "HTTPS active, basic mobile responsiveness via Divi theme", "priority": "Low", "status": "Adequate" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix the Foundation (Months 1-2)",
+      "actions": [
+        "Create dedicated service pages: Weekly Pool Cleaning, Pool Pump Repair, Pool Resurfacing, Seasonal Opening/Closing, Equipment Installation — each with 500+ words of optimized content.",
+        "Write meta titles and descriptions for every page targeting 'pool service Yuba City,' 'pool repair Marysville,' 'pool maintenance Gridley CA.'",
+        "Implement LocalBusiness and Service schema markup for rich Google results.",
+        "Set up branded email (info@poolservice95.com) to replace Yahoo address.",
+        "Optimize Google Business Profile with updated photos, service categories, and hours.",
+        "Add customer testimonials and Google review integration to the website.",
+        "Fix all gallery image alt text with descriptive, keyword-rich descriptions."
+      ]
+    },
+    {
+      "title": "Phase 2: Build Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog with seasonal pool care content: 'When to open your pool in Northern California,' 'Pool maintenance checklist for Yuba City homeowners,' 'How to spot a failing pool pump.'",
+        "Create service area pages for each community: Yuba City, Marysville, Colusa, Gridley, Live Oak, Williams.",
+        "Build FAQ section with 15+ common pool questions — target FAQ schema rich results.",
+        "Set up Facebook and Instagram pages with before/after pool photos.",
+        "Claim and optimize directory listings on Yelp, Angi, HomeAdvisor with consistent NAP data.",
+        "Implement Google review solicitation — QR codes on invoices, follow-up texts."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "Google Ads for high-intent keywords during peak pool season (April-September).",
+        "Video content: pool transformations, equipment demos, seasonal maintenance tips.",
+        "Email marketing to existing customers for seasonal reminders and referral incentives.",
+        "Divi theme optimization or migration for faster page load speeds.",
+        "Monthly reporting on traffic, rankings, lead generation, and review growth."
+      ]
+    }
+  ],
+  "pricingIntro": "Pool Service, Inc. has a WordPress foundation to build on — it needs more pages, better SEO, and a content strategy to start generating online leads. Our packages cover everything from technical fixes to ongoing marketing.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$550/mo",
+      "recommended": false,
+      "features": [
+        "5 new service pages",
+        "Meta tags & on-page SEO",
+        "Google Business Profile optimization",
+        "Branded email setup",
+        "Image alt text optimization",
+        "Review integration",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$950/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2 posts/month)",
+        "Service area landing pages",
+        "FAQ section with schema",
+        "Social media setup",
+        "Directory listings",
+        "Review solicitation system"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,600/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Page speed optimization",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to show you what even basic SEO improvements could do for Pool Service, Inc. No pressure — just a look at the opportunity you're sitting on after 55 years of building trust.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Pool season is around the corner. The companies investing in their online presence now will be the ones getting calls when temperatures hit triple digits. Let's make sure Pool Service, Inc. is at the top of that list."
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "businessName": "McMillan Tree Service",
+  "contactName": "Scott McMillan",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Scott, your credentials speak for themselves — ISA Certified Arborist, CA Licensed Contractor (#756946), 30+ years of experience, and 45 years living in Butte County. You know trees better than almost anyone in the region. But your website isn't telling that story effectively.",
+    "After auditing mcmillantreeservice.com, I found several issues that are actively costing you leads. The most striking: your trimming/pruning page still has placeholder stock images of concrete walls and abstract paintings, plus template team bios (Esther Bryce, Jaden Smith) that were never replaced. There's also a typo in your URL — 'butte-country' instead of 'butte-county' — which is hurting your rankings for the exact local keyword you need most.",
+    "The framework is there — you're on Astro (fast), you have a sitemap, HTTPS is active, and you have 11 pages including dedicated service pages. But the content is thin (350-650 words per page), there's zero blog content, no FAQ section, no LocalBusiness schema, and your Yahoo email doesn't match the professionalism of your ISA certification. These are all fixable without a rebuild."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — mcmillantreeservice.com",
+      "points": [
+        "Built on Astro framework — fast, modern technology choice. Good foundation.",
+        "11 total pages including dedicated service pages — better structure than many competitors.",
+        "HTTPS active with proper sitemap.xml and robots.txt — technical basics covered.",
+        "Placeholder stock images on trimming page — concrete walls, abstract paintings, fake team bios (Esther Bryce, Jaden Smith). This damages credibility immediately.",
+        "URL typo: '/tree-trimming-and-pruning-butte-country' — 'country' instead of 'county.' This is indexed and hurting local SEO rankings.",
+        "Trailing hyphen in consultations URL — minor but sloppy URL hygiene.",
+        "Using Yahoo email (scott_mcmlln@yahoo.com) — doesn't match ISA Certified Arborist credibility.",
+        "Contact form missing phone number field — tree service customers want callbacks, not email threads."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Zero blog content — in fire-prone Butte County, topics like defensible space, storm prep, and tree health are keyword goldmines.",
+        "Service pages average only 350-650 words — Google rewards depth and expertise. These should be 800-1500+ words.",
+        "No LocalBusiness schema — Google has no structured data about your business name, address, hours, or service area.",
+        "No FAQ section anywhere — missing rich snippet opportunities and long-tail keyword targeting.",
+        "No physical address displayed on contact page — hurts NAP consistency for local SEO.",
+        "No Google Maps embed on contact page — common trust signal for local service businesses.",
+        "No business hours listed anywhere on the site.",
+        "Image alt text missing on virtually every image — accessibility and SEO issue."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Crossfire Tree (25+ years) has a stronger website with LocalBusiness schema, proper CTAs, and more content depth.",
+        "Camp Fire recovery has created sustained demand for tree and vegetation management services in Paradise and Butte County.",
+        "Most competitors aren't blogging or running content marketing — first mover advantage is wide open.",
+        "Your ISA certification is a major differentiator that most competitors can't match — but it's barely visible online.",
+        "No ISA badge, no certification logos, no 'About Scott' page that properly showcases 30 years of expertise."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Content Quality", "finding": "Stock placeholder images and fake team bios on live service page — damages credibility", "priority": "High", "status": "Critical" },
+    { "area": "URL Structure", "finding": "Typo in URL: 'butte-country' instead of 'butte-county' — hurting local rankings", "priority": "High", "status": "Critical" },
+    { "area": "Blog/Content", "finding": "Zero blog content in a keyword-rich market (fire prep, tree care, defensible space)", "priority": "High", "status": "Missing" },
+    { "area": "Schema", "finding": "No LocalBusiness schema — Google has no structured business data", "priority": "High", "status": "Missing" },
+    { "area": "Email", "finding": "Yahoo email (scott_mcmlln@yahoo.com) instead of branded @mcmillantreeservice.com", "priority": "High", "status": "Needs Fix" },
+    { "area": "Page Depth", "finding": "Service pages average 350-650 words — too thin for competitive rankings", "priority": "Medium", "status": "Needs Growth" },
+    { "area": "Contact Info", "finding": "No address, no map, no hours on contact page — missing critical local SEO signals", "priority": "Medium", "status": "Missing" },
+    { "area": "Images", "finding": "No alt text on any image sitewide — accessibility and SEO gap", "priority": "Medium", "status": "Missing" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix Critical Issues (Months 1-2)",
+      "actions": [
+        "Replace all stock/placeholder images with real project photos. Remove fake team bios immediately.",
+        "Fix URL typo: redirect 'butte-country' to 'butte-county' with proper 301 redirect.",
+        "Implement LocalBusiness schema with full NAP data, service area, hours, and ISA certification.",
+        "Set up branded email (scott@mcmillantreeservice.com) to replace Yahoo address.",
+        "Add physical address, Google Maps embed, and business hours to contact page.",
+        "Add phone number field to contact form — tree customers want callbacks.",
+        "Expand service pages to 800-1500 words each with process details, safety info, and local context.",
+        "Add descriptive alt text to every image on the site."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog: 'Defensible space requirements in Butte County,' 'When to remove vs. trim a tree,' 'Storm damage prep for Northern California homeowners.'",
+        "Build FAQ section with 15+ questions and FAQ schema markup for rich results.",
+        "Create 'About Scott McMillan' page showcasing ISA certification, 30 years experience, volunteer firefighter background.",
+        "Create service area pages: tree service Chico, tree removal Paradise, tree trimming Oroville.",
+        "Set up Google review solicitation — QR codes on estimates, follow-up texts.",
+        "Claim directory listings on Yelp, Angi, BBB with consistent NAP data."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "Google Ads for emergency tree service and fire mitigation keywords.",
+        "Video content: tree removals, before/after projects, arborist tips.",
+        "City-specific landing pages for outlying service areas.",
+        "Monthly reporting on traffic, rankings, and lead generation.",
+        "Competitor monitoring to maintain search advantage."
+      ]
+    }
+  ],
+  "pricingIntro": "McMillan Tree Service has a modern technology foundation (Astro framework) but needs content depth, technical SEO fixes, and brand polish to match the quality of Scott's 30+ years of expertise. Our packages focus on fixing critical issues first, then building long-term visibility.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Critical fixes (placeholders, URL typo)",
+        "LocalBusiness schema setup",
+        "Meta tags & on-page SEO",
+        "Branded email setup",
+        "Contact page improvements",
+        "Image alt text optimization",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Service page expansion (800+ words)",
+        "Blog content (2-4 posts/month)",
+        "FAQ section with schema",
+        "Service area landing pages",
+        "Directory listings & review strategy",
+        "'About Scott' credibility page"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Competitor monitoring",
+        "Advanced analytics",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "Scott, I'd love to walk you through these findings. The placeholder content and URL typo are quick fixes that would immediately improve how your site looks to both customers and Google.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Your ISA certification and 30 years of experience deserve a website that matches. Let's make that happen."
+  ]
+}

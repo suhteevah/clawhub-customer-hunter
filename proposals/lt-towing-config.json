@@ -1,0 +1,145 @@
+{
+  "businessName": "L & T Towing & Truck Service",
+  "contactName": "Tyler",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Tyler, L & T Towing has been a family operation since 1987 -- 35+ years covering the I-5 corridor from Yuba City to Red Bluff with 4 physical locations. Your Webflow site has some real strengths: comprehensive LocalBusiness schema, 12 location-specific pages, 11 service pages, and clear 'I need a tow' / 'I need a repair' CTAs. The structural foundation is solid.",
+    "But there are specific issues holding it back. The most visible: your main H1 heading reads '24 hour emergency heaving towing' -- 'heaving' instead of 'heavy.' That's the single most important heading on your site and it has a spelling error. There's also inconsistent capitalization throughout ('WiTh,' 'CAlifornia') that looks unprofessional.",
+    "The bigger strategic gap: zero blog content and no FAQ sections anywhere. Towing is a business built on emergencies -- people search 'what to do if my truck breaks down on I-5' or 'heavy duty towing cost California' and find nothing from L & T. With 12 location pages and 11 service pages, you already have the structure. You just need the content layer on top."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- lttowing.com",
+      "points": [
+        "Built on Webflow -- responsive, modern framework with clean design.",
+        "Comprehensive LocalBusiness schema with OfferCatalog of 9 services -- best technical asset.",
+        "AggregateRating in schema: 4.7 stars, 5 reviews displayed on homepage.",
+        "12 location-specific pages covering the I-5 corridor from Yuba City to Red Bluff.",
+        "11 dedicated service pages -- light duty, heavy duty, specialty, RV, off-road recovery, etc.",
+        "Strong CTAs: 'I need a tow' and 'I need a repair' prominently placed.",
+        "Branded email (tyler@lttowing.com, dispatch@lttowing.com) -- professional.",
+        "H1 typo: 'heaving towing' instead of 'heavy towing' on main heading."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Zero blog content -- massive missed opportunity for I-5 corridor towing queries.",
+        "No FAQ sections on any page -- missing rich snippet opportunities for common towing questions.",
+        "Service pages are thin (400-500 words) with no FAQs, reviews, or detailed specifications.",
+        "Location pages are templated (650-700 words) with limited unique local content.",
+        "Missing meta descriptions on homepage and several service pages.",
+        "No social media links anywhere -- no Facebook, Instagram, Yelp, or Google Business links.",
+        "Image alt text missing on most images.",
+        "No Open Graph or Twitter Card meta tags -- social shares look generic."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Northern California I-5 corridor towing market has low online competition for content-driven SEO.",
+        "Your 4-location footprint gives you a geographic advantage most competitors can't match.",
+        "35+ year history and family story are trust signals that competitors can't replicate.",
+        "Heavy duty towing is a high-value service with commercial clients who search differently than roadside assistance."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Content", "finding": "Zero blog content -- missing informational queries for the I-5 corridor towing market", "priority": "High", "status": "Missing" },
+    { "area": "Meta SEO", "finding": "Missing meta descriptions on homepage and multiple service pages", "priority": "High", "status": "Missing" },
+    { "area": "FAQ", "finding": "No FAQ sections or FAQ schema on any page", "priority": "High", "status": "Missing" },
+    { "area": "Service Depth", "finding": "Service pages are thin (400-500 words) -- no FAQs, reviews, or specs", "priority": "High", "status": "Needs Growth" },
+    { "area": "Social Media", "finding": "No social media links anywhere on the site", "priority": "Medium", "status": "Missing" },
+    { "area": "Images", "finding": "Most images missing alt text -- SEO and accessibility gap", "priority": "Medium", "status": "Missing" },
+    { "area": "Typography", "finding": "H1 typo ('heaving' not 'heavy') and inconsistent heading capitalization", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Schema", "finding": "LocalBusiness with OfferCatalog and AggregateRating -- strong foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix & Expand Content (Months 1-2)",
+      "actions": [
+        "Fix H1 typo and all heading capitalization inconsistencies across the site.",
+        "Write meta descriptions for homepage and all service/location pages.",
+        "Expand service page content to 800+ words each with FAQs, process details, and equipment specs.",
+        "Add FAQ sections with FAQ schema to all location and service pages.",
+        "Fix image alt text across the site with descriptive, keyword-rich descriptions.",
+        "Add social media links -- set up and link Facebook, Instagram, Google Business Profile."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Marketing Launch (Months 3-5)",
+      "actions": [
+        "Launch blog targeting I-5 corridor queries: 'What to do after a breakdown on I-5,' 'Heavy duty towing costs in California,' 'RV towing safety tips.'",
+        "Add unique local content to location pages -- reference specific landmarks, roads, and commercial zones in each city.",
+        "Implement review solicitation strategy -- follow-up texts after service calls.",
+        "Create emergency-specific landing pages: '24 hour towing Willows CA,' 'Emergency tow truck I-5.'",
+        "Set up Google review integration to display reviews across service and location pages."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting emergency towing and commercial vehicle keywords.",
+        "Video content: recovery operations, equipment showcases, safety tips.",
+        "Email marketing to commercial fleet customers for maintenance reminders.",
+        "Monthly reporting on traffic, rankings, and lead generation.",
+        "Competitor monitoring to maintain I-5 corridor search dominance."
+      ]
+    }
+  ],
+  "pricingIntro": "L & T Towing has the structural foundation most towing companies don't -- schema, location pages, service pages, and a professional Webflow build. The next step is filling those pages with depth, fixing the technical details, and launching a content engine that captures the entire I-5 corridor.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "H1 fix & heading cleanup",
+        "Meta descriptions for all pages",
+        "Service page content expansion",
+        "FAQ sections with schema",
+        "Image alt text optimization",
+        "Social media setup & linking",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Emergency landing pages",
+        "Location page unique content",
+        "Review solicitation system",
+        "Google Business Profile optimization",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Fleet customer email marketing",
+        "Advanced analytics dashboard",
+        "Commercial fleet targeting",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Tyler, 35 years and 4 locations across the I-5 corridor is a powerful story. The website framework is already better than most towing companies -- it just needs content depth and the technical polish to match.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Whoever owns the search results for 'heavy duty towing I-5 California' owns the commercial towing market in your region. Let's make sure that's L & T."
+  ]
+}

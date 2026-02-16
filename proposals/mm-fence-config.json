@@ -1,0 +1,144 @@
+{
+  "businessName": "M&M Fence Company",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "After conducting a thorough analysis of M&M Fence Company's digital presence, I identified several opportunities that could significantly increase your visibility in the Northern California fencing market. As a company with 36+ years of trusted service from Yuba City to Redding, your reputation is strong — but your online presence isn't keeping pace with where your customers are actually searching.",
+    "The most critical finding: your website at mandmfence.net is missing fundamental SEO elements like meta descriptions, blog content, and social media integration. This means potential customers searching for 'fence company Chico CA' or 'fence installation Paradise CA' are finding your competitors first. Meanwhile, directory sites like Angi show you as 'new' with zero reviews — despite being in business since 1987.",
+    "The good news is that the fencing market in Northern California is highly underserved digitally. Most of your competitors aren't investing in SEO either, which means a targeted strategy could move you to the first page of Google local results within 30-60 days."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — mandmfence.net",
+      "points": [
+        "SSL certificate is present (HTTPS) — this is a positive baseline for trust and Google rankings.",
+        "Mobile responsive design is implemented with responsive images — critical since 60%+ of local searches happen on mobile.",
+        "Schema.org LocalBusiness markup is present — Google can identify you as a local business, which helps with Maps listings.",
+        "No meta description detected — Google is auto-generating your search snippet, which means you're not controlling how you appear in search results.",
+        "No blog or content marketing section — you're missing the opportunity to rank for long-tail keywords like 'best fence material for Northern California weather' or 'how much does fence installation cost in Chico.'",
+        "No social media links visible on the website — no connection to Facebook, Instagram, or other platforms where you could showcase project photos.",
+        "Testimonials section appears empty — social proof is one of the most powerful conversion tools and it's currently not working.",
+        "FAQ section has only 2 questions — expanding this to 10-15 FAQs would capture significant search traffic from people asking fencing questions.",
+        "Using Yahoo email (mandmfence@yahoo.com) instead of branded email (e.g., info@mandmfence.net) — this reduces perceived professionalism."
+      ]
+    },
+    {
+      "title": "SEO Visibility & Search Rankings",
+      "points": [
+        "Searching 'fence company Chico CA' returns Angi, BBB, Houzz, and HomeAdvisor directory listings before individual fence companies — you need to outrank these aggregators.",
+        "Campbell Fence in Oroville and Northern California Fence are competing for the same regional keywords.",
+        "Your Google Business Profile needs optimization — service areas should list each city individually (Chico, Paradise, Oroville, Orland, Corning, Los Molinos, Yuba City, Redding) rather than vaguely saying 'Yuba City to Redding.'",
+        "No evidence of Google Reviews being actively solicited — a strong review count on Google Maps is the single biggest factor in local pack rankings.",
+        "Angi shows you as having zero reviews on their platform despite 36 years of operation — this is a major missed opportunity."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Campbell Fence (Oroville) has BBB A+ rating and 20+ years but their website also has critical SEO issues — this creates an opening for you to leapfrog them digitally.",
+        "HomeAdvisor and Angi listings feature competitors like The Fence Man and Streamline Fencing — some with active review solicitation strategies.",
+        "National fence SEO companies like FenceWebs and FenceSEO.com are actively selling to fence companies in your area — if a competitor signs up, they'll dominate your market before you can react.",
+        "Most local fence competitors aren't blogging or running content marketing — first mover advantage is available right now."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta SEO", "finding": "No meta descriptions on any page — Google auto-generates your snippets", "priority": "High", "status": "Needs Fix" },
+    { "area": "Content", "finding": "No blog, minimal FAQ (2 questions), no educational content", "priority": "High", "status": "Missing" },
+    { "area": "Social Media", "finding": "No social media links on website, no visible social presence", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "Zero reviews on Angi despite 36 years of operation", "priority": "High", "status": "Needs Fix" },
+    { "area": "Email", "finding": "Using Yahoo email instead of branded domain email", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Testimonials", "finding": "Website testimonials section exists but appears empty", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Local SEO", "finding": "Service areas listed vaguely, not optimized for city-specific searches", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "SSL/Mobile", "finding": "HTTPS active, mobile responsive design in place", "priority": "Low", "status": "Good" },
+    { "area": "Schema", "finding": "LocalBusiness schema markup implemented", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Foundation (Months 1-2)",
+      "actions": [
+        "Write and implement meta titles and descriptions for every page on mandmfence.net, targeting location-specific keywords.",
+        "Set up branded email (e.g., info@mandmfence.net) and transition from Yahoo email.",
+        "Optimize Google Business Profile with individual city service areas, updated photos, service categories, and business description.",
+        "Launch a Google Review solicitation strategy — QR code on invoices, follow-up text messages after project completion.",
+        "Populate the testimonials section with existing customer feedback and project photos.",
+        "Expand FAQ section to 10-15 common fencing questions with detailed answers."
+      ]
+    },
+    {
+      "title": "Phase 2: Growth (Months 3-5)",
+      "actions": [
+        "Launch a blog with 2-4 posts per month targeting long-tail keywords: 'best fence for Northern California wind,' 'wood vs vinyl fence cost comparison,' 'Chico fence permit requirements.'",
+        "Create dedicated service pages for each fence type (wood, chain link, vinyl, ornamental iron, agricultural) with location-specific content.",
+        "Set up and optimize Facebook and Instagram business pages with project gallery photos.",
+        "Claim and optimize listings on Angi, HomeAdvisor, Houzz, BBB, and Yelp with consistent NAP (Name, Address, Phone) data.",
+        "Implement local link building through Chico Chamber of Commerce, local sponsorships, and community partnerships."
+      ]
+    },
+    {
+      "title": "Phase 3: Domination (Months 6-12)",
+      "actions": [
+        "Create city-specific landing pages (Chico fencing, Paradise fencing, Oroville fencing, etc.) to capture local search traffic.",
+        "Launch targeted Google Ads campaigns for high-intent keywords during peak fencing season.",
+        "Develop video content showcasing project installations for YouTube and social media.",
+        "Build automated review follow-up system to maintain a steady flow of 5-star Google reviews.",
+        "Monthly performance reporting with traffic, ranking, and lead generation metrics."
+      ]
+    }
+  ],
+  "pricingIntro": "Based on our analysis of M&M Fence Company's current digital presence and the competitive landscape in Northern California, we recommend the following service packages. Each tier is designed to deliver measurable results within the first 90 days.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Google Business Profile optimization",
+        "Meta tags & on-page SEO fixes",
+        "Branded email setup",
+        "FAQ section expansion",
+        "Monthly reporting",
+        "Review solicitation strategy",
+        "2 directory listings/month"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Social media setup & management",
+        "Dedicated service pages",
+        "Testimonials & project gallery",
+        "Local link building",
+        "All major directory listings"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Automated review system",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes. We've worked with businesses across multiple industries including manufacturing, construction, and professional services.",
+    "What sets us apart is that we treat every client like a partner, not an account number. Our team stays lean and focused, which means you're getting direct access to the people doing the work — not being passed through layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to walk you through these findings and discuss which approach makes the most sense for M&M Fence Company. There's no obligation — just a straightforward conversation about where you stand and what the opportunities look like.",
+    "I'm offering a free 30-minute strategy call where we can dig into the specifics and answer any questions you have. You can reach me directly at (530) 786-3655 or reply to this email to set up a time that works.",
+    "The fencing market in Northern California is at a tipping point digitally. The companies that invest now will have a significant advantage over those that wait. I'd hate to see 36 years of hard-earned reputation get overshadowed online by newer competitors with better SEO."
+  ]
+}

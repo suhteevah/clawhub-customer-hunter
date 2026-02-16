@@ -1,0 +1,147 @@
+{
+  "businessName": "Clear Choice Pool Service",
+  "contactName": "Matthew",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Clear Choice Pool Service has built a solid reputation in Chico — 5 stars on Yellow Pages, 19 reviews on Yelp, and customers consistently praise your reliability and expertise. You're doing the hard part right. But your website is holding you back.",
+    "Your Wix site at clearchoiceps.com has significant SEO problems. The content is buried behind JavaScript rendering, which means Google may not be able to read your pages properly. There are no meta descriptions, no schema markup, and no blog content. In a market with 10+ pool service competitors — Holiday Pools, Emerald Pools, Executive Pool & Spa, Greer Pool Service — you're competing for visibility with one hand tied behind your back.",
+    "The fix doesn't require starting from scratch. With proper SEO optimization, a content strategy targeting keywords like 'pool service Chico CA' and 'green pool cleanup Chico,' and a review growth plan, Clear Choice could dominate local search results within 60-90 days. Most of your competitors aren't investing in SEO either — whoever moves first wins."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — clearchoiceps.com",
+      "points": [
+        "Built on Wix — a platform known for SEO limitations, particularly with JavaScript-rendered content that search engines struggle to crawl.",
+        "No meta descriptions detected on any page — Google is auto-generating your search snippets, which you can't control.",
+        "No schema markup (LocalBusiness, Service, Review) — you're missing rich search results like star ratings and business info in Google.",
+        "No blog or content marketing section — missing the opportunity to rank for long-tail searches like 'how to fix a green pool in Chico' or 'pool maintenance tips for Northern California.'",
+        "No visible FAQ section — every unanswered question is a missed keyword opportunity.",
+        "Using Gmail (clearchoicepoolservice@gmail.com) instead of branded email — reduces professional credibility.",
+        "Social media integration unclear — no visible links to Facebook or Instagram where you could showcase before/after pool photos.",
+        "Limited service page depth — services like green pool cleanup, pump repair, heater service each deserve dedicated pages for SEO."
+      ]
+    },
+    {
+      "title": "Online Reputation & Reviews",
+      "points": [
+        "5 stars on Yellow Pages — excellent, but only a handful of reviews on that platform.",
+        "19 reviews on Yelp with photos — strong presence on Yelp but these reviews aren't leveraged on your own website.",
+        "10 'Faves' on Nextdoor — good local word-of-mouth but no website integration.",
+        "Zero reviews on HomeAdvisor/Angi — these are high-intent platforms where customers are actively looking to hire.",
+        "No Google review strategy visible — Google reviews are the #1 factor in local pack rankings.",
+        "Customer testimonials not displayed on website — your best marketing asset is hidden."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Chico pool service market is crowded — 10+ competitors including Holiday Pools, Emerald Pools (20+ years), Executive Pool & Spa (since 1984), and Greer Pool Service.",
+        "Holiday Pools has a professional website with clear service pages and pricing information.",
+        "Emerald Pools has been building pools for 20+ years with an established web presence.",
+        "Sunshine Pools has been in business 47 years with strong brand recognition.",
+        "Most competitors have basic websites but few are investing in SEO or content marketing — there's a clear opening.",
+        "Your specialization in green pool cleanups and pump repair/replacement is a differentiator that's not being marketed online."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website Platform", "finding": "Wix site with JavaScript rendering issues — Google may not crawl content properly", "priority": "High", "status": "Critical" },
+    { "area": "Meta SEO", "finding": "No meta descriptions on any page — search snippets are auto-generated", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "No LocalBusiness, Service, or Review schema — missing rich search results", "priority": "High", "status": "Missing" },
+    { "area": "Content", "finding": "No blog, no FAQ, thin service pages — minimal keyword targeting", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "Strong Yelp presence (19 reviews) but not leveraged on website or Google", "priority": "High", "status": "Underutilized" },
+    { "area": "Email", "finding": "Using Gmail instead of branded email (e.g., info@clearchoiceps.com)", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Social Media", "finding": "No clear social media integration on website", "priority": "Medium", "status": "Missing" },
+    { "area": "Directory Listings", "finding": "Missing from HomeAdvisor/Angi review pages — losing high-intent leads", "priority": "Medium", "status": "Missing" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix the Foundation (Months 1-2)",
+      "actions": [
+        "Migrate from Wix to a fast, SEO-friendly platform or optimize existing Wix site with proper meta tags and server-side rendering.",
+        "Write compelling meta titles and descriptions for every page targeting 'pool service Chico CA,' 'pool repair Chico,' 'green pool cleanup Chico CA.'",
+        "Implement LocalBusiness and Service schema markup for rich Google results.",
+        "Create dedicated service pages: Green Pool Cleanup, Pump Repair & Replacement, Heater Service, Weekly Maintenance, Equipment Installation.",
+        "Set up branded email (info@clearchoiceps.com) for professional communications.",
+        "Optimize Google Business Profile with updated photos, service categories, and hours.",
+        "Launch review solicitation strategy — QR codes on invoices, follow-up texts after service visits."
+      ]
+    },
+    {
+      "title": "Phase 2: Build Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog with 2-4 posts/month: 'How to spot a failing pool pump,' 'Pool winterization tips for Northern California,' 'DIY vs professional pool maintenance — what's worth it.'",
+        "Build out FAQ section with 15+ common pool service questions — each one targets a search query.",
+        "Set up and optimize Facebook and Instagram pages with before/after pool photos.",
+        "Claim and optimize listings on Angi, HomeAdvisor, Houzz, and BBB with consistent business info.",
+        "Display customer reviews and testimonials prominently on the website with review schema markup.",
+        "Create city-specific service area pages for Chico, Durham, Paradise, and surrounding areas."
+      ]
+    },
+    {
+      "title": "Phase 3: Dominate Local Search (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent pool service keywords during peak season (spring/summer).",
+        "Video content: pool transformation timelapses, equipment demos, seasonal maintenance guides.",
+        "Email marketing to existing customers for seasonal service reminders and referral incentives.",
+        "Monthly reporting on traffic, search rankings, lead generation, and review growth.",
+        "Competitor monitoring to stay ahead of other Chico pool service companies investing in SEO."
+      ]
+    }
+  ],
+  "pricingIntro": "Clear Choice Pool Service has a website foundation to build on, but it needs significant SEO work to start generating leads. Our packages include everything from technical fixes to ongoing content creation and marketing.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$550/mo",
+      "recommended": false,
+      "features": [
+        "Wix SEO optimization",
+        "Meta tags & on-page SEO",
+        "Google Business Profile setup",
+        "Branded email setup",
+        "Service page improvements",
+        "Review solicitation strategy",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$950/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Social media setup & management",
+        "Dedicated service pages",
+        "FAQ section buildout",
+        "Directory listings (Angi, BBB, etc.)",
+        "Review display & schema markup"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,600/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Website migration (if needed)",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to show you what better SEO could do for Clear Choice Pool Service. No pressure — just a look at the opportunity sitting in front of you.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Pool season is coming up fast. The companies investing in their online presence now will be the ones getting the calls when temperatures hit 100 degrees. Let's make sure Clear Choice is at the top of that list."
+  ]
+}

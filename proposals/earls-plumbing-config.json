@@ -1,0 +1,145 @@
+{
+  "businessName": "Earl's Performance Plumbing",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Earl's Performance Plumbing has clearly had professional SEO work done in the past -- 159 pages in your sitemap, LocalBusiness schema, branded email, 30+ service pages, and 40+ location pages. That's a serious investment. But the site is coasting on work that was done years ago, and it's starting to show.",
+    "The most concerning finding: your blog has been dead since March 2019 -- nearly 7 years without a single new post. Your reviews page exists but appears empty -- no visible reviews despite claiming 3,543 in schema. And you have 40+ video testimonials buried at /reviews/videos/ that are getting zero organic traffic because they're not on YouTube and have no video schema.",
+    "The foundation is strong. But a dormant blog, broken reviews page, and buried video content are vulnerabilities a competitor could exploit. Any plumbing company in the Chico/Redding market that starts publishing monthly content and actively managing their review presence will start overtaking you in local search."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- earlsplumbing.net",
+      "points": [
+        "159 pages indexed in sitemap -- extensive content foundation across services and locations.",
+        "Built on WordPress with GeneratePress theme and Elementor -- functional but heavy.",
+        "LocalBusiness schema with AggregateRating (4.9/5, 3,543 reviews) -- strong structured data.",
+        "Branded email (contact@earlsplumbing.net) -- professional and credible.",
+        "30+ individual service pages covering leak detection, re-pipes, filtration, septic, wells, and more.",
+        "40+ location-specific pages across 8 counties -- excellent geographic coverage.",
+        "Google Analytics (GA4) and Google Tag Manager both installed.",
+        "Blog has been dead since March 2019 -- nearly 7 years without new content."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Reviews page framework exists but no visible review content renders -- 3,543 reviews claimed in schema but not displayed.",
+        "40+ video testimonials at /reviews/videos/ are buried and invisible -- no YouTube channel, no video schema.",
+        "Blog last updated March 2019 with off-topic posts like 'Six Great Travel Ideas' and 'Seven Easy Ways to Eat Healthy.'",
+        "No FAQ schema on existing FAQ accordion content -- missing rich snippet opportunities.",
+        "Location pages are formulaic with minimal city-specific content -- Paradise page doesn't mention Camp Fire rebuilding.",
+        "Orphan page (/elementor-5606/) indexed -- Elementor test page publicly visible.",
+        "4 web font families loaded (Roboto, Roboto Slab, Poppins, Playfair Display) -- excessive for page speed.",
+        "Only Facebook linked -- no Instagram, YouTube, Yelp, or Nextdoor despite having video content."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Chico/Redding plumbing market is competitive -- companies investing in SEO now will pull ahead.",
+        "Your 159-page content foundation gives you a massive head start over competitors building from scratch.",
+        "The Camp Fire recovery in Paradise created lasting demand for plumbing services -- your Paradise page should leverage this.",
+        "Video testimonials are an untapped competitive advantage -- no competitors in the area appear to have this asset."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Blog", "finding": "Dead since March 2019 -- zero fresh content for nearly 7 years", "priority": "High", "status": "Critical" },
+    { "area": "Reviews", "finding": "Reviews page broken/empty despite claiming 3,543 in schema -- potential Google penalty", "priority": "High", "status": "Critical" },
+    { "area": "Video Content", "finding": "40+ video testimonials buried with no YouTube channel or video schema", "priority": "High", "status": "Underutilized" },
+    { "area": "FAQ Schema", "finding": "FAQ accordion content exists but no FAQPage schema deployed", "priority": "Medium", "status": "Missing" },
+    { "area": "Location Pages", "finding": "40+ location pages with thin, templated content lacking city-specific details", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Performance", "finding": "Elementor bloat + 4 font families -- likely poor mobile Core Web Vitals", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Social Media", "finding": "Only Facebook linked -- missing Instagram, YouTube, Yelp, Nextdoor", "priority": "Medium", "status": "Missing" },
+    { "area": "Schema", "finding": "LocalBusiness with AggregateRating present -- strong foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Revive & Fix (Months 1-2)",
+      "actions": [
+        "Fix the reviews page -- integrate a review widget to pull Google/Yelp reviews with proper Review schema.",
+        "Add FAQ schema to all existing FAQ accordion content across service pages.",
+        "Create a YouTube channel and upload existing 40+ video testimonials -- free traffic source.",
+        "Clean up orphan pages (remove /elementor-5606/ and consolidate duplicate referral/employment pages).",
+        "Add unique content to location pages -- reference local landmarks, community events, and city-specific issues.",
+        "Optimize page speed -- reduce font families from 4 to 2, audit Elementor CSS/JS output."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Revival (Months 3-5)",
+      "actions": [
+        "Relaunch blog with 2-4 posts/month: 'Winter pipe freeze prevention Chico CA,' 'Well water testing Oroville,' 'Paradise CA plumber after Camp Fire.'",
+        "Add Instagram and YouTube links to site navigation and footer.",
+        "Build Nextdoor business profile for local community recommendations.",
+        "Create emergency-specific landing pages: 'Emergency plumber Chico' and '24 hour plumber Redding.'",
+        "Update coupon page and ensure seasonal promotions are current."
+      ]
+    },
+    {
+      "title": "Phase 3: Sustain & Grow (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent plumbing keywords during peak seasons.",
+        "Video content: project walkthroughs, plumbing tips, seasonal maintenance guides.",
+        "Email marketing to existing customers for seasonal reminders and referral incentives.",
+        "Monthly reporting on traffic, rankings, lead generation, and review growth.",
+        "Competitor monitoring to maintain search position."
+      ]
+    }
+  ],
+  "pricingIntro": "Earl's Performance Plumbing has the largest content foundation of any plumber website I've audited in this market -- 159 pages is a massive asset. The strategy isn't about building from scratch -- it's about reviving what you have, fixing technical gaps, and restarting the content engine.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$650/mo",
+      "recommended": false,
+      "features": [
+        "Reviews page fix & schema",
+        "FAQ schema implementation",
+        "YouTube channel setup",
+        "Orphan page cleanup",
+        "Location page improvements",
+        "Page speed optimization",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog relaunch (2-4 posts/month)",
+        "Emergency landing pages",
+        "Social media expansion",
+        "Video schema integration",
+        "Review solicitation system",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Advanced analytics",
+        "Coupon/promotion management",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "You've built something that most plumbing companies would envy -- 159 pages, video testimonials, branded email, multi-county coverage. The issue isn't the foundation, it's the maintenance. Let's get the engine running again.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Your competitors are watching the same search results you are. The companies that invest in content now will be the ones getting calls next year."
+  ]
+}

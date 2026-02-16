@@ -1,0 +1,147 @@
+{
+  "businessName": "Knockout Collision Repair",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Knockout Collision Repair has one of the strongest websites I've audited for a body shop -- and that's saying something. You've got an active blog publishing weekly, proper LocalBusiness and AutoBodyShop schema, dedicated service pages with 500-700 words each, a community involvement page, 50+ testimonials, and 27 years of trust signals including 'Best of Chico' for 9 years straight. Your site scores a 7.2/10 -- well above average.",
+    "But here's the thing: you're leaving measurable wins on the table. Your reviews page has 50+ testimonials but no AggregateRating schema -- which means you're NOT getting review stars in Google search results. That's free click-through rate you're giving to competitors who do have star ratings showing. Your 25+ brand-specific pages (Honda, Toyota, BMW, etc.) follow an identical template with only the brand name swapped -- Google's Helpful Content system flags this pattern and it could quietly tank those pages' rankings.",
+    "On top of that, your primary email in schema is still a Gmail address (knockout.kcr@gmail.com) instead of your branded info@knockoutcollisionrepair.com, you have zero Open Graph tags so social shares look bare, your FAQ sections lack FAQ schema markup, and you're loading 70+ JavaScript files per page with WooCommerce installed but unused. These are all fixable -- and fixing them would turn a good site into a dominant one."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- knockoutcollisionrepair.com",
+      "points": [
+        "Built on WordPress with strong SEO infrastructure -- Yoast SEO, XML sitemaps, canonical tags, breadcrumbs.",
+        "LocalBusiness + AutoBodyShop schema properly implemented across the site -- better than 90% of local competitors.",
+        "Active blog with 50+ posts, publishing weekly as recently as today -- rare for any body shop.",
+        "7 dedicated service pages with 500-700 words each: Auto Body Painting, Collision Repair, Frame Straightening, Insurance Claims, Dent & Scratch, Towing, Aluminum Repair.",
+        "25+ manufacturer-specific landing pages targeting brand keywords like 'Honda collision center Chico.'",
+        "Community page documenting real local involvement -- toy drives, food drives, school sponsorships.",
+        "50+ curated testimonials with cross-platform review links to Google, Facebook, and Yelp.",
+        "Primary email in schema is Gmail (knockout.kcr@gmail.com) despite owning branded email."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "No AggregateRating schema on reviews page -- missing star ratings in Google search results despite 50+ testimonials.",
+        "25+ brand pages use identical template content with only brand name swapped -- thin content risk.",
+        "Image alt text is missing or generic across the site -- 'toyota-logo', 'left fender- before' -- not keyword-optimized.",
+        "No FAQ schema on existing FAQ sections (Services page, About page both have Q&A content).",
+        "No Open Graph meta tags -- social shares have no preview image or branded description.",
+        "WooCommerce installed but unused -- dead weight adding JavaScript and security surface area.",
+        "70+ JavaScript files loading per page -- performance drag on mobile Core Web Vitals.",
+        "No service area pages for surrounding cities (Paradise, Durham, Oroville) despite serving them."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "9 consecutive years as 'Best of Chico' is a powerful trust signal that should be leveraged more aggressively in schema and meta descriptions.",
+        "Active blog and community page give significant E-E-A-T advantages over competitors.",
+        "Brand-specific pages are a smart strategy but need content differentiation to avoid Google penalties.",
+        "Most competing body shops in the Chico/Paradise/Oroville area have far weaker digital presence -- optimizing the gaps identified here would cement market dominance."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Review Schema", "finding": "No AggregateRating schema on reviews page -- missing star ratings in Google results despite 50+ testimonials", "priority": "High", "status": "Missing" },
+    { "area": "Brand Pages", "finding": "25+ manufacturer pages use identical template -- thin content risk under Google's Helpful Content system", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image SEO", "finding": "Alt text missing or generic across site -- invisible to Google Image Search", "priority": "High", "status": "Needs Fix" },
+    { "area": "Email Branding", "finding": "Gmail address in schema instead of branded info@knockoutcollisionrepair.com", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "FAQ Schema", "finding": "FAQ sections exist on Services and About pages but lack FAQ schema markup", "priority": "Medium", "status": "Missing" },
+    { "area": "Social Sharing", "finding": "No Open Graph tags -- social shares have no preview image or description", "priority": "Medium", "status": "Missing" },
+    { "area": "Performance", "finding": "70+ JS files per page, unused WooCommerce adding bloat", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Blog", "finding": "50+ posts publishing weekly -- strong content marketing asset", "priority": "Low", "status": "Good" },
+    { "area": "Schema", "finding": "LocalBusiness + AutoBodyShop schema properly implemented", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix High-Impact Schema & Content Gaps (Months 1-2)",
+      "actions": [
+        "Add AggregateRating and Review schema to the reviews page -- immediate star rating eligibility in Google.",
+        "Add FAQ schema markup to existing FAQ sections on Services and About pages.",
+        "Replace Gmail address with branded email in all schema markup and Google Business Profile.",
+        "Add Open Graph meta tags sitewide for proper social media previews.",
+        "Optimize all image alt text with descriptive, keyword-rich attributes.",
+        "Remove unused WooCommerce installation to reduce JS bloat and security exposure.",
+        "Audit and optimize Core Web Vitals -- reduce 70+ JS files through deferred loading and bundling."
+      ]
+    },
+    {
+      "title": "Phase 2: Differentiate Brand Pages & Expand Local Reach (Months 3-5)",
+      "actions": [
+        "Rewrite each manufacturer page with unique content: brand-specific repair challenges, OEM certifications, case studies, and FAQs per brand.",
+        "Create service area landing pages for Paradise, Durham, Oroville, Magalia, and surrounding communities.",
+        "Implement Google Reviews widget to dynamically display fresh reviews with proper schema.",
+        "Expand blog strategy to include brand-specific repair content, seasonal driving safety, and insurance claims guides.",
+        "Set up email marketing for post-repair follow-ups and review solicitation."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Dominance & Paid Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent collision repair keywords in Butte County.",
+        "Video content: repair process timelapse, before/after transformations, team introductions.",
+        "Advanced conversion tracking -- form submissions, phone calls, appointment bookings.",
+        "Monthly competitive analysis and ranking reports.",
+        "Social media advertising leveraging community involvement and 'Best of Chico' branding."
+      ]
+    }
+  ],
+  "pricingIntro": "Knockout Collision already has a stronger digital presence than most body shops. The goal isn't to rebuild -- it's to optimize what you have and close the gaps that are costing you visibility and leads.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$650/mo",
+      "recommended": false,
+      "features": [
+        "AggregateRating & FAQ schema implementation",
+        "Image alt text optimization sitewide",
+        "Open Graph tag setup",
+        "Branded email in schema/GBP",
+        "WooCommerce removal & JS cleanup",
+        "Core Web Vitals optimization",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Brand page content differentiation (25+ pages)",
+        "Service area landing pages",
+        "Google Reviews widget integration",
+        "Blog content strategy & optimization",
+        "Email marketing setup",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Advanced conversion tracking",
+        "Social media ad campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Your site is already ahead of the pack -- the blog, schema, and service pages put you in a strong position. The next step is closing the optimization gaps so you're not leaving leads to competitors who show star ratings in Google while you don't.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "You've been Best of Chico for 9 years. Let's make sure Google knows it too."
+  ]
+}

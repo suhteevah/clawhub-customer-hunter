@@ -1,0 +1,138 @@
+{
+  "businessName": "AJ Auto Repair",
+  "contactName": "Jose",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "AJ Auto Repair has been a trusted name in Oroville since 2004, with owner Jose building a loyal customer base through 20+ years of honest, quality work. Your 4.5 star rating on Yellow Pages confirms what your customers already know. But without a website, you're invisible to anyone who doesn't already know your name.",
+    "Here's the reality: 97% of people searching for local services start online. When someone's car breaks down in Oroville and they search 'auto repair near me,' they find competitors like Gilbert's Auto Remedy (who has a website and 280 reviews) or Braun's Auto Service — not AJ Auto Repair.",
+    "The fix is straightforward and affordable. A professional website with basic SEO would immediately put you on the map for local searches. Combined with a Google Review strategy, you could be competing with shops that have spent thousands more on marketing."
+  ],
+  "assessment": [
+    {
+      "title": "Current Digital Presence",
+      "points": [
+        "NO website exists — you're completely absent from organic search results.",
+        "Listed on Yellow Pages, Nextdoor, and other directory sites — but you don't control these listings.",
+        "4.5 star rating on Yellow Pages — solid but lower than competitors who actively solicit reviews.",
+        "No email address publicly available — limits how customers can reach you.",
+        "No social media presence found — missing the opportunity to showcase work and build community.",
+        "20+ years of experience and customer trust not visible anywhere online."
+      ]
+    },
+    {
+      "title": "What You're Missing Without a Website",
+      "points": [
+        "Every customer who searches online for auto repair in Oroville goes to a competitor with a website.",
+        "You can't display your services, specialties, hours, or pricing anywhere you control.",
+        "Directory sites place competitor ads directly on your listing — sending YOUR potential customers to other shops.",
+        "No way to collect customer email addresses for repeat business reminders (oil change due, brake inspection, etc.).",
+        "Younger customers (25-45) overwhelmingly research auto repair shops online before calling — you're missing this entire demographic."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Gilbert's Auto Remedy leads with a functioning website and 280 reviews at 4.8 stars.",
+        "Lakeside Auto & Diesel also has no website — whoever moves first wins the online visibility race.",
+        "Braun's Auto Service appears in directory listings but may not have a strong website either.",
+        "Big O Tires and chain shops dominate search results with corporate SEO budgets — but local shops win on trust and reviews.",
+        "The auto repair market in Oroville has room for a local shop to dominate online with minimal investment."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website", "finding": "NO website — completely invisible in organic search", "priority": "High", "status": "Critical" },
+    { "area": "Online Leads", "finding": "Zero ability to capture leads from online searches", "priority": "High", "status": "Critical" },
+    { "area": "Reviews", "finding": "4.5 stars on YP — needs more reviews and higher rating to compete", "priority": "High", "status": "Needs Growth" },
+    { "area": "Email/Contact", "finding": "No public email — limits customer communication channels", "priority": "Medium", "status": "Missing" },
+    { "area": "Social Media", "finding": "No Facebook, Instagram, or social presence", "priority": "Medium", "status": "Missing" },
+    { "area": "Directory Control", "finding": "Competitors' ads appear on your directory listings", "priority": "Medium", "status": "At Risk" },
+    { "area": "Brand History", "finding": "20+ years experience not leveraged in marketing", "priority": "Medium", "status": "Underutilized" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Get Online (Months 1-2)",
+      "actions": [
+        "Build professional 5-page website: Home, Services, About Jose (20+ year story), Reviews, Contact.",
+        "Mobile-first design with prominent phone number, click-to-call, and contact form.",
+        "SEO targeting: 'auto repair Oroville CA,' 'mechanic near me Oroville,' 'affordable car repair Butte County.'",
+        "Set up branded email and Google Business Profile optimization.",
+        "Launch aggressive review solicitation to grow from 4.5 to 4.8+ stars.",
+        "Add LocalBusiness schema markup for Google Maps visibility."
+      ]
+    },
+    {
+      "title": "Phase 2: Build Presence (Months 3-5)",
+      "actions": [
+        "Blog content: car maintenance tips, seasonal prep guides, common repair cost breakdowns.",
+        "Set up Facebook page with work photos and customer testimonials.",
+        "Claim all directory listings with consistent NAP info.",
+        "Create service-specific pages: brakes, oil changes, diagnostics, AC repair.",
+        "Customer email list for service reminders and seasonal promotions."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "City-specific landing pages for nearby areas.",
+        "Google Ads for high-intent auto repair keywords.",
+        "Monthly reporting on traffic, leads, and review growth."
+      ]
+    }
+  ],
+  "pricingIntro": "AJ Auto Repair needs a website built from scratch. Our packages include everything — website build, hosting, SEO, and ongoing marketing — so you can focus on what you do best: fixing cars.",
+  "pricingTiers": [
+    {
+      "name": "LAUNCH",
+      "price": "$500/mo",
+      "recommended": false,
+      "features": [
+        "5-page website build",
+        "Mobile responsive design",
+        "Basic on-page SEO",
+        "Google Business Profile setup",
+        "Click-to-call & contact form",
+        "SSL & hosting included",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$900/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Launch, plus:",
+        "Full SEO optimization",
+        "Blog content (2 posts/month)",
+        "Facebook page setup",
+        "Service-specific pages",
+        "Directory listings",
+        "Review growth strategy"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,500/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Email marketing setup",
+        "Video content",
+        "Advanced analytics",
+        "Competitor monitoring",
+        "Weekly reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads.",
+    "Our approach is data-first: we research your market, identify gaps, and build strategies that deliver real business outcomes.",
+    "We treat every client like a partner. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to chat about what a website could do for AJ Auto Repair. No pressure — just a look at the opportunity.",
+    "Free 30-minute strategy call — (530) 786-3655 or reply to this email.",
+    "20 years of honest work deserves to be seen online. Let's make that happen."
+  ]
+}

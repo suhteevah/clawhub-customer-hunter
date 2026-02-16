@@ -1,0 +1,137 @@
+{
+  "businessName": "Ken's Paradise Hitch & Welding",
+  "contactName": "Ken Pishek",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "After researching Ken's Paradise Hitch & Welding's digital presence, I found a critical issue: your website at kensparadisehitch.com is completely down. It's returning connection refused errors, meaning no one — not customers, not Google — can access it. For a business with 47 years of history and 4.8 stars across 59 reviews, this is leaving serious money on the table.",
+    "Paradise is rebuilding stronger than ever after the Camp Fire, with the business sector growing steadily. New residents and returning homeowners need services like custom hitch fabrication, welding, and trailer work — and they're searching online first. With your website down, they're finding competitors instead.",
+    "The opportunity here is significant. You have decades of reputation and strong reviews. A functioning, SEO-optimized website would immediately start capturing the search traffic that's currently going to competitors or being lost entirely."
+  ],
+  "assessment": [
+    {
+      "title": "Website Status — kensparadisehitch.com",
+      "points": [
+        "Website is COMPLETELY DOWN — returning ECONNREFUSED errors. No one can access your site.",
+        "The domain appears to still be registered, but the hosting server is not responding.",
+        "This means Google has likely de-indexed your site or is showing a 'site can't be reached' message to searchers.",
+        "Any SEO authority the domain built up over the years is actively decaying while the site is down.",
+        "Customers searching for your business by name are getting error pages instead of your services and contact info."
+      ]
+    },
+    {
+      "title": "Online Reputation & Reviews",
+      "points": [
+        "4.8 star rating across 59 reviews — this is excellent social proof that's being wasted without a website to capture it.",
+        "Reviews mention custom/factory hitch fabrication, quality welding work, and fair pricing — these are strong selling points that should be front and center on a website.",
+        "47 years in business (since 1978) is a massive trust signal — most customers choose longevity over newcomers.",
+        "Without a website, your entire online presence depends on third-party directories you don't control."
+      ]
+    },
+    {
+      "title": "Market Opportunity — Paradise, CA",
+      "points": [
+        "Paradise's business sector is experiencing steady growth as the community rebuilds post-Camp Fire.",
+        "The Paradise Ridge Chamber of Commerce membership has grown to 340-360 businesses — new competitors are entering the market.",
+        "Infrastructure improvements (broadband, sewer) are attracting new businesses and residents who will need your services.",
+        "Searching 'welding Paradise CA' or 'hitch installation Paradise CA' shows directory listings and competitors — your business is absent.",
+        "The Camp Fire rebuild has created high demand for fabrication, welding, and trailer services in Butte County."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website", "finding": "Site completely DOWN — ECONNREFUSED, no pages accessible", "priority": "High", "status": "Critical" },
+    { "area": "SEO Authority", "finding": "Domain SEO value actively decaying while site is offline", "priority": "High", "status": "Degrading" },
+    { "area": "Lead Capture", "finding": "Zero ability to capture online leads — no contact form, no info", "priority": "High", "status": "Critical" },
+    { "area": "Reviews", "finding": "4.8 stars, 59 reviews — excellent but disconnected from any website", "priority": "Medium", "status": "Underutilized" },
+    { "area": "Local SEO", "finding": "Not appearing in local search results for welding/hitch services", "priority": "High", "status": "Missing" },
+    { "area": "Brand History", "finding": "47 years in business — massive trust signal not leveraged online", "priority": "Medium", "status": "Underutilized" },
+    { "area": "Competition", "finding": "New businesses entering Paradise market with digital-first strategies", "priority": "Medium", "status": "At Risk" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Get Back Online (Months 1-2)",
+      "actions": [
+        "Build a new, fast-loading website on reliable hosting with SSL, mobile responsiveness, and SEO-optimized content.",
+        "Create core pages: Home, Services (hitch fabrication, welding, trailer repair), About (47-year history), Gallery, Contact.",
+        "Implement LocalBusiness schema markup for Google Maps visibility.",
+        "Set up or reclaim Google Business Profile with updated hours, photos, service categories, and service areas.",
+        "Add prominent calls-to-action: phone number, contact form, and directions.",
+        "Launch review solicitation strategy to maintain and grow your 4.8 star rating."
+      ]
+    },
+    {
+      "title": "Phase 2: Build Visibility (Months 3-5)",
+      "actions": [
+        "Target keywords: 'welding Paradise CA,' 'custom hitch fabrication Butte County,' 'trailer repair Chico area.'",
+        "Launch blog with project showcases, welding tips, and hitch buying guides.",
+        "Set up Facebook business page with project photos and customer testimonials.",
+        "Claim all directory listings (Yelp, Angi, HomeAdvisor, BBB) with consistent info.",
+        "Build local backlinks through Paradise Chamber of Commerce and Rebuild Paradise Foundation partnerships."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth (Months 6-12)",
+      "actions": [
+        "Create service-area landing pages for each nearby city (Paradise, Chico, Oroville, Magalia).",
+        "Launch Google Ads for high-intent welding and hitch keywords.",
+        "Develop video content showing custom fabrication work for YouTube and social.",
+        "Monthly reporting on traffic, leads, and search rankings."
+      ]
+    }
+  ],
+  "pricingIntro": "Given that Ken's Paradise Hitch & Welding needs a complete website rebuild from scratch, we recommend starting with the Growth tier which includes the website build, SEO, and content strategy — everything needed to get back online and start generating leads.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "New 5-page website build",
+        "Mobile responsive design",
+        "Basic on-page SEO",
+        "Google Business Profile setup",
+        "Contact form & click-to-call",
+        "Monthly reporting",
+        "SSL & hosting included"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Full SEO optimization",
+        "Blog content (2 posts/month)",
+        "Project photo gallery",
+        "Social media setup",
+        "Directory listings",
+        "Review solicitation system"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Advanced analytics",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes. We've worked with businesses across multiple industries including manufacturing, construction, and professional services.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "Your website being down is urgent — every day it stays offline, you're losing potential customers to competitors. I'd love to help get you back online quickly with a site that actually works for your business.",
+    "I'm offering a free 30-minute strategy call to walk through these findings and discuss options. Reach me at (530) 786-3655 or reply to this email.",
+    "With 47 years of trust and a 4.8 star rating, you've built something special. Let's make sure the internet knows about it too."
+  ]
+}

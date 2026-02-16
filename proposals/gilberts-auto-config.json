@@ -1,0 +1,140 @@
+{
+  "businessName": "Gilbert's Auto Remedy",
+  "contactName": "Kurt Gilbert",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "After auditing Gilbert's Auto Remedy's digital presence, I found a business with a strong foundation — ASE Certified, BMW Factory Trained, 4.8 stars across 280 reviews — but several digital gaps that are costing you visibility and leads in the competitive Oroville auto repair market.",
+    "Your website at gilbertsautoremedy.com is functional and professional, which puts you ahead of many competitors who have no website at all. However, it's missing critical elements like blog content, FAQ schema markup, optimized meta descriptions, and internal linking that would push you from page 2 to page 1 of Google results.",
+    "The auto repair market in Butte County is competitive but digitally underserved. Most shops rely on word-of-mouth and directory listings. A targeted content and SEO strategy would position Gilbert's as the clear online authority for auto repair in the Oroville area."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — gilbertsautoremedy.com",
+      "points": [
+        "Website is functional with a professional design — significantly ahead of most local competitors.",
+        "ASE Certification and BMW Factory Training credentials are mentioned but could be featured more prominently.",
+        "Missing blog/content marketing section — no educational content about car maintenance, common repairs, or seasonal tips.",
+        "No FAQ section or FAQ schema markup — missing the chance to appear in Google's 'People Also Ask' featured snippets.",
+        "Meta descriptions need optimization for local search terms like 'auto repair Oroville CA.'",
+        "Limited internal linking structure — pages aren't cross-referencing each other effectively for SEO.",
+        "280 reviews with a 4.8 star rating on SureCritic — excellent social proof that could be better showcased on the site."
+      ]
+    },
+    {
+      "title": "SEO & Local Search Visibility",
+      "points": [
+        "Searching 'auto repair Oroville CA' returns Yelp, Yellow Pages, and directory listings prominently.",
+        "Competitors listed include Braun's Auto Service, Ridge Transmission, Jeff's Mobile Auto, Dirks Automotive, and Big O Tires.",
+        "Google Business Profile optimization is key — service categories, photos, and review velocity matter most for the local map pack.",
+        "Your BMW Factory Training is a unique differentiator — you could capture search traffic for 'BMW repair Oroville' or 'European car repair Chico area' with almost no competition."
+      ]
+    },
+    {
+      "title": "Competitive Advantages & Opportunities",
+      "points": [
+        "280 reviews at 4.8 stars puts you well ahead of most competitors on reputation alone.",
+        "ASE Certification + BMW Factory Training = credibility that most local shops can't match.",
+        "Many competitors (AJ Auto, Lakeside Auto) have NO website — your existing site gives you a head start.",
+        "Content marketing for auto repair is highly effective — 'how much does a brake job cost in Oroville' type content drives pre-qualified leads."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Content", "finding": "No blog or educational content — missing long-tail keyword traffic", "priority": "High", "status": "Missing" },
+    { "area": "FAQ/Schema", "finding": "No FAQ section or FAQ schema for Google featured snippets", "priority": "High", "status": "Missing" },
+    { "area": "Meta SEO", "finding": "Meta descriptions not optimized for local auto repair keywords", "priority": "High", "status": "Needs Fix" },
+    { "area": "Internal Links", "finding": "Limited internal linking between service pages", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Reviews", "finding": "280 reviews, 4.8 stars — strong but not prominently showcased", "priority": "Medium", "status": "Underutilized" },
+    { "area": "Specialization", "finding": "BMW/European car expertise not targeted in SEO keywords", "priority": "Medium", "status": "Missed Opportunity" },
+    { "area": "Website", "finding": "Professional design, functional, SSL present", "priority": "Low", "status": "Good" },
+    { "area": "Reputation", "finding": "ASE Certified, BMW Factory Trained — strong credentials", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Quick Wins (Months 1-2)",
+      "actions": [
+        "Optimize all meta titles and descriptions for local keywords: 'auto repair Oroville CA,' 'BMW repair Butte County,' 'ASE certified mechanic near me.'",
+        "Add FAQ section with 15-20 common auto repair questions and implement FAQ schema markup for Google featured snippets.",
+        "Improve internal linking between service pages to boost overall site SEO authority.",
+        "Optimize Google Business Profile with updated service categories, new photos, and response templates for reviews.",
+        "Create a dedicated page for BMW/European car repair — almost zero competition for this keyword locally.",
+        "Add review widgets to homepage showcasing your 4.8 star rating from 280+ reviews."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Authority (Months 3-5)",
+      "actions": [
+        "Launch blog with 2-4 posts/month: 'When to Replace Brake Pads,' 'BMW Maintenance Schedule,' 'How to Choose an Auto Repair Shop in Oroville.'",
+        "Create service-specific landing pages: brakes, transmission, oil change, diagnostics, BMW/European, diesel.",
+        "Set up or optimize social media presence with before/after repair photos and customer testimonials.",
+        "Claim and optimize all directory listings with consistent NAP data.",
+        "Build local backlinks through Oroville Chamber of Commerce and community sponsorships."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Leadership (Months 6-12)",
+      "actions": [
+        "Create city-specific landing pages: auto repair Chico, Paradise, Gridley, Yuba City.",
+        "Launch Google Ads for high-intent keywords during peak auto repair seasons.",
+        "Develop video content: shop tour, technician introductions, common repair explainers.",
+        "Implement automated review request system to grow from 280 to 500+ reviews.",
+        "Monthly performance reporting with traffic, keyword rankings, and lead generation."
+      ]
+    }
+  ],
+  "pricingIntro": "Gilbert's Auto Remedy is already ahead of the curve with a functional website and outstanding reviews. The investment here is about turning that foundation into a lead generation engine that consistently brings in new customers from online search.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$550/mo",
+      "recommended": false,
+      "features": [
+        "Meta SEO optimization",
+        "FAQ section + schema markup",
+        "Internal linking improvements",
+        "Google Business Profile optimization",
+        "Review management strategy",
+        "Monthly reporting",
+        "2 directory listings/month"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,000/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "BMW/European specialty page",
+        "Social media setup & management",
+        "Service-specific landing pages",
+        "Local link building",
+        "All major directory listings"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,700/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Automated review system",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes. We've worked with businesses across multiple industries including manufacturing, construction, and professional services.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to walk through these findings with you and discuss which approach makes the most sense for Gilbert's Auto Remedy. No obligation — just a straightforward conversation about where things stand.",
+    "I'm offering a free 30-minute strategy call to dig into the specifics. Reach me at (530) 786-3655 or reply to this email.",
+    "With 280 reviews, ASE Certification, and BMW Factory Training, you've already built the credibility. The right digital strategy would turn all of that into a consistent stream of new customers finding you online."
+  ]
+}

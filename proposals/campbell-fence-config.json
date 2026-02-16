@@ -1,0 +1,141 @@
+{
+  "businessName": "Campbell Fence",
+  "contactName": "Owner",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "After conducting a full audit of Campbell Fence's digital presence, I found a significant disconnect between your strong real-world reputation and your online visibility. You've been the premier fencing contractor in Oroville for 20+ years with a BBB A+ rating — but your website is essentially invisible to search engines.",
+    "The most critical finding: campbellfence.com appears to serve primarily JavaScript and CSS code rather than readable HTML content. This means Google cannot effectively crawl or index your pages. When potential customers search for 'fence company Oroville CA,' they're finding directory listings and competitors — not you.",
+    "With your established reputation, BBB accreditation, and 20+ years of local trust, fixing your digital presence would create an outsized return. You already have the hardest part — the reputation. You just need the online infrastructure to match."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — campbellfence.com",
+      "points": [
+        "Website appears to render primarily via JavaScript — search engines cannot effectively read or index the content. This is a critical SEO failure.",
+        "No meta descriptions detected in the source code — Google has no guidance on how to display your business in search results.",
+        "No visible H1 heading tags in the HTML source — search engines use these to understand what each page is about.",
+        "Google Tag Manager (GTM-TC25GHJ) is installed, suggesting some analytics tracking is in place — a positive sign.",
+        "Bootstrap 4.1.3 framework detected — the site has responsive/mobile capability, but the underlying content delivery is the problem.",
+        "No blog or content marketing section found.",
+        "No schema markup detected for LocalBusiness — Google Maps and local search results aren't getting structured data about your business.",
+        "No social media links visible on the site."
+      ]
+    },
+    {
+      "title": "SEO Visibility & Local Search",
+      "points": [
+        "Searching 'fence company Oroville CA' returns Angi, BBB, Houzz, HomeAdvisor, and Yellow Pages before individual fence companies.",
+        "Your BBB A+ rating is a strong trust signal, but it's doing all the heavy lifting since the website isn't ranking organically.",
+        "Google Business Profile may be your strongest digital asset right now — but it needs optimization with service areas, photos, and review solicitation.",
+        "Competitors like M&M Fence Company (Chico) and Northern California Fence are competing for the same regional keywords with better-structured websites."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "M&M Fence Company in Chico has schema markup and mobile responsiveness that gives them an edge in search.",
+        "National fence SEO companies like FenceWebs.com work exclusively with one fence company per city — if a competitor in Oroville signs up, you'll lose that opportunity permanently.",
+        "HomeAdvisor and Angi feature multiple fencing companies in your area — these platforms charge per lead. A strong website would let you generate your own leads for free.",
+        "Most local fence competitors also have weak SEO — first mover advantage is available."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website Content", "finding": "Site renders via JavaScript — search engines cannot read content", "priority": "High", "status": "Critical" },
+    { "area": "Meta SEO", "finding": "No meta descriptions or title tags optimized for search", "priority": "High", "status": "Missing" },
+    { "area": "Heading Structure", "finding": "No H1 tags found — page hierarchy invisible to Google", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "No LocalBusiness structured data for Maps/local search", "priority": "High", "status": "Missing" },
+    { "area": "Content Marketing", "finding": "No blog, no educational content, no FAQ section", "priority": "High", "status": "Missing" },
+    { "area": "Social Media", "finding": "No social media presence linked from website", "priority": "Medium", "status": "Missing" },
+    { "area": "Analytics", "finding": "Google Tag Manager installed — tracking is in place", "priority": "Low", "status": "Good" },
+    { "area": "Mobile", "finding": "Bootstrap responsive framework in use", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Website Rebuild & Foundation (Months 1-2)",
+      "actions": [
+        "Rebuild campbellfence.com with server-rendered HTML that search engines can crawl and index properly.",
+        "Write optimized meta titles and descriptions for every page targeting 'fence company Oroville CA' and related keywords.",
+        "Implement proper H1-H6 heading hierarchy on all pages.",
+        "Add LocalBusiness schema markup for Google Maps and rich search results.",
+        "Optimize Google Business Profile with complete service area listings, high-quality project photos, and business description.",
+        "Launch Google Review solicitation — QR codes on invoices, follow-up texts after projects."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Visibility (Months 3-5)",
+      "actions": [
+        "Launch blog with 2-4 posts/month: fencing material comparisons, permit guides, seasonal maintenance tips.",
+        "Create dedicated service pages for each fence type with location-specific content.",
+        "Set up Facebook and Instagram with project galleries.",
+        "Claim and optimize all directory listings (Angi, HomeAdvisor, Houzz, Yelp) with consistent business info.",
+        "Build local backlinks through Oroville Chamber of Commerce and community partnerships."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Domination (Months 6-12)",
+      "actions": [
+        "Create city-specific landing pages (Oroville, Chico, Paradise, Gridley, Yuba City fencing).",
+        "Launch targeted Google Ads for high-intent keywords during peak season.",
+        "Develop before/after project video content for YouTube and social media.",
+        "Implement automated review follow-up system for consistent 5-star reviews.",
+        "Monthly performance reporting with traffic, rankings, and lead generation metrics."
+      ]
+    }
+  ],
+  "pricingIntro": "Based on our analysis of Campbell Fence's digital presence, we recommend starting with a website rebuild to fix the critical crawlability issues, followed by an ongoing SEO and content strategy to dominate local search in the Oroville area.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$650/mo",
+      "recommended": false,
+      "features": [
+        "Website rebuild (SEO-ready HTML)",
+        "On-page SEO optimization",
+        "Google Business Profile setup",
+        "Schema markup implementation",
+        "Review solicitation strategy",
+        "Monthly reporting",
+        "2 directory listings/month"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,200/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Blog content (2-4 posts/month)",
+        "Social media setup & management",
+        "Dedicated service pages",
+        "Project photo galleries",
+        "Local link building",
+        "All major directory listings"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$2,000/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "City-specific landing pages",
+        "Google Ads management",
+        "Video content production",
+        "Automated review system",
+        "Competitor monitoring",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes. We've worked with businesses across multiple industries including manufacturing, construction, and professional services.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "I'd love to walk you through these findings and discuss which approach makes the most sense for Campbell Fence. No obligation — just a straightforward look at where things stand and what the opportunities are.",
+    "I'm offering a free 30-minute strategy call to dig into the specifics and answer any questions. Reach me directly at (530) 786-3655 or reply to this email.",
+    "With 20+ years of reputation and a BBB A+ rating, you've already earned the trust. Let's make sure your online presence reflects it."
+  ]
+}

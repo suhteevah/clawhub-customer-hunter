@@ -1,0 +1,147 @@
+{
+  "businessName": "Feather River Aire",
+  "contactName": "Jason",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Feather River Aire has a seriously impressive website foundation -- 246 pages, 165+ blog posts, HVACBusiness schema, branded email, and a professionally designed site built by CI Web Group. Your blog publishing cadence (2-4 posts/month consistently) is better than 95% of HVAC companies. The technical foundation is strong.",
+    "But there's a critical problem that's costing you leads right now: your 'Request Service' page is completely blank. Every 'Request Service' button on every page of your site -- the header CTA, the homepage buttons, all of them -- leads to an empty page with no form. On top of that, your Contact page also has no form. The only way to reach you through the website is by phone call or clicking a mailto link in the footer. That means anyone trying to reach you after hours, or anyone who prefers to message instead of call, hits a dead end.",
+    "Beyond the conversion issue: your homepage hero headline is a DIV instead of an H1 tag (invisible to search engines), your Twitter link has a typo and redirects to a login page, there's no Instagram presence, and your robots.txt is actively blocking Google from crawling your FAQ and troubleshooting content -- the exact pages that would drive organic traffic."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- featherriveraire.com",
+      "points": [
+        "Built on WordPress + Elementor with Astra theme -- professional, modern design.",
+        "246 pages in sitemap -- extensive service and location coverage.",
+        "165+ blog posts with consistent publishing cadence through January 2026.",
+        "HVACBusiness schema, LocalBusiness, Organization, and AggregateRating structured data.",
+        "Branded email (info@featherriveraire.com, Dispatch@featherriveraire.com) -- professional.",
+        "Google Tag Manager installed -- tracking infrastructure present.",
+        "304 Google reviews at 4.8 stars -- outstanding social proof.",
+        "WP Rocket caching with lazy loading -- good performance optimization."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Request Service page is COMPLETELY BLANK -- primary CTA leads to dead end on every page.",
+        "Contact page has NO contact form -- only map, phone, and address displayed.",
+        "Homepage hero headline is a DIV, not H1 -- most important SEO element missing.",
+        "No OG image meta tag -- social media shares show no preview image.",
+        "Twitter/X link has typo ('featheriveraire' missing an 'r') and redirects to login page.",
+        "No Instagram presence -- critical miss for visual home services marketing.",
+        "Robots.txt blocks FAQ, terminology, and troubleshooting pages from Google indexing.",
+        "No homepage FAQ section despite having FAQ schema on service pages."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Oroville/Chico HVAC market has strong competition from larger companies.",
+        "Your 165+ blog posts and 304 reviews are competitive advantages most HVAC companies can't match.",
+        "Day & Night Elite Dealer and Mitsubishi Electric partnerships are trust signals competitors lack.",
+        "The broken Request Service page means competitors with working forms are capturing your leads right now."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Request Service", "finding": "Primary CTA page is completely blank -- every 'Request Service' button leads to dead end", "priority": "High", "status": "Critical" },
+    { "area": "Contact Form", "finding": "No contact form on Contact page either -- phone and mailto only conversion paths", "priority": "High", "status": "Critical" },
+    { "area": "H1 Tag", "finding": "Homepage hero headline is a DIV, not an H1 -- invisible to search engines", "priority": "High", "status": "Needs Fix" },
+    { "area": "Robots.txt", "finding": "Actively blocking Google from crawling FAQ, terminology, and troubleshooting content", "priority": "High", "status": "Needs Fix" },
+    { "area": "Social Media", "finding": "Twitter link broken (typo), no Instagram, no YouTube -- missing key platforms", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "OG Image", "finding": "No Open Graph image -- social shares show no preview, hurting click-through", "priority": "Medium", "status": "Missing" },
+    { "area": "Reviews", "finding": "304 Google reviews at 4.8 stars but no live review widget on homepage above fold", "priority": "Medium", "status": "Underutilized" },
+    { "area": "Schema", "finding": "HVACBusiness + LocalBusiness + AggregateRating schema -- strong foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix Critical Conversion Issues (Months 1-2)",
+      "actions": [
+        "Build and deploy contact/service request form on Request Service page -- immediate lead recovery.",
+        "Add contact form to Contact page with name, phone, email, service type, and urgency fields.",
+        "Fix homepage H1 tag -- change hero headline from DIV to proper H1.",
+        "Add OG image meta tag for social media sharing previews.",
+        "Fix or remove broken Twitter link -- correct typo in URL.",
+        "Update robots.txt -- unblock FAQ, terminology, and troubleshooting pages for Google indexing.",
+        "Add Google Reviews widget above the fold on homepage -- showcase 304 reviews at 4.8 stars."
+      ]
+    },
+    {
+      "title": "Phase 2: Expand Visibility (Months 3-5)",
+      "actions": [
+        "Set up Instagram account and start posting job photos, team content, before/after projects.",
+        "Add homepage FAQ section with FAQ schema targeting 'HVAC near me Oroville,' 'AC repair cost Chico CA.'",
+        "Create dedicated city landing pages for Chico, Paradise, Gridley, and Yuba City.",
+        "Add BreadcrumbList schema to all service pages.",
+        "Integrate blog content with service page internal linking strategy.",
+        "Implement online scheduling/booking integration (Housecall Pro or similar)."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Optimization (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent HVAC keywords during peak heating/cooling seasons.",
+        "Video content: system installations, maintenance tips, customer testimonials.",
+        "Email marketing to existing customer base for seasonal tune-up reminders.",
+        "Verify GA4 is properly configured through GTM -- ensure conversion tracking is active.",
+        "Monthly reporting on traffic, rankings, lead generation, and form submissions."
+      ]
+    }
+  ],
+  "pricingIntro": "Feather River Aire has the best content foundation of any HVAC company I've audited in this market -- 246 pages, 165+ blog posts, and 304 Google reviews. The issue isn't building from scratch -- it's fixing a broken conversion path and unlocking the SEO value you're already sitting on.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$650/mo",
+      "recommended": false,
+      "features": [
+        "Request Service page fix",
+        "Contact form implementation",
+        "H1 tag & OG image fixes",
+        "Robots.txt optimization",
+        "Twitter link fix",
+        "Google Reviews widget",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Instagram setup & management",
+        "Homepage FAQ with schema",
+        "City landing pages",
+        "Breadcrumb schema",
+        "Online scheduling integration",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "GA4 conversion tracking",
+        "Social media management",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Jason, you've invested heavily in this website -- 246 pages, 165+ blog posts, Day & Night Elite Dealer status, 304 reviews. The foundation is exceptional. But every 'Request Service' button on your site leads to a blank page, and that's costing you leads every single day.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Fixing the form alone could immediately start capturing leads you're currently losing. That's a 5-minute conversation and a same-day fix. Let's start there."
+  ]
+}

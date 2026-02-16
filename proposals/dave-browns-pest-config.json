@@ -1,0 +1,146 @@
+{
+  "businessName": "Dave Brown's Pest Control",
+  "contactName": "Dave Brown",
+  "date": "February 15, 2026",
+  "executiveSummary": [
+    "Dave Brown's Pest Control has an impressive resume — voted Best Pest Control in Butte County four consecutive years (2020-2023), 30+ years of experience, and a family-run business that customers love. Your website even has some smart SEO foundations: LocalBusiness schema, Google Analytics, location-specific pages, and a clean modern design.",
+    "But here's what I found during my audit: your sitemap is indexing 12 junk pages from a construction template that have nothing to do with pest control — pages about scaffolding, cabinetry, masonry, and custom staircases. These are being submitted to Google right now, diluting your search authority and confusing search engines about what your business actually does.",
+    "Beyond the junk pages, you have zero blog content in a keyword-rich industry, only 3 service pages for a company that handles dozens of pest types, duplicate location pages creating canonicalization issues, and a Gmail address instead of branded email. The good news: your site has a better foundation than most competitors. These fixes would unlock significant organic traffic growth."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — davebrownpestcontrol.com",
+      "points": [
+        "Clean, professional design with consistent branding — yellow/gray color scheme, modern fonts.",
+        "LocalBusiness, WebPage, BreadcrumbList, and WebSite schemas implemented — better than most local service sites.",
+        "Google Analytics (GA4) and Google Tag Manager installed — you're collecting data.",
+        "11 location-specific pages (Chico, Durham, Oroville, Paradise, Orland, etc.) — smart for local SEO.",
+        "Trust badges in footer: Angi, Yellow Pages, BBB, Reader's Choice logos.",
+        "12 JUNK PAGES indexed in sitemap — scaffolding blueprints, cabinetry, masonry, custom staircases. Template leftovers actively hurting SEO.",
+        "Using Gmail (davebrownspestcontrol@gmail.com) instead of branded email.",
+        "Image alt text has misspellings: 'roden remmoval' instead of 'rodent removal.'"
+      ]
+    },
+    {
+      "title": "Content & Service Page Gaps",
+      "points": [
+        "Only 3 service pages total: General Pest Control, Rodent Control, Wasp Removal. This is extremely thin for a 30+ year company.",
+        "Missing individual pages for: termites, ants, spiders, bed bugs, cockroaches, fleas, gophers, moles, mosquitoes — each a separate ranking opportunity.",
+        "Zero blog content — no seasonal pest guides, no prevention tips, no local pest alerts for Butte County.",
+        "FAQ page exists with 6 questions but lacks FAQ schema markup — missing rich snippet opportunities.",
+        "Duplicate location pages: both /chico-ca/ and /location/chico-ca/ exist — creates canonicalization issues.",
+        "'Best of Butte County 2020-2023' award barely mentioned — should be front and center in meta descriptions and schema."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Western Termite Solutions competes in the same market with a significantly weaker website.",
+        "Clark Pest Control and other regional chains have strong SEO but lower local trust.",
+        "Most local pest control companies in Butte County aren't investing in content marketing — there's an opening.",
+        "Your 4-year Best of Butte County streak is a powerful differentiator that most competitors can't match.",
+        "Companies that publish seasonal pest content (spring ant season, fall rodent migration) consistently outrank those that don't."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Sitemap Hygiene", "finding": "12 junk template pages (scaffolding, cabinetry, masonry) indexed in Google", "priority": "High", "status": "Critical" },
+    { "area": "Content", "finding": "Zero blog content in a keyword-rich pest control market", "priority": "High", "status": "Missing" },
+    { "area": "Service Pages", "finding": "Only 3 service pages — missing individual pages for 10+ pest types", "priority": "High", "status": "Critical" },
+    { "area": "Email", "finding": "Gmail address instead of branded @davebrownpestcontrol.com", "priority": "High", "status": "Needs Fix" },
+    { "area": "FAQ Schema", "finding": "6 FAQs exist but lack FAQ schema markup for rich results", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Duplicate URLs", "finding": "Location pages exist at both root and /location/ paths — canonicalization risk", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "Misspellings in alt text ('roden remmoval') — hurts image SEO", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Schema/Design", "finding": "LocalBusiness schema, clean design, analytics — good foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Clean Up & Fix (Months 1-2)",
+      "actions": [
+        "Delete or noindex the 12 junk template pages immediately — scaffolding, cabinetry, masonry, etc.",
+        "Resolve duplicate location pages — set canonical URLs to prevent confusion.",
+        "Set up branded email (dave@davebrownpestcontrol.com) to replace Gmail.",
+        "Add FAQ schema markup to existing FAQ page for rich snippet visibility.",
+        "Fix misspelled image alt text and add descriptions to all images.",
+        "Rewrite homepage meta description to lead with 'Best Pest Control in Butte County 2020-2023.'",
+        "Add AggregateRating schema to testimonials page."
+      ]
+    },
+    {
+      "title": "Phase 2: Expand & Build (Months 3-5)",
+      "actions": [
+        "Create 10-15 individual pest service pages: Termite Treatment, Ant Control, Spider Removal, Bed Bug Treatment, Cockroach Extermination, Flea/Tick Control, Gopher Removal, etc.",
+        "Launch blog: 'Spring ant season in Chico CA,' 'Rodent-proofing your home before winter,' 'Termite signs every Butte County homeowner should know.'",
+        "Expand FAQ to 15+ questions with detailed answers.",
+        "Optimize Google Business Profile with regular posts, Q&A, and photo uploads.",
+        "Launch review solicitation strategy — leverage the Best of Butte County brand.",
+        "Reduce page load: audit third-party scripts (GA4, GTM, Jetpack, Gauges, Stripe — that's a lot of JS)."
+      ]
+    },
+    {
+      "title": "Phase 3: Dominate (Months 6-12)",
+      "actions": [
+        "Google Ads for high-intent pest control keywords during peak seasons.",
+        "Video content: pest identification guides, treatment process videos, customer testimonials.",
+        "Email marketing for seasonal pest alerts and prevention reminders.",
+        "Monthly reporting on traffic, rankings, lead generation, and review growth.",
+        "Competitor monitoring to maintain search position advantage."
+      ]
+    }
+  ],
+  "pricingIntro": "Dave Brown's Pest Control has a stronger website foundation than most local competitors — it needs cleanup, content expansion, and strategic SEO to start performing at the level your reputation deserves.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Junk page cleanup & redirects",
+        "Meta tags & on-page SEO",
+        "FAQ schema implementation",
+        "Branded email setup",
+        "Alt text & image optimization",
+        "Canonical URL fixes",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "10-15 pest-specific service pages",
+        "Blog content (2-4 posts/month)",
+        "FAQ expansion & schema",
+        "Google Business Profile optimization",
+        "Review solicitation system",
+        "Page speed optimization"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Email marketing setup",
+        "Competitor monitoring",
+        "Advanced analytics dashboard",
+        "Weekly performance reports"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "Dave, the 12 junk pages in your sitemap are an easy fix that would immediately improve your search performance. I'd love to show you what else is possible.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Four straight years as Best Pest Control in Butte County is a story worth telling online. Let's make sure Google knows it too."
+  ]
+}
