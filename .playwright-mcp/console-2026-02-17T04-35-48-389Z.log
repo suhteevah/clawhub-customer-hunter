@@ -1,0 +1,6 @@
+[    1150ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&ver=6.8.3:331
+[    1179ms] Uncaught TypeError: Cannot read properties of null (reading 'appendChild')
+    at <anonymous> (https://tag.brandcdn.com/autoscript/chicoelectric_vfzsrk1vouvam2m9/Chico_Electric.js:0:250)
+    at <anonymous> (https://tag.brandcdn.com/autoscript/chicoelectric_vfzsrk1vouvam2m9/Chico_Electric.js:0:271)
+[    6335ms] [WARNING] Google Maps JavaScript API warning: NoApiKeys https://developers.google.com/maps/documentation/javascript/error-messages#no-api-keys @ https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js:28
+[    6335ms] [WARNING] Google Maps JavaScript API warning: SensorNotRequired https://developers.google.com/maps/documentation/javascript/error-messages#sensor-not-required @ https://maps.googleapis.com/maps-api-v3/api/js/63/14d/util.js:28

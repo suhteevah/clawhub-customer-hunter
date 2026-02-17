@@ -1,0 +1,145 @@
+{
+  "businessName": "George Roofing",
+  "contactName": "Owner",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "George Roofing has been a trusted name in Northern California roofing since 1977 — nearly 50 years of service across Butte, Colusa, Glenn, Nevada, Placer, Plumas, Sacramento, Shasta, Sutter, Tehama, Yolo, and Yuba counties. That kind of longevity is rare and valuable. But your digital presence is severely underperforming relative to your reputation.",
+    "Your website at georgeroofing.net is built on Google Sites — a free platform with inherent SEO limitations that make it nearly impossible to rank for competitive roofing keywords. The site has no meta descriptions, no schema markup, no dedicated service pages, no blog, no customer reviews displayed, and the page title is simply 'Home.' Google Sites restricts your ability to add structured data, custom meta tags, and technical SEO elements that modern search engines require.",
+    "Your competitors in the Oroville/Chico area are investing in WordPress sites with full SEO, content marketing, and review integration. With 47 years of trust behind you, a proper digital presence would immediately capture the local market share you're losing to newer companies with better websites."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — georgeroofing.net",
+      "points": [
+        "Built on Google Sites — major limitation for SEO customization and technical optimization.",
+        "Page title is generic 'Home' — no keyword targeting, no business name in title.",
+        "No meta descriptions detected on any page.",
+        "Minimal content — only a basic tagline: 'COMMERCIAL ROOFING - RESIDENTIAL ROOFING - METAL SIDING - SEAMLESS GUTTERS.'",
+        "No dedicated service pages for individual roofing services.",
+        "Single location listing only — no location-specific pages for the 12 counties served.",
+        "No blog or resource content for organic traffic generation.",
+        "Hero image missing alt text — invisible to Google Image Search."
+      ]
+    },
+    {
+      "title": "Technical SEO Gaps",
+      "points": [
+        "Zero schema markup — no LocalBusiness, RoofingContractor, or Service structured data.",
+        "No Google Business Profile integration visible on the website.",
+        "No customer reviews or testimonials displayed.",
+        "No social media presence or links visible.",
+        "Mobile responsive design is present (credit where due).",
+        "Contact info present: (530) 533-6393, 6810 Lincoln Blvd, Oroville CA 95966."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Competitors like Allegiant Roofing, Chico Roofing Company, and Sierra Roofing all have modern WordPress sites with full SEO.",
+        "47 years in business is a massive trust signal that competitors cannot replicate — but it's invisible to Google in its current state.",
+        "Google Sites severely limits your ability to compete for 'roofing contractor Oroville' and similar high-value local keywords.",
+        "A proper website rebuild would leapfrog competitors who have less experience but better digital presence."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Platform", "finding": "Google Sites — inherently limited for SEO, no custom meta tags, no schema capability", "priority": "Critical", "status": "Needs Fix" },
+    { "area": "Page Title", "finding": "Generic 'Home' title — no keywords, no business name, no location targeting", "priority": "Critical", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "Zero structured data — no LocalBusiness, no RoofingContractor schema", "priority": "High", "status": "Missing" },
+    { "area": "Meta Descriptions", "finding": "No meta descriptions on any page", "priority": "High", "status": "Missing" },
+    { "area": "Service Pages", "finding": "No dedicated pages for commercial, residential, metal siding, gutters", "priority": "High", "status": "Missing" },
+    { "area": "Content Depth", "finding": "Minimal content — only a tagline, no detailed service descriptions", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog", "finding": "No blog or content marketing — zero organic traffic generation", "priority": "Medium", "status": "Missing" },
+    { "area": "Reviews", "finding": "No customer reviews or testimonials displayed on website", "priority": "Medium", "status": "Missing" },
+    { "area": "Image SEO", "finding": "Hero image missing alt text", "priority": "Medium", "status": "Needs Fix" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: New Website Foundation (Months 1-2)",
+      "actions": [
+        "Build a professional WordPress website replacing Google Sites — full SEO capability unlocked.",
+        "Implement RoofingContractor + LocalBusiness schema markup with 47 years of business history.",
+        "Create 4 dedicated service pages: Commercial Roofing, Residential Roofing, Metal Siding, Seamless Gutters.",
+        "Write unique meta descriptions and optimized title tags for every page.",
+        "Add alt text to all images with keyword-rich descriptions.",
+        "Integrate Google Reviews widget to display your earned reputation.",
+        "Set up Google Analytics and Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Local SEO Domination (Months 3-5)",
+      "actions": [
+        "Create location pages for top-priority counties: Butte, Shasta, Placer, Sacramento, Sutter, Yuba.",
+        "Launch blog with monthly roofing content: seasonal maintenance, material guides, storm damage tips.",
+        "Optimize Google Business Profile with photos, posts, and review management.",
+        "Build citation consistency across directories (BBB, Yelp, YellowPages, Angi).",
+        "Implement FAQ schema for common roofing questions."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Leadership (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent roofing keywords in Butte County and surrounding areas.",
+        "Before/after project galleries with proper image SEO.",
+        "Video content showcasing 47 years of expertise and completed projects.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal roofing promotions and maintenance reminders."
+      ]
+    }
+  ],
+  "pricingIntro": "George Roofing has nearly 50 years of trust and expertise. The goal is to build a digital presence that matches that legacy — one that actually shows up when homeowners in your 12-county service area search for a roofing contractor.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Professional WordPress website build",
+        "4 dedicated service pages",
+        "RoofingContractor schema markup",
+        "Meta descriptions & title tag optimization",
+        "Google Reviews integration",
+        "Google Analytics setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "6 county/location landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "FAQ schema implementation",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Project gallery with image SEO",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "47 years in roofing is something no competitor can buy. But right now, homeowners searching 'roofer Oroville CA' are finding your competitors because Google Sites is holding you back. A proper website would change that overnight.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Let's build a digital presence that matches nearly five decades of expertise."
+  ]
+}

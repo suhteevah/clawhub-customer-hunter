@@ -1,0 +1,146 @@
+{
+  "businessName": "Murdock's Moving & Storage",
+  "contactName": "Team",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Murdock's Moving & Storage has a well-built WordPress site with AIOSEO Pro managing the on-page SEO, and you've done several things right: a strong title tag targeting Chico, Yuba City, and North Sacramento, a proper canonical URL, all 27 homepage images with alt text, an active blog with consistent posts, dedicated service area pages for every city you serve, and FAQPage schema on the homepage. That's a better SEO foundation than most moving companies in Northern California.",
+    "But there are structural issues quietly undermining your rankings. Your Open Graph title is pulling your phone number '(530) 209-8389' instead of your brand name -- every social share looks unprofessional. There's no LocalBusiness or MovingCompany schema, meaning Google has zero structured NAP data for your business. The heading hierarchy jumps from H1 straight to H4, skipping H2/H3 entirely for your service sections. And the OG description doesn't match the meta description, giving Google mixed signals.",
+    "The moving industry in Northern California is competitive, but Murdock's already has the content velocity and page structure that most competitors lack. Fixing these technical gaps would unlock the ranking potential that's currently being left on the table."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- murdocksmoving.com",
+      "points": [
+        "Built on WordPress with AIOSEO Pro (v4.9.3) managing SEO.",
+        "Web design by Electronicplayground.com.",
+        "Title tag well-optimized: '#1 Moving Company | Chico | Yuba City | North Sacramento.'",
+        "Meta description present targeting local keywords.",
+        "Canonical URL properly set to https://murdocksmoving.com/.",
+        "All 27 homepage images have alt text -- zero missing.",
+        "Active blog with recent posts (Jan 2026, Dec 2025, Oct 2025, Aug 2025).",
+        "Dedicated service area pages for Chico, Yuba City, Oroville, Sacramento, Roseville, Lincoln, and more.",
+        "FAQPage schema implemented on homepage.",
+        "Chico Chamber of Commerce member -- trust signal.",
+        "Video quoting feature and strong CTAs throughout.",
+        "Two locations: Chico (1160 Eaton Rd) and Yuba City (929 Garden Hwy)."
+      ]
+    },
+    {
+      "title": "Technical SEO Issues",
+      "points": [
+        "OG title shows phone number '(530) 209-8389' instead of brand name -- unprofessional on social shares.",
+        "No LocalBusiness or MovingCompany schema -- zero structured NAP data for Google.",
+        "Heading hierarchy broken: H1 jumps to H4, skipping H2/H3 for service sections.",
+        "H2 tags used decoratively for footer content (office hours, locations) instead of content headings.",
+        "OG description doesn't match meta description -- mixed signals.",
+        "No individual owner/contact name visible on homepage."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Moving is a competitive local SEO niche in the Sacramento/Chico corridor.",
+        "Murdock's content velocity (active blog, service area pages) is a significant competitive advantage.",
+        "Competitors with proper schema markup and clean heading hierarchy will rank higher for the same keywords.",
+        "The broken OG tags are costing social referral traffic that competitors are capturing."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "OG Title", "finding": "Displays phone number instead of brand name -- unprofessional on social", "priority": "High", "status": "Needs Fix" },
+    { "area": "Local Schema", "finding": "No LocalBusiness or MovingCompany schema -- zero structured NAP data", "priority": "High", "status": "Missing" },
+    { "area": "Heading Hierarchy", "finding": "H1 jumps to H4, skipping H2/H3 -- confuses crawlers", "priority": "High", "status": "Needs Fix" },
+    { "area": "OG Description", "finding": "Doesn't match meta description -- mixed signals to Google", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Blog Content", "finding": "Active with recent posts -- good content velocity", "priority": "Low", "status": "Good" },
+    { "area": "Service Area Pages", "finding": "Dedicated pages for every city served -- strong local SEO asset", "priority": "Low", "status": "Good" },
+    { "area": "Image Alt Text", "finding": "All 27 images have proper alt text", "priority": "Low", "status": "Good" },
+    { "area": "FAQ Schema", "finding": "FAQPage schema implemented on homepage", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Technical Fixes & Quick Wins (Months 1-2)",
+      "actions": [
+        "Fix OG title to display brand name instead of phone number.",
+        "Implement MovingCompany schema with full NAP data for both Chico and Yuba City locations.",
+        "Fix heading hierarchy: convert H4 service headings to H2/H3, fix decorative H2s in footer.",
+        "Align OG description with meta description for consistent signals.",
+        "Audit AIOSEO Pro settings for missed optimization opportunities.",
+        "Set up enhanced Google Search Console monitoring."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Optimization & Review Strategy (Months 3-5)",
+      "actions": [
+        "Optimize existing service area pages with unique content and local keywords.",
+        "Increase blog frequency to weekly posts targeting moving-related search queries.",
+        "Implement review solicitation strategy to build Google review count.",
+        "Add Google Reviews widget to homepage and service pages.",
+        "Optimize Google Business Profile for both Chico and Yuba City locations."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Expansion (Months 6-12)",
+      "actions": [
+        "Google Ads targeting moving keywords across the Sacramento/Chico corridor.",
+        "Video testimonials and moving tip content for YouTube SEO.",
+        "Landing pages for specific moving services (commercial, long-distance, storage).",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal moving promotions (summer peak season, college move-in)."
+      ]
+    }
+  ],
+  "pricingIntro": "Murdock's Moving already has the hardest-to-build SEO assets: active blog content, service area pages for every city, and proper FAQ schema. The technical issues (OG tags, heading hierarchy, missing schema) are all quick fixes in AIOSEO Pro that would immediately improve your ranking potential.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "OG tag optimization (title + description)",
+        "MovingCompany schema implementation (2 locations)",
+        "Heading hierarchy fix across all pages",
+        "AIOSEO Pro configuration audit",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Service area page content optimization",
+        "Weekly blog content (4+ posts/mo)",
+        "Google Business Profile optimization (2 locations)",
+        "Review solicitation strategy",
+        "Google Reviews widget integration",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Service-specific landing pages",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Murdock's Moving has the content foundation that most competitors would take months to build. The technical fixes are all quick wins in AIOSEO Pro that would immediately unlock the ranking potential your content is already generating.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Murdock's the undisputed top result when anyone in Northern California searches for a moving company."
+  ]
+}

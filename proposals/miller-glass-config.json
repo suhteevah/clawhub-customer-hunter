@@ -1,0 +1,144 @@
+{
+  "businessName": "Miller Glass",
+  "contactName": "Floyd",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Miller Glass has been in business for over 50 years with 7 locations across Northern California and a BBB A+ rating -- that's a level of trust and reach that most glass companies in the region can't touch. Your website at millerglasschico.com is built on WordPress, which gives you a powerful platform. You've got a clear service lineup and your contact information is prominent.",
+    "But the website has fundamental SEO gaps that are costing you search visibility. There's no meta description on the homepage, meaning Google is writing your search snippet for you. There's zero schema markup -- no LocalBusiness, no GlassService type, nothing telling Google about your 7 locations or 50-year history in a structured way. The heading hierarchy is broken with tags jumping inconsistently, and there's no blog or content strategy generating organic traffic.",
+    "Here's the opportunity: you have 7 physical locations and 50 years of history. If each location had a properly optimized landing page with LocalBusiness schema and review integration, Miller Glass would dominate glass-related searches across a huge footprint in Northern California. Right now, that potential is sitting untapped."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- millerglasschico.com",
+      "points": [
+        "Built on WordPress -- full SEO capability and plugin ecosystem.",
+        "7 locations across Northern California -- massive local SEO potential.",
+        "BBB A+ rating -- strong third-party trust signal.",
+        "50+ year business history -- longevity and reliability.",
+        "CSLB License #424495 displayed -- trust signal for contractors.",
+        "Contact: Floyd Miller ('Call Floyd Miller, The Glass Man').",
+        "Clear service categories across residential and commercial glass."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "No meta description on homepage -- Google auto-generates from body copy.",
+        "Zero schema markup -- no LocalBusiness, no GlassService structured data.",
+        "Heading hierarchy broken -- H-tags jump inconsistently, confusing crawlers.",
+        "No blog or content marketing -- zero informational traffic capture.",
+        "No Google Reviews integration despite likely strong review history.",
+        "7 locations but no dedicated location pages with unique content.",
+        "Image alt text is generic or missing across service pages."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Glass services in Northern California are moderately competitive.",
+        "Miller Glass's 7-location footprint is a massive competitive advantage if leveraged with local SEO.",
+        "Most glass company competitors have basic single-location SEO setups.",
+        "First to build location-specific landing pages with schema would dominate the region.",
+        "BBB A+ and 50-year history are trust signals competitors can't replicate."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Description", "finding": "Missing on homepage -- Google auto-generates search snippets", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "Zero structured data -- no LocalBusiness for any of 7 locations", "priority": "High", "status": "Missing" },
+    { "area": "Heading Hierarchy", "finding": "H-tags jump inconsistently -- confuses search crawlers", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or content strategy -- zero organic informational traffic", "priority": "High", "status": "Missing" },
+    { "area": "Location Pages", "finding": "7 locations but no dedicated landing pages with unique content", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "No Google Reviews integration despite BBB A+ rating", "priority": "Medium", "status": "Missing" },
+    { "area": "Platform", "finding": "WordPress -- strong foundation for SEO work", "priority": "Low", "status": "Good" },
+    { "area": "Trust Signals", "finding": "BBB A+, 50yr history, CSLB #424495 all displayed", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: On-Page SEO & Technical Foundation (Months 1-2)",
+      "actions": [
+        "Add optimized meta descriptions to homepage and all service pages.",
+        "Implement LocalBusiness schema for all 7 locations with full NAP data.",
+        "Fix heading hierarchy across all pages with proper H1/H2/H3 structure.",
+        "Add descriptive alt text to all images with service and location context.",
+        "Integrate Google Reviews widget on homepage and location pages.",
+        "Set up Google Analytics and Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Location Pages & Content Strategy (Months 3-5)",
+      "actions": [
+        "Create 7 dedicated location landing pages with unique content for each city.",
+        "Launch blog with glass industry content: maintenance tips, energy-efficient windows, commercial glass trends.",
+        "Optimize Google Business Profile for all 7 locations with photos and posts.",
+        "Build citation consistency across glass-specific and general directories.",
+        "Implement review solicitation strategy across all locations."
+      ]
+    },
+    {
+      "title": "Phase 3: Regional Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting glass and window keywords across all 7 service areas.",
+        "Before/after project galleries with full image SEO optimization.",
+        "Video content showcasing installation expertise and projects.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for commercial clients and property managers."
+      ]
+    }
+  ],
+  "pricingIntro": "Miller Glass has something most competitors can't match: 7 locations, 50 years of history, and a BBB A+ rating. But none of that is being communicated to Google in a structured way. Adding LocalBusiness schema for all 7 locations, proper meta descriptions, and location-specific landing pages would turn Miller Glass into the dominant search result for glass services across Northern California.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$700/mo",
+      "recommended": false,
+      "features": [
+        "Meta description optimization (all pages)",
+        "LocalBusiness schema for all 7 locations",
+        "Heading hierarchy fix",
+        "Image alt text audit & fix",
+        "Google Reviews integration",
+        "Google Analytics & Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,200/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "7 dedicated location landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization (7 locations)",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$2,000/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management (7 markets)",
+        "Before/after project galleries",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Miller Glass has the most location coverage of any glass company I've audited in Northern California. With 7 locations, 50 years of history, and a BBB A+ rating, the brand equity is already there -- it just needs to be communicated to Google properly. These are all quick wins on WordPress.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Miller Glass the top search result for glass services across every city you serve."
+  ]
+}

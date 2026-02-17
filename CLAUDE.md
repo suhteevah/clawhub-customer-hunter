@@ -72,8 +72,23 @@ Every proposal follows this structure:
 - Save every generated proposal to the `proposals/` directory
 - Update `config/clients.json` after every action
 
+## Current Pipeline Status
+- **36 emails sent** with personalized .docx proposals (as of 2026-02-16)
+- **6 proposals generated** for phone-only prospects (no email)
+- **1 prospect skipped** (Davis Excavating — business not found in Oroville)
+- **42 total clients** in `config/clients.json`
+- See `SESSION_HISTORY.md` for full detailed timeline and prospect list
+
 ## Existing Clients (reference)
-- **Midnight Munitions** — Christian Anderson, sales@midnightmunitions.com, veteran-owned NAS3 ammo manufacturer in Nephi UT. Homie/freebie.
-- **First Choice Plastics** — Cory Sturgis, Corysturgis@live.com, plastics/3D printing in Oroville CA. Homie/business partner.
+- **Midnight Munitions** — Christian Anderson, sales@midnightmunitions.com, veteran-owned NAS3 ammo manufacturer in Nephi UT. Homie/freebie. ✅ Sent
+- **First Choice Plastics** — Cory Sturgis, Corysturgis@live.com, plastics/3D printing in Oroville CA. Homie/business partner. ✅ Sent
 - **Halsey Bottling** — Previous client, SEO analysis completed
 - **Compac Engineering** — Previous client
+- **M&M Fence** — mandmfence@yahoo.com, Chico CA, 36yr fencing company. Cold. ✅ Sent
+- **Apex HVAC** — jesse@apexhvac.co, Redding CA, HVAC contractor. Cold. ✅ Sent
+- **+ 17 more cold prospects** — See `config/clients.json` for full database
+
+## Matt's Standing Instructions
+- All approvals given — do not ask for confirmation, just execute
+- After proposals sent, immediately scrape for more prospects
+- Use real audit data only — never fabricate numbers or rankings

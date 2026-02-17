@@ -1,0 +1,4 @@
+[    1618ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5162fff83017c0e0:0
+[    1618ms] ReferenceError: addthis is not defined
+    at http://www.chicoplumbingsolutions.com/:516:3948
+[    3003ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://www.chicoplumbingsolutions.com/favicon.ico:0

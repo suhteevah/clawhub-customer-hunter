@@ -1,0 +1,148 @@
+{
+  "businessName": "Walgamuth Painting",
+  "contactName": "Team",
+  "date": "February 17, 2026",
+  "executiveSummary": [
+    "Walgamuth Painting has been serving Redding and the North State for over 50 years -- that's an incredible track record. Your website at walgamuthpainting.com is built on WordPress with the Divi theme and Yoast SEO installed, which gives you a solid technical foundation. Your image alt text is actually better than most competitors -- location keywords included on nearly every image. And your meta description exists and mentions your history.",
+    "But the site hasn't had a real SEO strategy update since around 2015. The homepage has no H1 tag at all -- that's one of the most important on-page ranking signals and it's completely missing. There's no LocalBusiness schema, so Google has no structured data about your business location, hours, or services. The blog has only 2 posts from March 2015 -- over 10 years old. The about page says '40 years' while the homepage says '50 years,' which creates a trust inconsistency. And there are no Open Graph tags for social sharing.",
+    "Painting is a competitive niche in Shasta County, but most competitors have similar or worse SEO gaps. Walgamuth's 50-year reputation, DVBE certification, and CSLB license give you trust signals that competitors can't match. Fixing the technical fundamentals would immediately translate that offline reputation into online visibility."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- walgamuthpainting.com",
+      "points": [
+        "Built on WordPress with Divi theme and Yoast SEO plugin.",
+        "Phone: (530) 223-2220 prominently displayed.",
+        "Address: 1877 Keystone Court, Redding, CA 96003.",
+        "CSLB License #907711 and DVBE Certification #2017370.",
+        "50+ years in business -- strongest trust signal in the market.",
+        "Image alt text is well-optimized with location keywords.",
+        "Website built/managed by SearchBar Marketing."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "No H1 tag on homepage -- critical missing ranking signal.",
+        "No LocalBusiness schema -- Google has no structured NAP data.",
+        "Blog is dead -- only 2 posts from March 2015 (10+ years old).",
+        "Content inconsistency -- about page says '40 years' but homepage says '50 years'.",
+        "No Open Graph or Twitter Card meta tags -- social shares look generic.",
+        "Heading hierarchy misuse -- phone number as H2, testimonial as H3.",
+        "robots.txt has unnecessary Crawl-Delay: 3 that could slow indexing.",
+        "No Google Reviews integration or testimonial widgets."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Painting contractors in Shasta County are moderately competitive.",
+        "Most competitors have similar or worse SEO -- opportunity to leapfrog.",
+        "50-year history and DVBE certification are unmatched trust signals.",
+        "Image alt text optimization already gives you an edge over competitors.",
+        "First painter in Redding to build out content and local schema captures significant share."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "H1 Tag", "finding": "Completely missing on homepage -- critical ranking signal absent", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "No LocalBusiness schema -- only basic WebPage and BreadcrumbList", "priority": "High", "status": "Missing" },
+    { "area": "Blog/Content", "finding": "Dead -- only 2 posts from March 2015 (10+ years old)", "priority": "High", "status": "Needs Fix" },
+    { "area": "Content Consistency", "finding": "About page says 40 years, homepage says 50 years -- trust issue", "priority": "High", "status": "Needs Fix" },
+    { "area": "Open Graph Tags", "finding": "Missing -- social media shares show no preview image", "priority": "Medium", "status": "Missing" },
+    { "area": "Heading Structure", "finding": "Phone number as H2, testimonial as H3, H1 missing entirely", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Meta Description", "finding": "Present and mentions 50-year history -- decent foundation", "priority": "Low", "status": "Good" },
+    { "area": "Image Alt Text", "finding": "Well-optimized with location keywords on nearly every image", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Critical Fixes & Foundation (Months 1-2)",
+      "actions": [
+        "Add proper H1 tag with keyword-rich, geo-targeted heading.",
+        "Fix heading hierarchy -- remove phone from H2, testimonial from H3.",
+        "Implement LocalBusiness schema with full NAP, services, hours, and service area.",
+        "Fix content inconsistency (40 vs 50 years) across all pages.",
+        "Add Open Graph and Twitter Card meta tags with custom images.",
+        "Remove unnecessary Crawl-Delay from robots.txt and add sitemap reference.",
+        "Integrate Google Reviews widget and add testimonial section."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Strategy & Local SEO (Months 3-5)",
+      "actions": [
+        "Revive the blog with monthly content: painting tips, color trends, project showcases.",
+        "Create dedicated service pages for commercial, residential, industrial, and resinous flooring.",
+        "Build service area pages for Anderson, Red Bluff, Shasta Lake, and surrounding cities.",
+        "Optimize Google Business Profile with project photos and regular posts.",
+        "Build citation consistency across contractor and home service directories.",
+        "Implement review solicitation strategy leveraging 50 years of client relationships."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting painting keywords in Shasta County.",
+        "Before/after project gallery with full image SEO.",
+        "Video content showcasing commercial and industrial projects.",
+        "Leverage DVBE certification for government contract visibility.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal painting campaigns."
+      ]
+    }
+  ],
+  "pricingIntro": "Walgamuth Painting has 50 years of reputation and certifications that money can't buy. The WordPress and Yoast foundation is solid, and your image alt text is already better than most competitors. What's missing is the on-page optimization layer -- the H1 tag, LocalBusiness schema, and fresh content -- that would turn that offline reputation into search dominance. These are all quick WordPress fixes.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "H1 tag and heading hierarchy fix",
+        "LocalBusiness schema implementation",
+        "Content consistency audit & fix",
+        "Open Graph tag implementation",
+        "Google Reviews integration",
+        "robots.txt optimization",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "4 dedicated service pages",
+        "Service area landing pages",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "DVBE certification marketing",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Walgamuth Painting has 50 years of trust and certifications that competitors can't replicate. The website just needs its technical SEO gaps filled -- the missing H1, the LocalBusiness schema, and fresh content -- to start converting that reputation into search visibility.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Walgamuth Painting the first result when anyone in Shasta County searches for a painting contractor."
+  ]
+}

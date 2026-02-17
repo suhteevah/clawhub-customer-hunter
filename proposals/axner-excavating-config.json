@@ -1,0 +1,146 @@
+{
+  "businessName": "Axner Excavating, Inc.",
+  "contactName": "Julie",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Axner Excavating has been operating in Redding and Shasta County since 1967 -- nearly 60 years of excavation expertise. Your website at axnerexcavating.com is built on WordPress, you've got a CSLB License #613824 displayed, and your PageSpeed SEO score is a perfect 100. That technical foundation is solid.",
+    "But the site has critical on-page SEO gaps that are limiting your visibility. Your title tag only targets Redding, missing the broader Northern California and Shasta County keywords that could expand your reach. The meta description is weak and generic. The H1 is a branding statement rather than a keyword-rich heading. There's no LocalBusiness or ExcavatingContractor schema, meaning Google has no structured data about your business. And 2 out of 3 homepage images are missing alt text.",
+    "Excavation is a competitive niche in the Redding area, but most of your competitors have the same SEO gaps. Axner's 60-year history and perfect technical scores give you a head start -- fixing the on-page issues and building a content strategy would establish you as the dominant excavation company online in Shasta County."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- axnerexcavating.com",
+      "points": [
+        "Built on WordPress -- full SEO capability and plugin ecosystem.",
+        "CSLB License #613824 prominently displayed -- strong trust signal.",
+        "In business since 1967 -- nearly 60 years of operation.",
+        "Owner: Julie Tatom.",
+        "PageSpeed SEO score: 100 -- perfect technical foundation.",
+        "PageSpeed Performance score: 52 -- room for improvement but not critical.",
+        "Clear service offerings for excavation and grading work."
+      ]
+    },
+    {
+      "title": "On-Page SEO Gaps",
+      "points": [
+        "Title tag only targets 'Redding' -- missing Shasta County and Northern California keywords.",
+        "Meta description is weak and generic with no compelling CTA.",
+        "H1 tag is a branding statement instead of keyword-rich heading.",
+        "No LocalBusiness or ExcavatingContractor schema -- zero structured data.",
+        "2 out of 3 homepage images missing alt text.",
+        "No blog or content marketing strategy.",
+        "No Google Reviews integration or testimonial section.",
+        "No dedicated service area pages for surrounding cities."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Excavation is a competitive niche in Shasta County with several established companies.",
+        "Most competitors share similar on-page SEO gaps -- opportunity for differentiation.",
+        "Axner's 60-year history is the strongest trust signal in the market.",
+        "Perfect PageSpeed SEO score gives a technical ranking advantage.",
+        "First to build out content and location pages would capture significant search share."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Title Tag", "finding": "Only targets Redding -- missing Shasta County and broader geographic terms", "priority": "High", "status": "Needs Fix" },
+    { "area": "Meta Description", "finding": "Weak and generic -- no compelling CTA or differentiator", "priority": "High", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "No LocalBusiness or excavation-specific structured data", "priority": "High", "status": "Missing" },
+    { "area": "H1 Tag", "finding": "Branding statement instead of keyword-rich heading", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "2 of 3 homepage images missing alt text", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or content marketing -- zero informational traffic", "priority": "Medium", "status": "Missing" },
+    { "area": "Reviews", "finding": "No Google Reviews integration despite 60-year reputation", "priority": "Medium", "status": "Missing" },
+    { "area": "PageSpeed SEO", "finding": "Perfect 100 score -- excellent technical foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: On-Page Optimization & Quick Wins (Months 1-2)",
+      "actions": [
+        "Expand title tag to include Shasta County and Northern California keywords.",
+        "Rewrite meta description with compelling CTA and service differentiators.",
+        "Fix H1 tag with keyword-rich, geographically targeted heading.",
+        "Implement LocalBusiness schema with full NAP data and service types.",
+        "Add descriptive alt text to all images across the site.",
+        "Integrate Google Reviews widget and add testimonial section.",
+        "Set up Google Search Console for indexing and performance monitoring."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local SEO Strategy (Months 3-5)",
+      "actions": [
+        "Create service area pages for Anderson, Red Bluff, Cottonwood, and surrounding cities.",
+        "Launch blog with excavation industry content: site prep tips, grading guides, project showcases.",
+        "Optimize Google Business Profile with project photos, posts, and Q&A.",
+        "Build citation consistency across construction and excavation directories.",
+        "Implement review solicitation strategy leveraging 60 years of client relationships."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Leadership (Months 6-12)",
+      "actions": [
+        "Google Ads targeting excavation and grading keywords in Shasta and surrounding counties.",
+        "Project gallery pages with before/after comparisons and full image SEO.",
+        "Video content showcasing heavy equipment work and completed projects.",
+        "Monthly competitive analysis and ranking reports.",
+        "LinkedIn strategy for commercial and government contract visibility."
+      ]
+    }
+  ],
+  "pricingIntro": "Axner Excavating has something money can't buy: 60 years of reputation in Shasta County. Your perfect PageSpeed SEO score shows the technical foundation is there. What's missing is the on-page optimization and content layer that would translate that history into search dominance. These are all quick fixes on WordPress that would produce fast results.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Title tag and meta description optimization",
+        "H1 tag fix with keyword targeting",
+        "LocalBusiness schema implementation",
+        "Image alt text audit & fix",
+        "Google Reviews integration",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "4 service area landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Project gallery pages with image SEO",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Axner Excavating has nearly 60 years of trust in Shasta County and a perfect technical SEO score. Adding the on-page optimization layer and building out content would give you a clear ranking advantage that newer competitors can't match.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Axner Excavating the first result when anyone in Northern California searches for excavation work."
+  ]
+}

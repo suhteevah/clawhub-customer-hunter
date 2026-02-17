@@ -1,0 +1,148 @@
+{
+  "businessName": "Chico Septic",
+  "contactName": "Jamie",
+  "date": "February 17, 2026",
+  "executiveSummary": [
+    "Chico Septic has established itself as a reliable septic service provider in the Chico area, and your website at chicoseptic.com shows you're investing in the right direction. You're on WordPress with Elementor, you have a blog that's actively updated -- your most recent post was February 2026 -- and you've got basic LocalBusiness schema in place. That puts you ahead of most septic companies in the region.",
+    "But there are clear gaps holding you back from ranking where you should be. Your meta description is generic and doesn't include 'Chico' or any geographic keywords -- that's costing you click-through rate on every search result. You have multiple H1 tags on your homepage, which dilutes your keyword focus. The schema markup is incomplete -- no Service schema, no FAQ schema, no Review schema. There are no Open Graph tags, so any social shares look generic with no preview image. And Elementor's heavy inline CSS/JS is likely hurting your page speed scores.",
+    "Septic services are high-intent, emergency-driven searches. When someone's septic system fails, they're calling the first company that shows up with good reviews and a professional presence. Your active blog gives you a content advantage -- now the technical SEO needs to match that effort to capture those urgent searches."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- chicoseptic.com",
+      "points": [
+        "Built on WordPress with Astra theme and Elementor page builder.",
+        "Contact: Jamie at jamie@chicoseptic.com.",
+        "Phone: (530) 343-6340 prominently displayed.",
+        "Address: 5050 Cohasset Road, #70, Chico, CA 95973.",
+        "Basic LocalBusiness schema with NAP data present.",
+        "Active blog with recent content (February 2026).",
+        "Gravity Forms for lead capture -- conversion path exists."
+      ]
+    },
+    {
+      "title": "Technical SEO Gaps",
+      "points": [
+        "Meta description is generic -- no geographic keywords like 'Chico' or 'Butte County'.",
+        "Multiple H1 tags on homepage -- dilutes keyword focus.",
+        "Schema markup incomplete -- missing Service, FAQ, and Review/AggregateRating schema.",
+        "No Open Graph tags -- social media shares show no preview image or custom description.",
+        "No canonical tag detected -- risk of duplicate content issues.",
+        "Heavy Elementor inline CSS/JS likely hurting Core Web Vitals and page speed.",
+        "Some navigation links use # anchors instead of proper URLs.",
+        "Image alt text missing on logo and several Elementor background images."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Septic services in Butte County are moderately competitive.",
+        "Your active blog is a significant advantage over competitors who have no content strategy.",
+        "Most septic competitors in the area have similar or worse technical SEO gaps.",
+        "Adding complete schema markup and fixing the technical issues would immediately improve rankings.",
+        "First company to build out FAQ schema and service-specific pages captures featured snippets."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Description", "finding": "Generic -- no geographic keywords (Chico, Butte County)", "priority": "High", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "Basic LocalBusiness present but missing Service, FAQ, and Review schema", "priority": "High", "status": "Needs Fix" },
+    { "area": "Heading Tags", "finding": "Multiple H1 tags on homepage -- dilutes keyword focus", "priority": "High", "status": "Needs Fix" },
+    { "area": "Open Graph Tags", "finding": "Missing -- social shares show no preview image or description", "priority": "Medium", "status": "Missing" },
+    { "area": "Image Alt Text", "finding": "Missing on logo and several Elementor background images", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Page Speed", "finding": "Elementor inline CSS/JS bloat likely hurting Core Web Vitals", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Blog Content", "finding": "Active blog with recent posts -- strong content foundation", "priority": "Low", "status": "Good" },
+    { "area": "SSL/HTTPS", "finding": "Active and properly configured", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Technical SEO Fixes & Quick Wins (Months 1-2)",
+      "actions": [
+        "Rewrite meta descriptions with geo-targeted keywords (Chico, Butte County, Northern CA).",
+        "Fix multiple H1 tags -- single keyword-rich H1 per page.",
+        "Expand schema markup: add Service schema for each service type, FAQ schema, Review/AggregateRating.",
+        "Add Open Graph tags with custom images and descriptions for social sharing.",
+        "Add descriptive alt text to all images across the site.",
+        "Add canonical tags to prevent duplicate content issues.",
+        "Set up Google Search Console for indexing and performance monitoring."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Optimization & Local SEO (Months 3-5)",
+      "actions": [
+        "Create dedicated service pages for septic pumping, installation, repair, and leach lines.",
+        "Optimize existing blog posts with internal linking and keyword targeting.",
+        "Build service area pages for Paradise, Oroville, Durham, and surrounding cities.",
+        "Optimize Google Business Profile with photos, posts, and Q&A.",
+        "Implement review solicitation strategy to build online reputation.",
+        "Build citation consistency across home service directories."
+      ]
+    },
+    {
+      "title": "Phase 3: Performance & Growth (Months 6-12)",
+      "actions": [
+        "Address Elementor page speed bloat -- optimize CSS/JS delivery.",
+        "Google Ads targeting emergency septic keywords in Butte County.",
+        "Before/after project galleries with full image SEO.",
+        "Video content showcasing septic installation and repair expertise.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal maintenance reminders."
+      ]
+    }
+  ],
+  "pricingIntro": "Chico Septic has something most competitors don't: an active blog producing relevant content. That's the hardest part of SEO to build. What's missing is the technical optimization layer -- the schema, the heading structure, the geo-targeted meta descriptions -- that would turn that content investment into real ranking improvements. These are all straightforward WordPress fixes that would produce fast results.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta description optimization (all pages)",
+        "H1 tag fixes across the site",
+        "Complete schema markup (Service, FAQ, Review)",
+        "Open Graph tag implementation",
+        "Image alt text audit & fix",
+        "Canonical tag setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Dedicated service pages (4+)",
+        "Service area landing pages",
+        "Blog content optimization & internal linking",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Elementor page speed optimization",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Chico Septic already has the content foundation with an active blog -- that's the hardest piece to build. Adding the technical SEO layer would immediately improve your visibility for the high-intent septic searches that drive emergency calls.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Chico Septic the first result when Butte County residents have a septic emergency."
+  ]
+}

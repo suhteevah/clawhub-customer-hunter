@@ -1,0 +1,143 @@
+{
+  "businessName": "Touch of Glass & Screen",
+  "contactName": "Team",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Touch of Glass & Screen has been serving the Oroville and Marysville area for 25 years with two locations, and your website at touchofglassandscreens.com has some basics in place: a WebSite and LocalBusiness schema, SSL active, and a clean domain name. You're on the Duda platform, which handles some SEO fundamentals automatically.",
+    "But the site is underperforming where it matters most. The meta description is weak and generic -- it's not compelling anyone to click. The schema markup is thin with just WebSite and LocalBusiness basics, missing service types and detailed NAP data. Your blog has only 1 post in what appears to be 2 years, which sends a stale content signal to Google. There are no dedicated service pages for your different offerings, and no Google Reviews integration despite 25 years of customer relationships.",
+    "Glass and screen services are need-based searches -- when someone needs a window replaced or a screen repaired, they're searching right now. The companies that show up first with compelling search snippets and strong review signals get the call. Touch of Glass has the history and the locations to win those searches, but the website needs to work harder."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- touchofglassandscreens.com",
+      "points": [
+        "Built on Duda platform -- handles basic SEO automatically.",
+        "Two locations: Oroville (530) 538-8100 and Marysville (530) 673-3737.",
+        "25 years in business -- established local reputation.",
+        "WebSite and LocalBusiness schema detected.",
+        "SSL/HTTPS active across the site.",
+        "Clean, professional domain name."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Meta description is weak and generic -- not compelling for clicks.",
+        "Schema markup is thin: only WebSite + basic LocalBusiness, missing service types.",
+        "Blog has only 1 post in approximately 2 years -- stale content signal.",
+        "No dedicated service pages for individual offerings (windows, screens, mirrors, shower doors).",
+        "No Google Reviews integration or testimonial section.",
+        "No location-specific landing pages for Oroville vs. Marysville.",
+        "Limited image alt text optimization across the site."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Glass and screen repair is a need-based, high-intent search niche.",
+        "Two-location footprint gives competitive advantage over single-location shops.",
+        "Most glass/screen competitors in Oroville and Marysville have minimal SEO investment.",
+        "25-year history is a trust differentiator that isn't being leveraged online.",
+        "First mover on content and review strategy would capture significant market share."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Description", "finding": "Weak and generic -- not compelling for click-through rate", "priority": "High", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "Thin -- only basic WebSite + LocalBusiness, missing service types", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog Content", "finding": "Only 1 post in ~2 years -- sends stale content signal to Google", "priority": "High", "status": "Needs Fix" },
+    { "area": "Service Pages", "finding": "No dedicated pages for individual services (windows, screens, mirrors)", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "No Google Reviews integration despite 25-year reputation", "priority": "Medium", "status": "Missing" },
+    { "area": "Location Pages", "finding": "No dedicated Oroville vs. Marysville landing pages", "priority": "Medium", "status": "Missing" },
+    { "area": "SSL/HTTPS", "finding": "Active across entire site", "priority": "Low", "status": "Good" },
+    { "area": "Basic Schema", "finding": "WebSite and LocalBusiness schema present", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: On-Page Optimization & Quick Wins (Months 1-2)",
+      "actions": [
+        "Rewrite meta descriptions with compelling CTAs and local keywords.",
+        "Expand schema markup with service types, detailed NAP data, and service areas.",
+        "Create dedicated service pages for windows, screens, mirrors, shower doors, and more.",
+        "Add descriptive alt text to all images across the site.",
+        "Integrate Google Reviews widget and add testimonial section.",
+        "Set up Google Analytics and Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Strategy & Local SEO (Months 3-5)",
+      "actions": [
+        "Create dedicated location pages for Oroville and Marysville with unique content.",
+        "Launch blog with monthly content: glass maintenance tips, screen repair guides, seasonal prep.",
+        "Optimize Google Business Profile for both locations with photos and posts.",
+        "Build citation consistency across home service directories (Angi, HomeAdvisor, Yelp).",
+        "Implement review solicitation strategy to build online reputation."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Expansion (Months 6-12)",
+      "actions": [
+        "Google Ads targeting glass and screen keywords in Butte and Yuba counties.",
+        "Before/after project galleries with full image SEO.",
+        "Video content showcasing craftsmanship and customer satisfaction.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal promotions (storm damage season, spring screen repairs)."
+      ]
+    }
+  ],
+  "pricingIntro": "Touch of Glass & Screen has 25 years of trust and two locations -- but the website isn't converting that reputation into search visibility. The meta descriptions, thin schema, and stale blog are all fixable, and adding service pages and location pages would immediately expand your keyword footprint.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta description optimization (all pages)",
+        "Schema markup expansion with service types",
+        "4 dedicated service pages",
+        "Image alt text audit & fix",
+        "Google Reviews integration",
+        "Google Analytics & Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "2 location landing pages (Oroville + Marysville)",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization (2 locations)",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Touch of Glass has 25 years of community trust and two locations -- the foundation is solid. Expanding the schema, adding service pages, and building a content strategy would make you the go-to search result for glass and screen services in both Oroville and Marysville.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's put Touch of Glass & Screen at the top of the search results where your 25-year reputation says you belong."
+  ]
+}

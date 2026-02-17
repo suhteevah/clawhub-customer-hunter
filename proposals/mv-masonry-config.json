@@ -1,0 +1,147 @@
+{
+  "businessName": "MV Masonry",
+  "contactName": "Mike",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "MV Masonry has been serving Chico, Oroville, Paradise, and the surrounding area as a licensed masonry contractor (License #906601), and your website at mvmasonry-chico.com has some solid fundamentals in place. You've got a descriptive title tag with geographic modifiers, meta descriptions, proper Organization and BreadcrumbList schema markup, and your name and address clearly displayed. That puts you ahead of many local contractors.",
+    "But here's where it falls short: your homepage has minimal written content, your portfolio images lack descriptive alt text, there's no blog or content marketing strategy, no customer reviews or testimonials on the site, and no location-specific pages for the different cities you serve. Your service pages exist but lack the keyword-rich detail needed to rank for competitive searches.",
+    "Masonry is a niche trade with relatively low SEO competition in Northern California. A focused content and local SEO strategy would quickly establish MV Masonry as the dominant online presence for masonry services across Butte, Glenn, and Tehama counties."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- mvmasonry-chico.com",
+      "points": [
+        "Built on WordPress -- full SEO capability and plugin ecosystem.",
+        "Descriptive title tag: 'Masonry, Stone, Brick, Tile Contractor | Chico, Oroville, Paradise | MV Masonry.'",
+        "Meta descriptions present and descriptive.",
+        "Organization and BreadcrumbList schema markup implemented.",
+        "Owner name (Mike Vowell) and business address clearly displayed.",
+        "License #906601 visible -- strong trust signal.",
+        "Photo gallery sections for interior and exterior work.",
+        "Service areas include Chico, Oroville, Paradise, Magalia, Red Bluff, and surrounding areas."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "Homepage contains minimal textual content -- not enough for keyword targeting.",
+        "Portfolio images lack descriptive alt text -- invisible to Google Image Search.",
+        "No blog section -- zero organic traffic from informational masonry searches.",
+        "No customer reviews or testimonials integrated from Google, Yelp, or any platform.",
+        "No location-specific pages for individual service areas.",
+        "Service descriptions are brief -- need expansion with keyword-rich content.",
+        "No FAQ schema or structured Q&A content.",
+        "No call-to-action buttons or lead capture forms visible."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Masonry is a low-competition SEO niche in Northern California -- significant first-mover advantage available.",
+        "Most competing masonry contractors have minimal or no online presence.",
+        "Your existing WordPress foundation and schema markup give you a head start over competitors.",
+        "Building out content and location pages would establish MV Masonry as the clear online leader in the region."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Content Depth", "finding": "Homepage has minimal text -- not enough for keyword targeting", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "Portfolio images lack descriptive alt attributes", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog", "finding": "No blog or content marketing -- zero informational traffic", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "No customer reviews or testimonials on the website", "priority": "High", "status": "Missing" },
+    { "area": "Location Pages", "finding": "No dedicated pages for Chico, Oroville, Paradise, Red Bluff", "priority": "Medium", "status": "Missing" },
+    { "area": "Service Pages", "finding": "Exist but lack detailed keyword-rich descriptions", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Lead Capture", "finding": "No visible call-to-action buttons or contact forms", "priority": "Medium", "status": "Missing" },
+    { "area": "Title Tag", "finding": "Descriptive with geographic modifiers -- well optimized", "priority": "Low", "status": "Good" },
+    { "area": "Schema Markup", "finding": "Organization and BreadcrumbList properly implemented", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Content Foundation & Quick Wins (Months 1-2)",
+      "actions": [
+        "Expand homepage content with keyword-rich descriptions of masonry services.",
+        "Add descriptive alt text to all 50+ portfolio images with project-specific details.",
+        "Integrate Google Reviews widget and add customer testimonials section.",
+        "Add prominent call-to-action buttons and lead capture form on every page.",
+        "Expand service page descriptions with detailed content (500+ words each).",
+        "Implement FAQ schema for common masonry questions.",
+        "Set up Google Analytics and Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Local SEO Domination (Months 3-5)",
+      "actions": [
+        "Create location pages for Chico, Oroville, Paradise, Magalia, and Red Bluff.",
+        "Launch blog with monthly masonry content: stone selection, brick maintenance, outdoor living projects.",
+        "Optimize Google Business Profile with portfolio photos, posts, and review management.",
+        "Build citation consistency across directories (BBB, Yelp, Angi, HomeAdvisor).",
+        "Implement review solicitation strategy to build online reputation."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Leadership (Months 6-12)",
+      "actions": [
+        "Google Ads targeting masonry keywords in Butte, Glenn, and Tehama counties.",
+        "Professional project galleries with before/after comparisons and image SEO.",
+        "Video content showcasing masonry craftsmanship and completed projects.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal promotions (outdoor living season, fireplace season)."
+      ]
+    }
+  ],
+  "pricingIntro": "Masonry is one of the lowest-competition SEO niches in Northern California. MV Masonry already has a WordPress foundation with schema markup and a portfolio. Building out the content and local SEO layer would make you the undisputed online leader for masonry services in the region.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Homepage content expansion",
+        "Image alt text optimization (50+ images)",
+        "Google Reviews integration",
+        "CTA buttons & lead capture forms",
+        "Service page content expansion",
+        "FAQ schema implementation",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "5 location landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Professional project galleries",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Masonry contractors barely exist online in Northern California -- which means the opportunity is wide open. With your WordPress site, portfolio, and license already in place, a focused SEO push would dominate the local market fast.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make MV Masonry the first name that shows up when homeowners search for masonry work in your area."
+  ]
+}

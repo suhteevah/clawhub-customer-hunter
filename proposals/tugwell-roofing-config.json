@@ -1,0 +1,147 @@
+{
+  "businessName": "Tugwell Roofing Co.",
+  "contactName": "Jeff",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Tugwell Roofing has built a strong reputation in the Redding and Chico markets, and your website at tugwellroofing.com reflects that with a solid WordPress foundation. You've got proper schema markup (WebPage, BreadcrumbList, WebSite), two location pages with distinct phone numbers, GAF MasterElite and Owens Corning certifications prominently displayed, and real customer testimonials from Google, Yelp, and Angi. That's more than most roofing contractors can say.",
+    "But here's where it falls short: you have no meta descriptions on any page, your homepage title is a generic 'Home - Tugwell Roofing Co.' with no keyword targeting, and there's no blog or content marketing strategy. Your service pages rely on 'Learn More' links instead of detailed keyword-rich content, and your image alt text is inconsistent. These are all fixable gaps that are costing you organic traffic right now.",
+    "The good news is your WordPress platform with Pro theme and Cornerstone builder gives you full flexibility to implement these changes without rebuilding anything. A focused SEO and content strategy would turn your existing strong foundation into a dominant local presence."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- tugwellroofing.com",
+      "points": [
+        "Built on WordPress with Pro theme + Cornerstone page builder -- full SEO capability.",
+        "Schema markup implemented: WebPage, ImageObject, BreadcrumbList, WebSite entities.",
+        "Two location pages with distinct phone numbers: Redding (530-222-9983) and Chico (530-895-9983).",
+        "GAF MasterElite and Owens Corning certifications prominently displayed.",
+        "License #1019496 visible -- strong trust signal.",
+        "Three customer testimonials from Google, Yelp, and Angi with named reviewers.",
+        "Responsive design with multiple CSS breakpoints (479px-1200px).",
+        "Prominent CTAs: 'CALL TODAY,' 'GET A FREE QUOTE,' 'LEARN MORE.'"
+      ]
+    },
+    {
+      "title": "SEO & Content Gaps",
+      "points": [
+        "No meta descriptions on any page -- Google is auto-generating snippets that may not highlight your strengths.",
+        "Homepage title is generic 'Home - Tugwell Roofing Co.' -- no keyword targeting for 'roofing contractor Redding' or similar.",
+        "No blog or content marketing -- zero organic traffic from informational searches.",
+        "Service pages are thin -- rely on 'Learn More' links rather than detailed in-page content.",
+        "Image alt text not consistently implemented despite descriptive filenames.",
+        "Limited internal linking structure between service and location pages.",
+        "No FAQ schema or structured Q&A content.",
+        "No breadcrumb navigation visible despite having BreadcrumbList schema."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Competitors like Hamilton Roofing have modern Astro/Vercel sites with dedicated service area pages for each city.",
+        "Boster Roofing has RoofingContractor schema with more detailed structured data.",
+        "Your GAF MasterElite certification is a differentiator that should be leveraged more aggressively in search results.",
+        "Two physical locations give you a local SEO advantage -- but only if you build out location-specific content for each market."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Descriptions", "finding": "No meta descriptions on any page -- Google auto-generating snippets", "priority": "Critical", "status": "Missing" },
+    { "area": "Title Tags", "finding": "Generic 'Home - Tugwell Roofing Co.' title -- no keyword targeting", "priority": "Critical", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or content marketing strategy -- missed organic traffic opportunity", "priority": "High", "status": "Missing" },
+    { "area": "Service Pages", "finding": "Thin content -- rely on 'Learn More' links rather than detailed descriptions", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "Not consistently implemented despite descriptive filenames", "priority": "High", "status": "Needs Fix" },
+    { "area": "Internal Linking", "finding": "Limited cross-linking between service and location pages", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "WebPage, BreadcrumbList, WebSite schema properly implemented", "priority": "Low", "status": "Good" },
+    { "area": "Location Pages", "finding": "Two distinct location pages with separate contact numbers", "priority": "Low", "status": "Good" },
+    { "area": "Certifications", "finding": "GAF MasterElite and Owens Corning displayed with warranty info", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix Critical SEO Gaps (Months 1-2)",
+      "actions": [
+        "Write unique meta descriptions (155 chars) for every page targeting primary keywords.",
+        "Optimize all title tags with location + service keywords (e.g., 'Roofing Contractor Redding CA | Tugwell Roofing').",
+        "Expand service page content from brief summaries to 500+ word detailed descriptions.",
+        "Add comprehensive alt text to all images with keyword-rich descriptions.",
+        "Implement FAQ schema for common roofing questions on service pages.",
+        "Build internal linking strategy connecting service pages to location pages.",
+        "Set up Google Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Marketing & Local SEO (Months 3-5)",
+      "actions": [
+        "Launch blog with monthly roofing content: maintenance tips, material guides, storm damage advice.",
+        "Create additional location pages for Paradise, Red Bluff, Anderson, and surrounding cities.",
+        "Optimize Google Business Profiles for both Redding and Chico locations.",
+        "Build citation consistency across directories (BBB, Yelp, Angi, HomeAdvisor).",
+        "Implement review solicitation strategy leveraging GAF MasterElite certification."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Expansion & Paid Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent roofing keywords in Shasta and Butte counties.",
+        "Before/after project galleries with proper image SEO.",
+        "Video content showcasing completed projects and team expertise.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal promotions and maintenance reminders."
+      ]
+    }
+  ],
+  "pricingIntro": "Tugwell Roofing has a strong WordPress foundation with proper schema, two locations, and real certifications. The goal is to fill the content and SEO gaps so your two-location advantage translates into dominant search visibility across both the Redding and Chico markets.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta descriptions & title tag optimization",
+        "Service page content expansion",
+        "Image alt text optimization",
+        "FAQ schema implementation",
+        "Internal linking strategy",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "4+ location landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Dual Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management (2 markets)",
+        "Project gallery with image SEO",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "You've got two locations, GAF MasterElite certification, and a WordPress site that can handle everything we'd implement. The missing piece is the content and SEO strategy that turns your existing setup into a lead-generating machine for both markets.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make sure when someone searches 'roofer Redding' or 'roofing company Chico,' Tugwell is the first name they see."
+  ]
+}

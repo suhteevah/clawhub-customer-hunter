@@ -1,0 +1,12 @@
+[    2286ms] ReferenceError: jQuery is not defined
+    at https://chicoseptic.com/wp-content/plugins/gravityforms/js/jquery.json.min.js:1:1816
+[    2286ms] ReferenceError: jQuery is not defined
+    at https://chicoseptic.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js:2:4603
+[    2520ms] [ERROR] Access to font at 'https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chqv4kjgogqm7e30-8s51os.woff2' from origin 'https://chicoseptic.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://chicoseptic.com/:0
+[    2520ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chqv4kjgogqm7e30-8s51os.woff2:0
+[    2552ms] [ERROR] Access to font at 'https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chqv4kjgogqm7e3t-4s51os.woff2' from origin 'https://chicoseptic.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://chicoseptic.com/:0
+[    2552ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chqv4kjgogqm7e3t-4s51os.woff2:0
+[    2552ms] [ERROR] Access to font at 'https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chpv4kjgogqm7e_dms5.woff2' from origin 'https://chicoseptic.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://chicoseptic.com/:0
+[    2552ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chpv4kjgogqm7e_dms5.woff2:0
+[    2552ms] [ERROR] Access to font at 'https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chqv4kjgogqm7e3_-gs51os.woff2' from origin 'https://chicoseptic.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. @ https://chicoseptic.com/:0
+[    2552ms] [ERROR] Failed to load resource: net::ERR_FAILED @ https://lemonchiffon-eel-112136.hostingersite.com/wp-content/uploads/elementor/google-fonts/fonts/barlow-7chqv4kjgogqm7e3_-gs51os.woff2:0

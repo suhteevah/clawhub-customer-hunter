@@ -1,0 +1,146 @@
+{
+  "businessName": "SGB Custom Painting",
+  "contactName": "Scott",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "SGB Custom Painting has been serving the Chico and North Valley area for over 25 years, and your website at sgbpainting.com is clearly a professional build by Peterson SEO. You have solid fundamentals: a well-written meta description, canonical tags, Open Graph tags, all 18 images with proper alt text, FAQ content, blog section, and PDCA accreditation prominently displayed. That puts you well ahead of most painting contractors in the area.",
+    "But here's the issue: the site has structural SEO problems that are quietly holding you back. Your homepage has 5 separate H1 tags (Google expects one), the body copy is heavily keyword-stuffed with phrases like 'painting contractor Chico' repeated dozens of times, there's no dedicated Oroville landing page despite serving the area, and your phone number shows inconsistently across online directories -- (530) 924-4109 on your site versus (530) 343-1246 on third-party listings.",
+    "These aren't surface-level issues. Multiple H1 tags dilute your topical authority, keyword stuffing can trigger algorithmic penalties, and inconsistent NAP citations directly hurt your Local Pack rankings. The good news: every one of these issues is fixable, and fixing them would give you a clear ranking advantage over other painting contractors in the North Valley."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- sgbpainting.com",
+      "points": [
+        "Built on Squarespace -- managed by Peterson SEO Consulting.",
+        "Title tag is well-optimized: 'Trusted Chico Painting Contractor | SGB Custom Painting.'",
+        "Meta description present with value proposition and local keyword.",
+        "Canonical tag properly set to https://www.sgbpainting.com/.",
+        "All 18 images have alt text -- zero missing. Above average.",
+        "3 schema blocks detected on the homepage.",
+        "FAQ section with 5 detailed questions -- good for featured snippets.",
+        "Blog section exists with content at /blog.",
+        "PDCA accreditation, EPA certification, CSLB License #990114 displayed.",
+        "Service Worker registered -- helps with performance signals."
+      ]
+    },
+    {
+      "title": "Critical SEO Issues",
+      "points": [
+        "5 H1 tags on homepage -- Google expects exactly one. This dilutes topical authority and confuses crawlers.",
+        "Heavy keyword stuffing: 'painting contractor Chico,' 'house painters Chico,' and 'painter Chico' used dozens of times in body copy.",
+        "No dedicated Oroville landing page -- Oroville only mentioned in footer service area list.",
+        "No dedicated Paradise, Gridley, Orland, or Willows landing pages either.",
+        "Schema markup is likely boilerplate LocalBusiness -- not customized with service types, service areas, or price ranges.",
+        "Customer reviews section contains image placeholders -- no actual review text visible in DOM.",
+        "Phone number inconsistency: (530) 924-4109 on site vs (530) 343-1246 on third-party directories."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Painting contractor market in Chico is moderately competitive with several SEO-managed competitors.",
+        "Peterson SEO is doing template-style work -- solid surface but lacking customization.",
+        "Competitors with dedicated city pages for Oroville, Paradise, etc. will outrank SGB for those searches.",
+        "NAP citation inconsistency gives competitors with clean citations a ranking advantage in Local Pack."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "H1 Structure", "finding": "5 H1 tags on homepage -- Google expects one primary H1", "priority": "High", "status": "Needs Fix" },
+    { "area": "Keyword Stuffing", "finding": "Excessive repetition of 'painting contractor Chico' throughout body copy", "priority": "High", "status": "Needs Fix" },
+    { "area": "Location Pages", "finding": "No dedicated pages for Oroville, Paradise, Gridley, Orland, Willows", "priority": "High", "status": "Missing" },
+    { "area": "NAP Consistency", "finding": "Phone number mismatch between website and third-party directories", "priority": "High", "status": "Needs Fix" },
+    { "area": "Reviews", "finding": "Customer reviews section shows image placeholders -- no actual review text", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "3 schema blocks present but likely boilerplate -- needs customization", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Title Tag", "finding": "Well-optimized with local keyword and brand name", "priority": "Low", "status": "Good" },
+    { "area": "Image Alt Text", "finding": "All 18 images have proper alt text -- zero missing", "priority": "Low", "status": "Good" },
+    { "area": "Blog", "finding": "Blog section exists with content -- good foundation", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Technical Fixes & Quick Wins (Months 1-2)",
+      "actions": [
+        "Fix H1 hierarchy: one primary H1 per page, convert extras to H2/H3.",
+        "Rewrite body copy to eliminate keyword stuffing while maintaining SEO value.",
+        "Audit and fix NAP citation inconsistencies across all directories.",
+        "Customize schema markup with specific service types, areas, and pricing ranges.",
+        "Replace review image placeholders with actual Google review text and star ratings.",
+        "Set up Google Analytics and Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Location Pages & Content Expansion (Months 3-5)",
+      "actions": [
+        "Create dedicated landing pages for Oroville, Paradise, Gridley, Orland, and Willows.",
+        "Develop unique content for each location page with area-specific details.",
+        "Expand blog content with monthly painting tips, project showcases, and seasonal guides.",
+        "Implement review solicitation strategy to build Google review count.",
+        "Optimize Google Business Profile with fresh photos, posts, and Q&A."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting painting keywords across all North Valley cities.",
+        "Before/after project galleries with full image SEO optimization.",
+        "Video content showcasing painting projects and team expertise.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal painting promotions."
+      ]
+    }
+  ],
+  "pricingIntro": "SGB Custom Painting has a professional website managed by an SEO agency, but the structural issues under the surface are quietly costing you rankings. The H1 hierarchy, keyword stuffing, and NAP inconsistencies are all fixable quickly, and adding location pages for your service cities would open up search traffic you're currently invisible for.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "H1 hierarchy fix across all pages",
+        "Body copy rewrite (de-stuff keywords)",
+        "NAP citation audit & cleanup",
+        "Schema markup customization",
+        "Google Reviews integration",
+        "Google Analytics & Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "5 city-specific landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Your site has a strong foundation but the structural issues are silently costing you rankings. Fixing the H1 hierarchy, cleaning up keyword stuffing, and adding city-specific pages would give you a clear advantage over every other painting contractor in the North Valley.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make SGB Custom Painting the name that dominates every painting search in Chico, Oroville, Paradise, and beyond."
+  ]
+}

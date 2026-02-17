@@ -1,0 +1,144 @@
+{
+  "businessName": "Gheen Builders, Inc.",
+  "contactName": "Steve",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Gheen Builders has been a cornerstone of the Redding and Northern California construction market with an impressive portfolio that includes projects for Trader Joe's and the Institute of Technology. Your website at gheenbuilders.com has some real technical strengths: Organization, WebPage, BreadcrumbList, and ImageObject schema markup, SSL/HTTPS, multiple service-specific subpages, and license numbers prominently displayed (CSLB #599068, DIR #1000004336).",
+    "But the site is leaving significant organic ranking opportunities on the table. There's no active blog or content marketing -- zero content authority for competitive GC keywords. Meta descriptions are thin and generic with no calls to action. Image alt text is minimal across your project galleries. The homepage H1 uses an unverifiable '#1' claim that Google discounts, and there's no Google Reviews integration or testimonial schema despite having strong client relationships.",
+    "The general contractor market in Redding and Northern California is competitive, but most of your competitors have the same gaps. A focused content and local SEO strategy would establish Gheen Builders as the dominant online presence in the region."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- gheenbuilders.com",
+      "points": [
+        "Built on WordPress -- full SEO capability and plugin ecosystem.",
+        "Schema.org markup implemented: Organization, WebPage, BreadcrumbList, ImageObject.",
+        "SSL/HTTPS active across entire site.",
+        "Multiple service-specific subpages: construction services, residential, commercial, tenant improvements, construction management.",
+        "Active social profiles linked: Facebook, LinkedIn, Instagram.",
+        "CSLB #599068 and DIR #1000004336 prominently displayed -- strong trust signals.",
+        "Notable client projects: Trader Joe's, Institute of Technology."
+      ]
+    },
+    {
+      "title": "Content & SEO Gaps",
+      "points": [
+        "No active blog or content marketing -- zero topical authority for GC keywords.",
+        "A 'News' link exists but produces no fresh content.",
+        "Meta descriptions are thin and generic: 'provides general contractor and construction management services to the Redding area' -- no CTA, no differentiator.",
+        "Image alt text is minimal and generic across project galleries.",
+        "Homepage H1 uses '#1 GENERAL CONTRACTOR' -- unverifiable claim Google discounts.",
+        "H1 missing geographic qualifier (Redding / Northern CA).",
+        "No Google Reviews integration or Review schema markup.",
+        "Client testimonials referenced but not structured for search visibility."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "General contractor market in Shasta County is moderately competitive with several established firms.",
+        "Most competitors share similar SEO gaps -- content marketing is rare in this niche.",
+        "Gheen's existing schema markup and service page architecture give a structural advantage.",
+        "First mover on content strategy would establish significant ranking lead."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Blog/Content", "finding": "No active blog or content marketing -- zero informational traffic", "priority": "High", "status": "Missing" },
+    { "area": "Meta Descriptions", "finding": "Thin and generic -- no CTA, no differentiator, no keyword variation", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "Minimal and generic across project gallery pages", "priority": "High", "status": "Needs Fix" },
+    { "area": "H1 Tag", "finding": "Uses unverifiable '#1' claim, missing geographic qualifier", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Reviews", "finding": "No Google Reviews integration or Review schema despite strong clients", "priority": "Medium", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "Organization, WebPage, BreadcrumbList, ImageObject all implemented", "priority": "Low", "status": "Good" },
+    { "area": "Site Architecture", "finding": "Multiple service-specific subpages well-organized", "priority": "Low", "status": "Good" },
+    { "area": "Trust Signals", "finding": "License numbers, notable clients, social profiles all displayed", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: On-Page Optimization & Quick Wins (Months 1-2)",
+      "actions": [
+        "Rewrite all meta descriptions with compelling CTAs and keyword variation.",
+        "Fix homepage H1: remove '#1' claim, add 'Redding' or 'Northern California' geographic qualifier.",
+        "Add descriptive alt text to all project gallery images with project names and locations.",
+        "Implement Review schema and Google Reviews widget on homepage.",
+        "Add testimonial section with structured markup from existing client relationships.",
+        "Set up Google Analytics and Search Console for performance tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Strategy & Authority Building (Months 3-5)",
+      "actions": [
+        "Launch blog with monthly construction industry content: project showcases, building tips, Northern CA construction trends.",
+        "Create case study pages for marquee projects (Trader Joe's, Institute of Technology, etc.).",
+        "Optimize Google Business Profile with project photos, posts, and Q&A.",
+        "Build citation consistency across construction-specific directories (BBB, Angi, Houzz).",
+        "Implement review solicitation strategy leveraging existing client relationships."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Leadership (Months 6-12)",
+      "actions": [
+        "Google Ads targeting commercial construction and GC keywords in Shasta, Tehama, and Butte counties.",
+        "Video content: project walkthroughs, client testimonials, construction process highlights.",
+        "Expanded service area pages for surrounding cities and counties.",
+        "Monthly competitive analysis and ranking reports.",
+        "LinkedIn thought leadership strategy for commercial client acquisition."
+      ]
+    }
+  ],
+  "pricingIntro": "Gheen Builders has the best technical foundation of any GC website I've reviewed in the region -- the schema markup and site architecture are ahead of the curve. What's missing is the content layer that would turn that foundation into dominant search rankings. A focused content and review strategy would establish Gheen as the clear online leader for commercial and residential construction in Northern California.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$700/mo",
+      "recommended": false,
+      "features": [
+        "Meta description rewrite (all pages)",
+        "H1 tag optimization",
+        "Image alt text audit & fix",
+        "Google Reviews integration & schema",
+        "Testimonial section with structured data",
+        "Google Analytics & Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,200/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "3 case study pages for marquee projects",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$2,000/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Service area page expansion",
+        "LinkedIn strategy for B2B leads",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Gheen Builders has the strongest technical SEO foundation of any contractor site I've audited in the region. Adding a content layer and review strategy would turn that advantage into dominant search rankings that your competitors would struggle to catch.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Gheen Builders the first name that shows up when businesses and homeowners search for a general contractor in Northern California."
+  ]
+}

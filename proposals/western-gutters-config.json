@@ -1,0 +1,150 @@
+{
+  "businessName": "Western Heating & Rain Gutters",
+  "contactName": "Team",
+  "date": "February 17, 2026",
+  "executiveSummary": [
+    "Western Heating & Rain Gutters has been serving the Chico, Paradise, and Oroville areas for over 30 years with seamless rain gutters, leaf protection, and colored gutter solutions. Your website at westerngutters.com is on WordPress and your service pages are clean and focused. You've got three phone numbers covering your entire service area -- that's great for local presence.",
+    "But the website has serious technical SEO gaps that are costing you visibility. There's no H1 tag on the homepage -- one of the most important ranking signals is completely absent. There's zero schema markup, so Google has no structured data about your business locations, hours, or services. The meta description is missing entirely, meaning Google is auto-generating your search snippets. Most image alt text is just file names like 'seamless-gutters' instead of descriptive, keyword-rich text. There's a typo on the homepage -- 'Gutter Gaurds' instead of 'Gutter Guards.' And there's no blog at all -- just 11 pages total with zero content marketing.",
+    "Gutter services are seasonal and weather-driven -- when it starts raining in the North State, homeowners search for gutter companies fast. The first company with a professional, optimized presence captures those calls. Your 30-year reputation and lifetime warranty are trust signals competitors can't match. Fixing these technical fundamentals would immediately translate that offline reputation into online visibility."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- westerngutters.com",
+      "points": [
+        "Built on WordPress with iThemes Builder theme.",
+        "Phone: (530) 345-8550 (Chico), (530) 877-3427 (Paradise), (530) 538-8550 (Oroville).",
+        "Email: info@westerngutters.com.",
+        "CA License #665598.",
+        "30+ years in business with lifetime warranty on all work.",
+        "Uses Gravity Forms for lead capture -- conversion path exists.",
+        "Services: seamless rain gutters, GutterGlove leaf protection, colored gutters."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "No H1 tag on homepage -- critical missing ranking signal.",
+        "No meta description -- Google auto-generates search snippets.",
+        "Zero schema markup -- no LocalBusiness, no Service structured data.",
+        "Image alt text is generic file names, not descriptive keywords.",
+        "Typo on homepage: 'Gutter Gaurds' instead of 'Gutter Guards'.",
+        "No blog or content marketing -- only 11 pages total.",
+        "No Open Graph tags -- social media shares look generic.",
+        "Broken privacy policy link (trailing space in URL).",
+        "Gravity Forms reCAPTCHA sitekey missing -- potential form issues."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Gutter services in Butte County are moderately competitive.",
+        "Most gutter competitors have similar or worse SEO gaps.",
+        "30-year reputation and lifetime warranty are unmatched trust signals.",
+        "Three-location phone coverage gives you a local SEO advantage.",
+        "First gutter company in the area to build out content and schema captures significant share."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "H1 Tag", "finding": "Completely missing on homepage -- critical ranking signal absent", "priority": "High", "status": "Missing" },
+    { "area": "Meta Description", "finding": "Missing entirely -- Google auto-generates search snippets", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "Zero structured data -- no LocalBusiness, no Service schema", "priority": "High", "status": "Missing" },
+    { "area": "Image Alt Text", "finding": "Generic file names instead of descriptive, keyword-rich text", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog -- only 11 pages total with zero content marketing", "priority": "High", "status": "Missing" },
+    { "area": "Open Graph Tags", "finding": "Missing -- social media shares show no preview image", "priority": "Medium", "status": "Missing" },
+    { "area": "Content Quality", "finding": "Typo 'Gutter Gaurds' on homepage -- hurts credibility", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "SSL/HTTPS", "finding": "Active and properly configured", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Critical Fixes & Foundation (Months 1-2)",
+      "actions": [
+        "Add proper H1 tag with keyword-rich, geo-targeted heading.",
+        "Write optimized meta descriptions for all 11 pages.",
+        "Implement LocalBusiness schema with full NAP data for all 3 locations.",
+        "Fix all image alt text with descriptive, keyword-rich descriptions.",
+        "Fix 'Gutter Gaurds' typo and audit all content for errors.",
+        "Add Open Graph tags with custom images for social sharing.",
+        "Fix broken privacy policy link and Gravity Forms reCAPTCHA.",
+        "Set up Google Search Console and Analytics for tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Strategy & Local SEO (Months 3-5)",
+      "actions": [
+        "Launch blog with monthly content: gutter maintenance tips, rain season prep, leaf protection guides.",
+        "Create dedicated service area pages for Chico, Paradise, Oroville, and surrounding cities.",
+        "Optimize Google Business Profile with project photos and regular posts.",
+        "Build citation consistency across home service directories.",
+        "Implement review solicitation strategy leveraging 30 years of client relationships.",
+        "Add FAQ schema for common gutter questions to capture featured snippets."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting gutter keywords in Butte County.",
+        "Before/after project galleries with full image SEO.",
+        "Video content showcasing seamless gutter installation process.",
+        "Seasonal marketing campaigns timed to rain season.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal gutter maintenance reminders."
+      ]
+    }
+  ],
+  "pricingIntro": "Western Heating & Rain Gutters has 30 years of reputation and a lifetime warranty that competitors can't replicate. The WordPress foundation is solid, and the multi-location phone coverage is a natural local SEO advantage. What's missing is the optimization layer -- the H1 tag, meta descriptions, LocalBusiness schema, and content strategy -- that would turn that offline reputation into search dominance. These are all straightforward WordPress fixes that would produce fast results.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "H1 tag and heading hierarchy fix",
+        "Meta description optimization (all pages)",
+        "LocalBusiness schema for all 3 locations",
+        "Image alt text optimization",
+        "Content audit and typo fixes",
+        "Open Graph tag implementation",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "Service area landing pages",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "FAQ schema implementation"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Seasonal marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Western Heating & Rain Gutters has 30 years of trust and a lifetime warranty that competitors can't replicate. The website just needs its technical SEO gaps filled -- the missing H1, meta descriptions, and LocalBusiness schema -- to start converting that reputation into search visibility.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Western Gutters the first result when Butte County homeowners search for gutter services."
+  ]
+}

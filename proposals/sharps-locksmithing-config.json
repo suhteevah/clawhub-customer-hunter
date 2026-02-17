@@ -1,0 +1,143 @@
+{
+  "businessName": "Sharp's Locksmithing",
+  "contactName": "Team",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Sharp's Locksmithing has been a family-owned business serving Oroville and Chico since 1976 -- that's nearly 50 years of trust in the community. Your website at sharpslocksmithing.com is built on WordPress with Divi, which gives you a solid platform to work with. You've got two locations, a clear service list, and decades of reputation behind the brand.",
+    "But here's the problem: your site is essentially invisible to Google. There's no meta description on the homepage, meaning Google is auto-generating one from whatever body text it finds. There's no schema markup at all -- no LocalBusiness, no Locksmith type, zero structured data for Google to understand who you are, where you are, or what you do. The heading hierarchy has multiple H1 tags, there's no blog or content strategy, and the site has no review integration despite what's likely a strong reputation built over 50 years.",
+    "Locksmith services are a high-intent search -- when someone's locked out, they're Googling right now and calling the first result they see. Without proper on-page SEO, Sharp's is losing those emergency calls to competitors who've invested in their online presence. The good news: locksmith SEO in the Oroville/Chico market is not heavily contested, so fixing these fundamentals would produce fast results."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- sharpslocksmithing.com",
+      "points": [
+        "Built on WordPress with Divi theme -- full SEO capability.",
+        "Two locations: Oroville (530) 533-5713 and Chico (530) 893-0295.",
+        "Family-owned since 1976 -- nearly 50 years in business.",
+        "Clear service categories: residential, commercial, automotive locksmith.",
+        "SSL/HTTPS active across the site.",
+        "Contact information prominently displayed."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "No meta description on homepage -- Google auto-generates from body copy.",
+        "Zero schema markup -- no LocalBusiness, no Locksmith type, no structured NAP data.",
+        "Multiple H1 tags on homepage -- dilutes topical authority.",
+        "No blog or content marketing -- zero informational traffic capture.",
+        "No Google Reviews integration or testimonial section despite 50-year history.",
+        "No dedicated location pages for Oroville vs. Chico service areas.",
+        "Image alt text is minimal or missing across service pages."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Locksmith is a high-intent search niche -- callers need service immediately.",
+        "Oroville/Chico locksmith market has moderate SEO competition.",
+        "Most local locksmith competitors have basic websites with similar gaps.",
+        "Sharp's 50-year history is a massive trust differentiator that isn't being leveraged online.",
+        "Proper schema markup and review integration would create immediate ranking lift."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Description", "finding": "Missing entirely -- Google auto-generates from body text", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "Zero structured data -- no LocalBusiness, no Locksmith type", "priority": "High", "status": "Missing" },
+    { "area": "Heading Hierarchy", "finding": "Multiple H1 tags on homepage -- dilutes topical authority", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or content strategy -- zero informational traffic", "priority": "High", "status": "Missing" },
+    { "area": "Reviews", "finding": "No Google Reviews integration despite 50-year reputation", "priority": "Medium", "status": "Missing" },
+    { "area": "Location Pages", "finding": "No dedicated pages for Oroville and Chico service areas", "priority": "Medium", "status": "Missing" },
+    { "area": "Platform", "finding": "WordPress with Divi -- solid foundation for SEO improvements", "priority": "Low", "status": "Good" },
+    { "area": "SSL/HTTPS", "finding": "Active across entire site", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: On-Page SEO & Technical Fixes (Months 1-2)",
+      "actions": [
+        "Add optimized meta descriptions to homepage and all service pages.",
+        "Implement Locksmith + LocalBusiness schema with NAP data for both locations.",
+        "Fix heading hierarchy: single H1 per page, proper H2/H3 structure.",
+        "Add descriptive alt text to all images across the site.",
+        "Integrate Google Reviews widget and add testimonial section.",
+        "Set up Google Analytics and Search Console for tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local SEO Strategy (Months 3-5)",
+      "actions": [
+        "Create dedicated location pages for Oroville and Chico with unique content.",
+        "Launch blog with locksmith tips, security advice, and local safety content.",
+        "Optimize Google Business Profile for both locations with photos and posts.",
+        "Build citation consistency across locksmith and general directories.",
+        "Implement review solicitation strategy leveraging 50 years of client relationships."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting emergency locksmith keywords in Butte County.",
+        "Landing pages for specific services: automotive, commercial access control, safe opening.",
+        "Video content showcasing expertise and building trust.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for commercial clients (property managers, businesses)."
+      ]
+    }
+  ],
+  "pricingIntro": "Locksmith searches are some of the highest-intent local queries -- people need help right now. Sharp's has nearly 50 years of trust behind the brand, but the website isn't capturing those urgent searches. The technical fixes are straightforward on WordPress/Divi, and the low competition in the Oroville/Chico locksmith market means results would come fast.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta description optimization (all pages)",
+        "Locksmith + LocalBusiness schema (2 locations)",
+        "Heading hierarchy fix",
+        "Image alt text audit & fix",
+        "Google Reviews integration",
+        "Google Analytics & Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "2 dedicated location landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization (2 locations)",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Service-specific landing pages",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Sharp's has nearly 50 years of trust in the community -- but your website isn't telling Google that story. The missing schema, meta descriptions, and review integration are all quick fixes on WordPress that would immediately improve your visibility for high-intent locksmith searches.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Sharp's Locksmithing the first call when someone in Oroville or Chico needs a locksmith."
+  ]
+}

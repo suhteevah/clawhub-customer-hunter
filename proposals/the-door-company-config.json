@@ -1,0 +1,148 @@
+{
+  "businessName": "The Door Company",
+  "contactName": "Mark",
+  "date": "February 17, 2026",
+  "executiveSummary": [
+    "The Door Company has been a leading garage door and gate service provider since 1986, with 4 locations across Northern California -- Chico, Yuba City, Redding, and Stockton. Your website at thedoorco.net is built on WordPress and you have an active blog with garage door maintenance content. That puts you ahead of most competitors in the garage door space.",
+    "But there are significant technical issues holding you back. The biggest one: your site is still on HTTP, not HTTPS. In 2026, Google actively penalizes non-secure sites, and the canonical URL is explicitly set to http://. There's no LocalBusiness schema for any of your 4 locations -- Google has no structured data about your addresses, hours, or service areas. A broken YouTube embed on the homepage shows an error instead of video content. And there's a COVID-era notice from 2020 still prominently displayed mentioning 'May 1, 2020' credit card policies.",
+    "Garage door services are high-intent, emergency-driven searches. When someone's garage door breaks, they're calling the first company that shows up. With 4 locations and IDEA-certified technicians, The Door Company has the credentials to dominate Northern California search results. The technical fixes are straightforward and would have immediate ranking impact."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- thedoorco.net",
+      "points": [
+        "Built on WordPress 6.9 with custom theme.",
+        "Contact: Mark Stuenkel, President.",
+        "4 locations: Chico (530-345-5555), Yuba City (530-673-7778), Redding (530-222-5555), Stockton (916-212-5635).",
+        "Legal entity: Door System Design, Inc (dba The Door Company).",
+        "IDEA-certified technicians -- 3 techs with all 5 available certifications.",
+        "Active blog with garage door maintenance content.",
+        "Web design/hosting by Next Horizon (Orlando, FL)."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "Still on HTTP -- not HTTPS. Google penalizes non-secure sites.",
+        "Canonical URL set to http:// -- explicitly telling Google to index insecure version.",
+        "No LocalBusiness schema for any of the 4 locations.",
+        "Broken YouTube video embed on homepage -- shows Error 153.",
+        "Outdated COVID notice from 2020 still prominently displayed.",
+        "Meta description doesn't mention any specific location.",
+        "Homepage last modified October 2022 -- content freshness issue.",
+        "No og:image tag -- social shares have no thumbnail."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Garage door services are competitive in Northern California.",
+        "4-location coverage is a major advantage over single-location competitors.",
+        "IDEA certifications are unmatched trust signals -- world-first triple certifications.",
+        "Active blog gives you content edge over most competitors.",
+        "Fixing HTTPS alone would significantly improve rankings."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "HTTPS/SSL", "finding": "Site still on HTTP -- canonical set to http:// in 2026", "priority": "High", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "No LocalBusiness schema for any of 4 locations", "priority": "High", "status": "Missing" },
+    { "area": "Video Embed", "finding": "Broken YouTube embed shows Error 153 on homepage", "priority": "High", "status": "Needs Fix" },
+    { "area": "Content Freshness", "finding": "COVID notice from 2020 still displayed, homepage last modified Oct 2022", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Meta Description", "finding": "Present but generic -- no location-specific keywords", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Blog", "finding": "Active blog with maintenance content -- strong foundation", "priority": "Low", "status": "Good" },
+    { "area": "Image Alt Text", "finding": "100% coverage -- all 28 images have descriptive alt tags", "priority": "Low", "status": "Good" },
+    { "area": "Social Meta Tags", "finding": "OG tags present but missing og:image thumbnail", "priority": "Low", "status": "Needs Fix" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Critical Fixes & Foundation (Months 1-2)",
+      "actions": [
+        "Migrate site to HTTPS and update canonical URLs.",
+        "Implement LocalBusiness schema for all 4 locations with full NAP data.",
+        "Fix broken YouTube video embed on homepage.",
+        "Remove outdated COVID notice from 2020.",
+        "Optimize meta descriptions with location-specific keywords.",
+        "Add og:image tags for proper social media sharing.",
+        "Set up Google Search Console for all 4 locations."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Expansion & Local SEO (Months 3-5)",
+      "actions": [
+        "Expand blog content cadence -- target 4 posts per month.",
+        "Create dedicated service pages for each location with unique content.",
+        "Optimize Google Business Profile for all 4 locations.",
+        "Build citation consistency across home service directories.",
+        "Implement review solicitation strategy for each location.",
+        "Add FAQ schema for common garage door questions."
+      ]
+    },
+    {
+      "title": "Phase 3: Multi-Location Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting garage door keywords in all 4 markets.",
+        "Before/after project galleries with full image SEO.",
+        "Video content showcasing installations and certifications.",
+        "Monthly competitive analysis and ranking reports per location.",
+        "Service area expansion pages for surrounding cities.",
+        "Leverage IDEA certification marketing for trust-building."
+      ]
+    }
+  ],
+  "pricingIntro": "The Door Company has 4 locations, IDEA-certified technicians, and an active blog -- that's a stronger foundation than most garage door companies. The HTTPS migration alone would produce immediate ranking improvements, and adding LocalBusiness schema for all 4 locations would significantly boost your visibility in Google's local pack results. These are all straightforward WordPress fixes.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$700/mo",
+      "recommended": false,
+      "features": [
+        "HTTPS migration and canonical fix",
+        "LocalBusiness schema (all 4 locations)",
+        "Broken video embed fix",
+        "COVID notice removal and content refresh",
+        "Meta description optimization",
+        "Social meta tag implementation",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,200/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "Location-specific service pages",
+        "Google Business Profile optimization (4 locations)",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "FAQ schema implementation"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$2,000/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management (all markets)",
+        "Before/after project galleries",
+        "Video content production",
+        "Service area expansion pages",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "The Door Company has 4 locations and certifications that competitors can't replicate. The HTTPS fix, LocalBusiness schema, and content refresh would immediately improve your search visibility across all 4 markets.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make The Door Company the first result when Northern California residents search for garage door services."
+  ]
+}

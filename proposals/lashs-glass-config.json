@@ -1,0 +1,146 @@
+{
+  "businessName": "Lash's Glass",
+  "contactName": "Shane",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Lash's Glass has been a trusted name in Chico for glass services, and your website at lashsglass.com gets the job done with clear contact info at (530) 894-6446 and a straightforward service presentation. The site covers residential, commercial, and auto glass -- the core services that generate calls.",
+    "But the website has significant technical issues holding it back. The meta description is completely blank -- Google has nothing to work with and is auto-generating your search snippets from body text. There's zero schema markup, so Google doesn't have any structured data about your business. The site is built on custom PHP with no CMS, making updates difficult. There are 54 internal links still using HTTP instead of HTTPS, which creates mixed content warnings. And 9 out of 12 images are missing alt text.",
+    "Glass services are high-intent local searches -- when someone needs a window replaced or auto glass fixed, they're calling the first business they find. Lash's has the local reputation, but the website is letting competitors with newer, properly optimized sites steal those calls. The fixes are straightforward and would have immediate impact on your search visibility."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- lashsglass.com",
+      "points": [
+        "Custom PHP website -- no CMS platform.",
+        "Contact: Shane Lash.",
+        "Phone: (530) 894-6446 prominently displayed.",
+        "Services cover residential, commercial, and auto glass.",
+        "Chico, CA location clearly identified.",
+        "SSL certificate installed (but mixed content issues).",
+        "Straightforward, no-frills design focused on getting calls."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "Meta description is completely blank -- Google auto-generates from body text.",
+        "Zero schema markup -- no LocalBusiness, no GlassService structured data.",
+        "54 internal HTTP links creating mixed content warnings -- hurts trust signals.",
+        "9 out of 12 images missing alt text -- invisible to Google Image Search.",
+        "No blog or content marketing -- zero informational traffic.",
+        "No Google Reviews integration or testimonial section.",
+        "Custom PHP makes ongoing updates and SEO optimization more difficult.",
+        "No dedicated service pages for residential, commercial, and auto glass."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Glass services in Chico are moderately competitive.",
+        "Competitors with WordPress or modern CMS sites have SEO advantages for ongoing optimization.",
+        "The blank meta description alone is costing significant click-through rate.",
+        "Mixed HTTP/HTTPS content creates trust warnings that can drive visitors away.",
+        "Fixing these fundamentals would immediately close the gap with better-optimized competitors."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Description", "finding": "Completely blank -- Google auto-generates search snippets", "priority": "High", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "Zero structured data -- no LocalBusiness, no service schema", "priority": "High", "status": "Missing" },
+    { "area": "Mixed Content", "finding": "54 internal HTTP links creating mixed content warnings", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "9 of 12 images missing alt text -- invisible to image search", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or content strategy -- zero informational traffic", "priority": "Medium", "status": "Missing" },
+    { "area": "Reviews", "finding": "No Google Reviews integration or testimonials on site", "priority": "Medium", "status": "Missing" },
+    { "area": "Service Pages", "finding": "No dedicated pages for residential, commercial, auto glass", "priority": "Medium", "status": "Missing" },
+    { "area": "Contact Info", "finding": "Phone number and location clearly displayed", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Critical Fixes & Foundation (Months 1-2)",
+      "actions": [
+        "Add optimized meta description to homepage and all pages.",
+        "Implement LocalBusiness schema with full NAP data and service types.",
+        "Fix all 54 HTTP links to HTTPS -- eliminate mixed content warnings.",
+        "Add descriptive alt text to all 12 images.",
+        "Create dedicated service pages for residential, commercial, and auto glass.",
+        "Integrate Google Reviews widget and add testimonial section.",
+        "Set up Google Analytics and Search Console for tracking."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local SEO Growth (Months 3-5)",
+      "actions": [
+        "Launch blog with glass industry content: maintenance tips, energy-efficient upgrades, storm damage repair.",
+        "Optimize Google Business Profile with photos, posts, and Q&A.",
+        "Build citation consistency across home service directories.",
+        "Implement review solicitation strategy to build online reputation.",
+        "Consider WordPress migration for easier ongoing SEO management."
+      ]
+    },
+    {
+      "title": "Phase 3: Competitive Growth (Months 6-12)",
+      "actions": [
+        "Google Ads targeting glass replacement and auto glass keywords in Chico and Butte County.",
+        "Before/after project galleries with full image SEO.",
+        "Video content showcasing glass installation expertise.",
+        "Monthly competitive analysis and ranking reports.",
+        "Service area expansion pages for Paradise, Oroville, and surrounding cities."
+      ]
+    }
+  ],
+  "pricingIntro": "Lash's Glass has the local reputation and the straightforward service approach that customers appreciate. The website just needs its technical SEO gaps filled to start converting that reputation into search visibility. The blank meta description, missing schema, and mixed content issues are all fixable and would produce immediate ranking improvements.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta description optimization",
+        "LocalBusiness schema implementation",
+        "HTTP to HTTPS link fix (54 links)",
+        "Image alt text for all 12 images",
+        "3 dedicated service pages",
+        "Google Reviews integration",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy",
+        "Competitor monitoring",
+        "WordPress migration consultation"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Service area expansion pages",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Lash's Glass has the local trust and the services that people need. The blank meta description, missing schema, and mixed content issues are all quick fixes that would immediately improve your search visibility and start generating more calls.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Lash's Glass the first result when Chico residents search for glass services."
+  ]
+}

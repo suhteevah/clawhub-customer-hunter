@@ -1,0 +1,147 @@
+{
+  "businessName": "Boster Roofing",
+  "contactName": "Marty",
+  "date": "February 16, 2026",
+  "executiveSummary": [
+    "Boster Roofing has been serving Northern California since 2002, and Marty, your reputation as a journeyman roofer with 20+ years of experience speaks for itself. Your website at bosterroofing.com has a solid foundation -- you've got RoofingContractor schema markup with business details, geo-coordinates, and opening hours, plus Google Tag Manager and Facebook Pixel tracking. That puts you ahead of most local roofers right out of the gate.",
+    "But here's where it breaks down: you have no meta descriptions on any page, no blog or content marketing, no dedicated location pages for the cities you serve, and your image alt text is inconsistent or missing entirely. Your reviews section exists but shows no actual star ratings or testimonial content -- that's free social proof you're not leveraging. You've also got multiple H1 tags on the homepage, which dilutes your keyword targeting.",
+    "Your competitors in the Redding/Anderson market are investing in content-rich WordPress sites with location pages and blog strategies. With 20+ years of hands-on roofing expertise and a custom-built platform that already has good schema, a focused SEO strategy would put you ahead of companies spending twice as much on their digital presence."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- bosterroofing.com",
+      "points": [
+        "Custom-built platform (not WordPress) with solid technical foundation.",
+        "RoofingContractor JSON-LD schema implemented with business name, address, phone, hours, and geo-coordinates.",
+        "Google Tag Manager (GTM-NT4S38P) and Facebook Pixel tracking installed -- analytics infrastructure is in place.",
+        "reCAPTCHA protection on contact form -- good security practice.",
+        "License #803387 displayed -- builds trust with potential customers.",
+        "Three service categories covered: Residential, Commercial, and Insulation.",
+        "Service area listed as Redding, Mt Shasta, Sacramento, Susanville, Weaverville, and everything in between.",
+        "Multiple prominent CTAs: 'Get a Quote' and 'Call Now (530) 365-7101'."
+      ]
+    },
+    {
+      "title": "SEO & Content Gaps",
+      "points": [
+        "No meta descriptions on any page -- Google is generating its own snippets, which may not highlight your strengths.",
+        "Multiple H1 tags on homepage ('WHO WE ARE,' 'OUR VALUES') -- dilutes primary keyword targeting.",
+        "No blog or content marketing strategy -- zero organic traffic generation from informational searches.",
+        "Image alt text inconsistent or missing across the site -- invisible to Google Image Search.",
+        "Reviews section exists but displays no actual testimonials, star ratings, or review content.",
+        "No Open Graph or Twitter Card tags -- social media shares look bare.",
+        "No FAQ schema or structured Q&A content.",
+        "No dedicated location pages for individual service areas."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Competitors like Tugwell Roofing and Hamilton Roofing have WordPress sites with location pages and more content depth.",
+        "20+ years of roofing experience is a massive trust signal that competitors can't replicate -- but it's underutilized in search results.",
+        "Your RoofingContractor schema puts you ahead technically, but without meta descriptions and content, you're losing clicks to competitors with richer search listings.",
+        "A content and local SEO strategy would capitalize on your existing technical foundation without rebuilding the site."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Descriptions", "finding": "No meta descriptions on any page -- Google generating its own snippets", "priority": "Critical", "status": "Missing" },
+    { "area": "H1 Tags", "finding": "Multiple H1 tags on homepage -- dilutes keyword targeting", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or content marketing -- zero organic traffic from informational searches", "priority": "High", "status": "Missing" },
+    { "area": "Image Alt Text", "finding": "Inconsistent or missing alt text across the site", "priority": "High", "status": "Needs Fix" },
+    { "area": "Reviews Display", "finding": "Reviews section exists but shows no actual testimonials or star ratings", "priority": "High", "status": "Needs Fix" },
+    { "area": "Location Pages", "finding": "No dedicated pages for Redding, Anderson, Mt Shasta, Sacramento, etc.", "priority": "Medium", "status": "Missing" },
+    { "area": "Social Tags", "finding": "No Open Graph or Twitter Card meta tags for social sharing", "priority": "Medium", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "RoofingContractor JSON-LD properly implemented with geo-coordinates", "priority": "Low", "status": "Good" },
+    { "area": "Analytics", "finding": "Google Tag Manager and Facebook Pixel both installed", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Fix Critical SEO Gaps (Months 1-2)",
+      "actions": [
+        "Write unique meta descriptions for every page -- targeting primary roofing keywords for Redding/Anderson.",
+        "Fix H1 tag structure -- single, keyword-optimized H1 per page.",
+        "Populate reviews section with actual customer testimonials and star ratings.",
+        "Add descriptive alt text to all images with keyword-rich descriptions.",
+        "Implement Open Graph and Twitter Card tags for branded social sharing.",
+        "Add FAQ schema markup for common roofing questions.",
+        "Set up Google Search Console for performance tracking alongside existing GTM."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local SEO Expansion (Months 3-5)",
+      "actions": [
+        "Launch blog with monthly roofing content: seasonal maintenance guides, material comparisons, storm damage tips.",
+        "Create dedicated location pages for top service areas: Redding, Anderson, Mt Shasta, Sacramento, Susanville.",
+        "Optimize Google Business Profile with photos, posts, and review management.",
+        "Build citation consistency across directories (BBB, Yelp, Angi, YellowPages).",
+        "Implement review solicitation strategy to grow online review count."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Paid Advertising (Months 6-12)",
+      "actions": [
+        "Google Ads targeting high-intent roofing keywords in Shasta County and surrounding areas.",
+        "Before/after project galleries with proper image SEO.",
+        "Video content showcasing 20+ years of expertise and completed projects.",
+        "Monthly competitive analysis and ranking reports.",
+        "Email marketing for seasonal roofing promotions and maintenance reminders."
+      ]
+    }
+  ],
+  "pricingIntro": "Boster Roofing already has a stronger technical foundation than most local roofers -- the schema markup, analytics tracking, and custom platform give you a real head start. The goal is to fill the content and SEO gaps so your online presence matches your 20+ years of hands-on expertise.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta descriptions & title tag optimization",
+        "H1 tag structure fix",
+        "Image alt text optimization",
+        "Open Graph tag setup",
+        "Reviews section population",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "5 location landing pages",
+        "Monthly blog content (4 posts/mo)",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "FAQ schema implementation",
+        "Competitor monitoring"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Project gallery with image SEO",
+        "Video content production",
+        "Email marketing campaigns",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "You've already got the technical bones in place -- schema, analytics, and a clean site structure. The next step is filling in the SEO gaps that are keeping you invisible for high-value searches like 'roofing contractor Redding CA.'",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "20+ years of roofing expertise deserves a digital presence that shows up when customers are searching."
+  ]
+}
