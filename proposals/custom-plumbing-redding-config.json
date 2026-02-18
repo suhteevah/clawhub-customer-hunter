@@ -1,0 +1,146 @@
+{
+  "businessName": "Custom Plumbing Pros",
+  "contactName": "John",
+  "date": "February 17, 2026",
+  "executiveSummary": [
+    "Custom Plumbing Pros in Redding has a clean Squarespace website and — importantly — you already have LocalBusiness schema implemented. That puts you ahead of the vast majority of local plumbing companies in terms of structured data. Google can actually read your business name, address, and phone number in a format it understands.",
+    "But there are gaps that are costing you leads. There's no meta description on any page, which means Google is auto-generating your search snippets — and they're often not compelling. 11 out of 14 images are missing alt text, which is both an SEO issue and an accessibility compliance concern. There's no blog or educational content to capture long-tail plumbing searches.",
+    "Redding's plumbing market is competitive but not saturated with well-optimized websites. Custom Plumbing Pros already has the foundation — Squarespace, schema, and a clean design. The fixes needed are straightforward content and optimization work that would significantly improve your visibility."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — customplumbingpros.com",
+      "points": [
+        "Built on Squarespace — modern, clean design.",
+        "LocalBusiness schema already implemented — ahead of most competitors.",
+        "Owner: John Jones.",
+        "Phone: (530) 200-4533.",
+        "Email: John@CustomPlumbingPros.com.",
+        "HTTPS properly configured."
+      ]
+    },
+    {
+      "title": "SEO Gaps",
+      "points": [
+        "No meta description on any page — Google auto-generates snippets.",
+        "11 out of 14 images missing alt text — SEO and accessibility issue.",
+        "No blog or educational content pages.",
+        "No FAQ schema for common plumbing questions.",
+        "No service area pages targeting surrounding cities.",
+        "No review/testimonial display on website.",
+        "Limited internal linking between pages."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Redding plumbing market has moderate competition.",
+        "Most competitors lack proper schema — your existing schema is an advantage.",
+        "Plumbing searches are emergency-driven with high conversion rates.",
+        "Blog content is rare among Redding plumbers — content strategy would differentiate.",
+        "Service area pages targeting Anderson, Cottonwood, Palo Cedro would capture surrounding searches."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Meta Description", "finding": "No meta description — Google auto-generates all snippets", "priority": "High", "status": "Missing" },
+    { "area": "Image Alt Text", "finding": "11 of 14 images missing alt text — SEO and ADA compliance risk", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog/Content", "finding": "No blog or educational content pages", "priority": "High", "status": "Missing" },
+    { "area": "Service Area Pages", "finding": "No pages targeting surrounding cities (Anderson, Cottonwood, etc.)", "priority": "Medium", "status": "Missing" },
+    { "area": "FAQ Schema", "finding": "No FAQ structured data for common plumbing questions", "priority": "Medium", "status": "Missing" },
+    { "area": "Schema Markup", "finding": "LocalBusiness schema already implemented — strong foundation", "priority": "Low", "status": "Good" },
+    { "area": "SSL/HTTPS", "finding": "HTTPS properly configured and enforced", "priority": "Low", "status": "Good" },
+    { "area": "Platform", "finding": "Squarespace provides clean, mobile-responsive design", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Quick Wins (Months 1-2)",
+      "actions": [
+        "Write compelling meta descriptions for all pages.",
+        "Add descriptive alt text to all 14 images.",
+        "Add FAQ schema for top plumbing questions.",
+        "Create dedicated service pages (drain cleaning, water heater, leak repair, repiping, etc.).",
+        "Display customer reviews and testimonials.",
+        "Set up Google Search Console.",
+        "Optimize Google Business Profile."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Expansion (Months 3-5)",
+      "actions": [
+        "Launch blog targeting plumbing keywords (4 posts/mo).",
+        "Create service area pages for Anderson, Cottonwood, Palo Cedro, Shasta Lake, etc.",
+        "Build citation consistency across plumbing directories.",
+        "Implement Review schema for aggregate ratings.",
+        "Customer review solicitation strategy.",
+        "Internal linking strategy connecting all content."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Market Share (Months 6-12)",
+      "actions": [
+        "Google Ads targeting emergency plumbing keywords.",
+        "Video content showcasing services and team.",
+        "Before/after project galleries.",
+        "Monthly competitive analysis and ranking reports.",
+        "Seasonal content campaigns (winter pipe prep, spring inspections).",
+        "Expand service area content to surrounding counties."
+      ]
+    }
+  ],
+  "pricingIntro": "Custom Plumbing Pros already has the hardest part done — schema markup and a clean Squarespace site. The missing pieces are content-focused: meta descriptions, alt text, blog posts, and service area pages. These are high-impact, relatively straightforward improvements that would significantly boost your Redding-area visibility.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "Meta description optimization (all pages)",
+        "Image alt text for all 14 images",
+        "FAQ schema implementation",
+        "5 dedicated service pages",
+        "Google Search Console setup",
+        "Google Business Profile optimization",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "Service area pages (6+ cities)",
+        "Citation building & management",
+        "Review schema + solicitation",
+        "Internal linking strategy",
+        "Bi-weekly performance reports"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Before/after project galleries",
+        "Competitive analysis reports",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "Custom Plumbing Pros is closer to ranking well than you might think — you already have schema and a clean site. Adding meta descriptions, alt text, and a content strategy would push you up the rankings in the Redding plumbing market quickly.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Custom Plumbing Pros the top search result when Redding residents need a plumber."
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "businessName": "Gates Garage Door Service",
+  "contactName": "Team",
+  "date": "February 17, 2026",
+  "executiveSummary": [
+    "Gates Garage Door Service has built a solid foundation on the Duda platform with decent meta descriptions and a clean site structure. Your homepage targets the right keywords — garage door repair and installation in Chico — and the site loads quickly. That puts you ahead of some competitors in the area.",
+    "But there are gaps holding you back from ranking higher. The biggest issue: your site only has WebSite schema — no LocalBusiness schema at all. That means Google has no structured data about your address, phone number, service area, or business hours. There's no blog content to capture long-tail search queries, and there are duplicate content blocks across multiple pages that can confuse search engines. Your secondary domain gatesgaragedoor.com appears to be dead or redirecting inconsistently.",
+    "Garage door services are emergency-driven searches — when a door breaks, homeowners call the first company they find. With the right technical SEO fixes and content strategy, Gates Garage Door Service can capture significantly more of those high-intent local searches in the Chico market."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis — gatesgaragedoorservice.com",
+      "points": [
+        "Built on Duda platform with responsive design.",
+        "Homepage meta description targets relevant keywords (garage door repair, installation, Chico).",
+        "Site loads quickly — Duda's built-in CDN handles performance well.",
+        "Clean navigation structure with clear service categories.",
+        "Contact information visible in header area."
+      ]
+    },
+    {
+      "title": "Critical SEO Gaps",
+      "points": [
+        "Only WebSite schema — no LocalBusiness schema. Google has zero structured data about your business.",
+        "No blog or content pages — missing all long-tail keyword opportunities.",
+        "Duplicate content blocks across service pages — can trigger Google's duplicate content filters.",
+        "Secondary domain gatesgaragedoor.com is dead or inconsistently redirecting.",
+        "No FAQ schema for common garage door questions.",
+        "No review or aggregate rating schema despite likely having customer reviews.",
+        "Limited internal linking between service pages."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Chico garage door market has several established competitors including The Door Company (4 locations).",
+        "Most competitors also lack proper schema — early implementation gives first-mover advantage.",
+        "Blog content is virtually nonexistent across Chico garage door companies — huge opportunity.",
+        "Google Business Profile optimization is the fastest path to local pack visibility.",
+        "Emergency-driven searches favor companies with strong local SEO signals."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Schema Markup", "finding": "Only WebSite schema — no LocalBusiness, no Service schema", "priority": "High", "status": "Missing" },
+    { "area": "Blog/Content", "finding": "Zero blog posts or educational content pages", "priority": "High", "status": "Missing" },
+    { "area": "Duplicate Content", "finding": "Content blocks repeated across multiple service pages", "priority": "High", "status": "Needs Fix" },
+    { "area": "Secondary Domain", "finding": "gatesgaragedoor.com dead or inconsistently redirecting", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Meta Description", "finding": "Present and keyword-targeted — decent foundation", "priority": "Low", "status": "Good" },
+    { "area": "Review Schema", "finding": "No AggregateRating or Review schema implemented", "priority": "Medium", "status": "Missing" },
+    { "area": "FAQ Schema", "finding": "No FAQ structured data for common questions", "priority": "Medium", "status": "Missing" },
+    { "area": "Site Speed", "finding": "Duda platform delivers fast load times via CDN", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Technical Foundation (Months 1-2)",
+      "actions": [
+        "Implement full LocalBusiness schema with complete NAP data.",
+        "Add Service schema for each garage door service offered.",
+        "Resolve duplicate content across service pages with unique copy.",
+        "Fix or properly redirect gatesgaragedoor.com domain.",
+        "Implement Review/AggregateRating schema.",
+        "Add FAQ schema for top garage door questions.",
+        "Set up Google Search Console and verify ownership."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local SEO (Months 3-5)",
+      "actions": [
+        "Launch blog with 4 posts per month targeting garage door keywords.",
+        "Create unique service area pages for surrounding cities (Paradise, Oroville, etc.).",
+        "Optimize Google Business Profile with photos, posts, and Q&A.",
+        "Build citation consistency across home service directories.",
+        "Implement customer review solicitation strategy.",
+        "Internal linking strategy connecting services, blog, and area pages."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting emergency garage door keywords.",
+        "Before/after project galleries with full image SEO.",
+        "Video content for YouTube and website embedding.",
+        "Monthly competitive analysis and ranking reports.",
+        "Seasonal content campaigns (winter prep, spring maintenance).",
+        "Review monitoring and reputation management."
+      ]
+    }
+  ],
+  "pricingIntro": "Gates Garage Door Service has a clean, fast website with decent meta descriptions — that's a better starting point than most. The missing LocalBusiness schema, duplicate content, and lack of blog content are all fixable issues that would significantly improve your visibility in Chico-area searches. These are standard Duda platform optimizations that can be implemented quickly.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$600/mo",
+      "recommended": false,
+      "features": [
+        "LocalBusiness + Service schema implementation",
+        "Duplicate content resolution",
+        "Secondary domain redirect fix",
+        "Review & FAQ schema",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,100/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Monthly blog content (4 posts/mo)",
+        "Service area expansion pages",
+        "Google Business Profile optimization",
+        "Citation building & management",
+        "Review solicitation strategy"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Competitive analysis reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers."
+  ],
+  "nextSteps": [
+    "Gates Garage Door Service has a solid base that needs the right technical optimizations to compete for top local rankings. The schema implementation and content strategy would start driving more qualified leads within the first 60 days.",
+    "Free 30-minute strategy call — reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Gates Garage Door Service the go-to choice when Chico homeowners need garage door help."
+  ]
+}
