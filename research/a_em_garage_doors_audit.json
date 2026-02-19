@@ -1,0 +1,345 @@
+{
+  "prospect": {
+    "business_name": "A & Em Garage Doors",
+    "owner": "Derek Smith",
+    "email": "aandemgaragedoors@gmail.com",
+    "phone": "(530) 433-9262",
+    "website": "https://aandemgaragedoors.com",
+    "address": "3023 Sandi Dr, Chico, CA 95973",
+    "established": 2020,
+    "years_in_business": 6,
+    "owner_experience_years": 18,
+    "ca_license": "Unlicensed per HomeAdvisor listing",
+    "service_area": ["Chico", "Oroville", "Redding", "Yuba City", "Paradise", "Corning", "Belden", "Forest Ranch", "Butte County", "Tehama County", "Glenn County", "Colusa County", "Sutter County", "Yuba County", "Plumas County", "Shasta County"],
+    "business_hours": "7:00 AM - 7:00 PM, 7 days/week + 24hr emergency",
+    "name_origin": "Named after owner Derek Smith's children: son Aidan (A) and daughter Emily (Em)",
+    "category": "Garage Door Services (Residential & Commercial)",
+    "relationship": "cold",
+    "chamber_member": true,
+    "chamber_url": "https://business.chicochamber.com/directory/Details/a-em-garage-doors-3962985"
+  },
+
+  "website_audit": {
+    "overall_score": "3.5/10",
+    "score_rationale": "Basic GoDaddy Website Builder (Airo) template site with critical SEO deficiencies. No schema markup, no blog, zero image alt text, duplicate H1 tags, poor heading hierarchy, minimal content depth. The site looks clean visually but is severely underperforming from an SEO perspective. Competitors with proper WordPress sites and SEO are dominating local search results while A & Em is virtually invisible on Google organic search.",
+
+    "1_platform": {
+      "cms": "GoDaddy Website Builder (WSB/Airo)",
+      "page_builder": "GoDaddy built-in editor",
+      "forms": "GoDaddy native contact form",
+      "hosting": "GoDaddy (img1.wsimg.com assets)",
+      "chat_widget": "GoDaddy Messaging (live chat)",
+      "booking": "GoDaddy Bookings integration",
+      "notes": "Template-based GoDaddy site. Limited SEO control compared to WordPress. 'Powered by GoDaddy Airo' in footer. Cart and account features present but appear unused."
+    },
+
+    "2_ssl_https": {
+      "active": true,
+      "certificate": "Valid HTTPS",
+      "notes": "SSL is active and working properly. Good."
+    },
+
+    "3_meta_descriptions": {
+      "homepage": "Present - 'Garage door repairs, garage door service. Over 18 years experience on repair and installation of garage doors and openers.'",
+      "about_us": "NOT FOUND",
+      "services": "NOT FOUND",
+      "contact_us": "NOT FOUND",
+      "notes": "Only the homepage has a meta description. All inner pages are missing meta descriptions entirely. The homepage description is generic and does not include location keywords (Chico, CA) or branded terms, reducing local SEO effectiveness."
+    },
+
+    "4_schema_markup": {
+      "json_ld": false,
+      "microdata": false,
+      "rdfa": false,
+      "local_business_schema": false,
+      "service_schema": false,
+      "review_schema": false,
+      "notes": "ZERO structured data / schema markup found anywhere on the site. This is a critical SEO gap. Missing LocalBusiness schema means Google cannot properly index business hours, service area, contact info, or reviews. Competitors with schema markup will consistently outrank this site in local search results and rich snippets."
+    },
+
+    "5_heading_hierarchy": {
+      "homepage": {
+        "h1": ["Your garage door solution", "Your garage door solution"],
+        "h1_count": 2,
+        "h2": ["Gallery", "Reviews", "Subscribe"],
+        "h3": ["A & Em Garage Doors", "A & Em Garage Doors"],
+        "h4": ["T", "Tom and Helen", "A", "Alecia", "E", "Errin and Kathy"]
+      },
+      "about_us": {
+        "h1": "Missing",
+        "h4": "Multiple 'Your Repair Professional' headings (repeated 3x)"
+      },
+      "services": {
+        "h1": "Missing",
+        "h4": "Used for service categories (non-standard)"
+      },
+      "issues": [
+        "Duplicate H1 tags on homepage (2 identical H1s)",
+        "H1 is generic - 'Your garage door solution' contains no keywords like 'Chico' or 'garage door repair'",
+        "About Us page has NO H1 tag",
+        "Services page has NO H1 tag",
+        "H4 tags used where H2/H3 should be (skipped hierarchy levels)",
+        "Reviewer initials (T, A, E) incorrectly tagged as H4 headings"
+      ],
+      "notes": "Heading structure is poor throughout. Multiple pages missing H1 tags entirely. When present, H1 is duplicated and generic. Heading hierarchy skips from H1/H2 directly to H4, skipping H3. This confuses search engines and hurts accessibility."
+    },
+
+    "6_image_alt_text": {
+      "total_images": 5,
+      "images_with_alt": 0,
+      "images_without_alt": 5,
+      "percentage_with_alt": "0%",
+      "notes": "ZERO images have alt text attributes. Every single image on the site is missing alt text. This is a critical accessibility (ADA) and SEO failure. Gallery images, the company logo, and the service truck photo all lack descriptive alt text. Search engines cannot index these images, and screen readers cannot describe them to visually impaired users."
+    },
+
+    "7_blog_content": {
+      "has_blog": false,
+      "content_pages": 0,
+      "notes": "No blog, no news section, no educational content whatsoever. The site has zero content marketing. Competitors with blogs covering topics like 'garage door spring replacement', 'how to maintain your garage door', 'choosing the right garage door' etc. will dominate informational search queries and build topical authority."
+    },
+
+    "8_google_business_profile": {
+      "exists": true,
+      "claimed": true,
+      "category": "Contractor",
+      "rating": "No rating displayed",
+      "review_count": 0,
+      "google_reviews": 0,
+      "photos_count": 2,
+      "website_linked": true,
+      "phone_listed": true,
+      "hours_listed": true,
+      "address_listed": false,
+      "notes": "Google Business Profile exists but has ZERO Google reviews and no star rating. The category is 'Contractor' rather than the more specific 'Garage door supplier' or 'Garage door repair service' which would be better for local SEO. Only 2 photos uploaded. No street address visible (service area business). The lack of Google reviews is a MAJOR competitive disadvantage - competitors like Gates Garage Door Services have 5-star ratings with many reviews."
+    },
+
+    "9_page_count": {
+      "total_pages": 4,
+      "pages": [
+        "Home (aandemgaragedoors.com)",
+        "About Us (aandemgaragedoors.com/about-us)",
+        "Contact Us (aandemgaragedoors.com/contact-us)",
+        "Services (aandemgaragedoors.com/services)"
+      ],
+      "additional_system_pages": [
+        "Account login (aandemgaragedoors.com/m/account)",
+        "Create account (aandemgaragedoors.com/m/create-account)",
+        "Bookings (aandemgaragedoors.com/m/bookings)"
+      ],
+      "notes": "Only 4 content pages total. This is extremely thin for SEO. Competitors have dedicated pages for each service type, location pages, FAQ pages, and blog posts. More pages = more keyword opportunities = more chances to rank."
+    },
+
+    "10_mobile_responsiveness": {
+      "viewport_meta": true,
+      "viewport_content": "width=device-width, initial-scale=1",
+      "responsive_design": true,
+      "breakpoints": ["450px", "767px", "1023px", "1280px", "1536px+"],
+      "mobile_menu": true,
+      "notes": "Site IS mobile responsive (GoDaddy handles this automatically). Proper viewport meta tag, multiple breakpoints, and mobile hamburger menu. This is one of the few areas where the site meets modern standards."
+    },
+
+    "11_social_media": {
+      "facebook": {
+        "url": "https://www.facebook.com/101767064816553",
+        "present": true,
+        "linked_from_website": true
+      },
+      "yelp": {
+        "url": "https://www.yelp.com/biz/a-and-em-garage-doors-chico",
+        "present": true,
+        "linked_from_website": true,
+        "review_count": 24,
+        "photos": 15,
+        "rating": "5 stars (based on visible reviews)"
+      },
+      "instagram": {
+        "present": false,
+        "linked_from_website": false
+      },
+      "twitter_x": {
+        "present": false,
+        "linked_from_website": false
+      },
+      "youtube": {
+        "present": false,
+        "linked_from_website": false
+      },
+      "linkedin": {
+        "present": false,
+        "linked_from_website": false
+      },
+      "nextdoor": {
+        "present": true,
+        "linked_from_website": false,
+        "url": "https://nextdoor.com/pages/a-em-garage-doors-chico-ca/",
+        "recommendations": 1
+      },
+      "notes": "Only Facebook and Yelp linked from website. No Instagram, YouTube, LinkedIn, or TikTok presence. Missing huge opportunities for before/after project photos on Instagram and video content on YouTube/TikTok showing garage door repairs."
+    },
+
+    "12_design_quality": {
+      "overall": "5/10 - Functional but template-limited",
+      "color_scheme": "Dark/industrial theme (dark grays, white text, blue logo)",
+      "logo": "Professional oval blue logo with 'A & Em Garage Doors' text",
+      "hero_section": "Full-width garage door stock image with overlay text and CTA",
+      "gallery": "Photo gallery with mix of stock images and real project/truck photos",
+      "reviews_section": "3 five-star testimonials displayed on homepage (all from 2020)",
+      "footer": "Minimal - copyright, Facebook/Yelp icons, GoDaddy branding",
+      "chat_widget": "GoDaddy live chat widget active",
+      "branded_vehicle": "Professional truck wrap with logo and phone number visible in gallery",
+      "notes": "The design is clean and professional for a GoDaddy template, but it's clearly template-driven. The dark theme is appropriate for the industry. However, the site lacks personality, detailed service descriptions, before/after galleries, and trust signals like certifications or warranties. Reviews are from 2020 (6 years old) and there are only 3. The 'Subscribe' section at the bottom seems out of place for a garage door company."
+    },
+
+    "13_tracking_analytics": {
+      "google_analytics": "G-BF2FDR6KMM (GA4)",
+      "facebook_pixel": "282429905966327",
+      "google_tag_manager": true,
+      "service_worker": true,
+      "notes": "Good that GA4 and Facebook Pixel are installed - this means Derek or someone is tracking traffic and can run Facebook ads. GTM is also present. However, without proper SEO driving organic traffic, these tools are likely showing very low numbers."
+    },
+
+    "14_additional_seo_issues": {
+      "title_tag": "A & Em Garage Doors - Garage Doors, Garage Door Repairs",
+      "title_issues": "Missing location keyword (Chico CA). Should be something like 'A & Em Garage Doors | Garage Door Repair & Installation in Chico, CA'",
+      "canonical_tag": "Not detected",
+      "robots_meta": "Not detected",
+      "sitemap": "Not detected (no XML sitemap reference found)",
+      "open_graph": "Not verified (blocked by content security)",
+      "page_speed": "GoDaddy sites typically score 40-60 on PageSpeed Insights due to heavy inline CSS and external font loading",
+      "content_depth": "Very thin - Services page has only 2-3 sentences per service. About page is ~200 words. No FAQ, no pricing info, no service area pages.",
+      "local_seo_keywords_missing": ["Chico", "garage door repair Chico", "garage door installation Chico CA", "garage door spring replacement", "garage door opener repair", "emergency garage door service"],
+      "notes": "The site has virtually no local SEO optimization. The words 'Chico' and 'California' do not appear to be used strategically in headings, title tags, or content. No service-specific landing pages exist for different repair types."
+    }
+  },
+
+  "third_party_listings": {
+    "yelp": {
+      "url": "https://www.yelp.com/biz/a-and-em-garage-doors-chico",
+      "reviews": 24,
+      "photos": 15,
+      "rating": "High (5-star reviews visible)"
+    },
+    "homeadvisor": {
+      "url": "https://www.homeadvisor.com/rated.aandemgaragedoorscom.106456197.html",
+      "status": "Listed as 'Unlicensed Contractor'",
+      "notes": "HomeAdvisor flags this business as unlicensed. This could be a data issue or a real licensing gap. Worth noting for the proposal."
+    },
+    "chico_chamber": {
+      "url": "https://business.chicochamber.com/directory/Details/a-em-garage-doors-3962985",
+      "member": true
+    },
+    "nextdoor": {
+      "url": "https://nextdoor.com/pages/a-em-garage-doors-chico-ca/",
+      "recommendations": 1
+    },
+    "google_maps": {
+      "listed": true,
+      "reviews": 0,
+      "rating": "None"
+    },
+    "bbb": {
+      "accredited": "Not found in BBB search results"
+    },
+    "manta": {
+      "url": "https://www.manta.com/c/m1xv6ny/a-em-garage-doors",
+      "listed": true
+    }
+  },
+
+  "competitive_landscape": {
+    "search_term": "garage door repair Chico CA",
+    "prospect_ranking": "NOT IN TOP 10 organic results",
+    "competitors": [
+      {
+        "name": "The Door Company",
+        "website": "http://www.thedoorco.net/",
+        "ranking": 1,
+        "phone": "(530) 345-5555",
+        "location": "2251 Ivy St, Chico, CA 95928",
+        "years_in_business": "30+",
+        "owner": "Mark Stuenkel",
+        "license": "#496225",
+        "locations": ["Chico", "Yuba City", "Redding", "Stockton"],
+        "strengths": "Multi-location, 30+ year reputation, licensed, strong SEO presence, ranks #1 organically",
+        "weaknesses": "Website uses HTTP not HTTPS (security risk)"
+      },
+      {
+        "name": "Gates Garage Door Services",
+        "website": "https://www.gatesgaragedoorservice.com/",
+        "ranking": 2,
+        "phone": "(530) 680-9457",
+        "location": "4331 Hedstrom Way, Ste K, Chico, CA 95973",
+        "years_in_business": "Since 2009 (17 years)",
+        "license": "Active (BuildZoom score 93, top 27% in CA)",
+        "review_rating": "5.0 on HomeAdvisor, 5 stars on Yelp",
+        "strengths": "Licensed, BBB listed, excellent reviews, family-owned, strong organic ranking, professional website",
+        "weaknesses": "Some negative reviews on Birdeye about warranty claim handling"
+      },
+      {
+        "name": "Pro Garage Doors",
+        "website": "https://getprodoors.com/",
+        "ranking": 3,
+        "phone": "(530) 332-8809",
+        "location": "13631 Anderson Brothers Dr. Suite 400, Chico, CA 95973",
+        "years_in_business": "Since 2018 (8 years)",
+        "strengths": "BBB A+ certified, 5-star Google rating, financing options, licensed, location-specific landing pages (Chico + Redding), 24/7 availability",
+        "weaknesses": "Newer company, limited service history"
+      },
+      {
+        "name": "Overhead Door Company of Sacramento",
+        "website": "https://www.overheaddoorofsacramento.com/",
+        "ranking": 4,
+        "location": "Sacramento (serving Chico)",
+        "years_in_business": "Since 1953 (73 years)",
+        "strengths": "National brand recognition, 70+ years established, city-specific landing pages for Chico",
+        "weaknesses": "Not locally owned, headquarters in Sacramento"
+      },
+      {
+        "name": "JKH Door Service Company",
+        "website": "https://jkhdoorservice.com/",
+        "ranking": 5,
+        "location": "Medford & Redding",
+        "strengths": "Custom residential focus, serves Redding market",
+        "weaknesses": "Not Chico-based, limited local presence"
+      }
+    ],
+    "competitive_analysis_summary": "A & Em Garage Doors is invisible in organic Google search for their primary keyword 'garage door repair Chico CA'. The top 3 competitors (The Door Company, Gates Garage Door Services, Pro Garage Doors) all have proper websites with strong SEO, active Google reviews, proper licensing, and location-specific content. Derek's 18 years of experience and strong Yelp reviews (24 reviews) are his biggest assets, but they are not being leveraged through the website or Google Business Profile at all."
+  },
+
+  "key_opportunities": {
+    "critical_priority": [
+      "Add LocalBusiness schema markup with full NAP, hours, service area, and reviews",
+      "Get Google reviews - currently at ZERO. Ask every customer to leave a Google review",
+      "Fix heading hierarchy - unique, keyword-rich H1 on every page (e.g., 'Garage Door Repair & Installation in Chico, CA')",
+      "Add alt text to ALL images with descriptive, keyword-rich descriptions",
+      "Add meta descriptions to About Us, Services, and Contact Us pages",
+      "Update Google Business Profile category from 'Contractor' to 'Garage door repair service'"
+    ],
+    "high_priority": [
+      "Create service-specific landing pages (spring replacement, opener repair, new door installation, emergency service)",
+      "Create location-specific landing pages (Chico, Oroville, Paradise, Redding, etc.)",
+      "Start a blog with educational content about garage door maintenance, repair tips, choosing doors",
+      "Optimize title tags with location keywords",
+      "Add physical business address or clarify service area on website",
+      "Create a proper XML sitemap and submit to Google Search Console"
+    ],
+    "medium_priority": [
+      "Migrate from GoDaddy Website Builder to WordPress for better SEO control",
+      "Set up Instagram for before/after project photos",
+      "Create YouTube/TikTok content showing repairs (great for local visibility)",
+      "Add FAQ page with common garage door questions (targets voice search)",
+      "Implement review generation strategy to build Google reviews",
+      "Add trust signals: warranties, insurance info, years of experience badges"
+    ],
+    "quick_wins": [
+      "Fix duplicate H1 tags (takes 5 minutes)",
+      "Add meta descriptions to all pages (takes 15 minutes)",
+      "Upload more photos to Google Business Profile (takes 10 minutes)",
+      "Add image alt text to existing images (takes 10 minutes)",
+      "Update testimonials - current ones are from 2020 (6 years old)"
+    ]
+  },
+
+  "research_date": "2026-02-18",
+  "researcher": "Ridge Cell Repair LLC - Matt Gates"
+}

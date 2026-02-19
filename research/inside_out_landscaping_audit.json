@@ -1,0 +1,351 @@
+{
+  "prospect": {
+    "business_name": "Inside Out Landscaping & Janitorial",
+    "parent_org": "The Work Training Center (WTC) - 501(c)(3) nonprofit",
+    "email": "sales@insideoutchico.com",
+    "phone": "(530) 343-7615",
+    "website": "https://insideoutlandscapingandjanitorial.com",
+    "domain_alias": "insideoutchico.com (redirects to main domain)",
+    "address": "2234 Park Ave, Chico, CA 95928, USA",
+    "ca_license": "#641260",
+    "years_in_business": "40+",
+    "service_area": ["Chico", "Paradise", "Oroville", "Butte County"],
+    "services": [
+      "Landscape Design & Installation",
+      "Landscaping Maintenance",
+      "Lawn Care",
+      "Weed & Pest Control",
+      "Irrigation Services (install, repair, smart controls)",
+      "Seasonal Weed Abatement & Fire Safety",
+      "Commercial Janitorial Services",
+      "Bundle Services (Landscaping + Janitorial)"
+    ],
+    "unique_angle": "Division of The Work Training Center - a nonprofit providing employment to adults with developmental disabilities. ISSA CIMS-GBAC Certified for janitorial.",
+    "relationship": "cold"
+  },
+
+  "website_audit": {
+    "overall_score": "6.5/10",
+    "score_rationale": "Clean, modern WordPress/Elementor site with solid visual design. Has schema markup, meta descriptions, OG tags, and SSL. However, lacks an SEO plugin (no Yoast/RankMath), has a very thin blog (only 6 posts), copyright is outdated (2024), no Google Fonts loaded (may affect typography), alt text is decent but has 3 empty-alt images, and the OG image is an SVG testimonial graphic (poor social share preview). Strong local service pages but limited content depth for SEO dominance.",
+
+    "1_platform": {
+      "cms": "WordPress",
+      "theme": "Hello Elementor",
+      "page_builder": "Elementor 3.34.2",
+      "seo_plugin": "NONE DETECTED (no Yoast, RankMath, or AIOSEO)",
+      "designed_by": "Method Marketing (credited in footer)",
+      "hosting": "HTTPS active, custom domain",
+      "notes": "WordPress with Hello Elementor theme -- a lightweight starter theme designed for Elementor page builder. No dedicated SEO plugin detected, which is a significant gap. The site was built by Method Marketing, a local agency."
+    },
+
+    "2_ssl_https": {
+      "active": true,
+      "protocol": "https:",
+      "notes": "Full HTTPS active. SSL certificate valid. No mixed content issues observed."
+    },
+
+    "3_meta_descriptions": {
+      "present": true,
+      "homepage_meta": "Professional landscaping and janitorial services serving Chico, Paradise, Oroville, and communities throughout Butte County.",
+      "og_title": "Butte County Landscaping & Janitorial Services | Inside Out",
+      "og_description": "Professional landscaping and janitorial services serving Chico, Paradise, Oroville, and communities throughout Butte County.",
+      "og_image": "https://insideoutlandscapingandjanitorial.com/wp-content/uploads/2023/01/GreenTestimonial.svg",
+      "og_locale": "en_US",
+      "og_type": "website",
+      "notes": "Meta description IS present and relevant. OG tags are properly set. ISSUE: The OG image is an SVG testimonial graphic, not a branded photo -- will display poorly when shared on social media (Facebook, LinkedIn, etc.)."
+    },
+
+    "4_schema_markup": {
+      "present": true,
+      "count": 1,
+      "schema_types": ["WebSite", "professionalservice (LocalBusiness)"],
+      "details": {
+        "website_schema": {
+          "type": "WebSite",
+          "name": "Inside Out Landscaping Janitorial",
+          "description": "Professional landscaping and janitorial services serving Chico, Paradise, Oroville, and communities throughout Butte County.",
+          "url": "https://insideoutlandscapingandjanitorial.com"
+        },
+        "local_business_schema": {
+          "type": "professionalservice",
+          "id": "LocalBusiness",
+          "name": "Inside Out Landscaping & Janitorial",
+          "aggregate_rating": {
+            "review_count": 7,
+            "rating_value": 4.29
+          },
+          "note": "Schema includes embedded reviews with AggregateRating. Rating of 4.29 from 7 reviews in schema markup."
+        }
+      },
+      "notes": "Schema markup IS present with both WebSite and LocalBusiness types. The LocalBusiness schema includes AggregateRating (4.29/5 from 7 reviews). This is good for rich snippet potential. However, could be enhanced with more specific service schemas, opening hours, and area served markup."
+    },
+
+    "5_heading_hierarchy": {
+      "h1_count": 1,
+      "h1_text": "Save When You Bundle Janitorial and Landscaping Services in Butte County!",
+      "h2_count": 3,
+      "h2_texts": [
+        "Welcome to Inside Out Landscaping & Janitorial",
+        "Commercial and Residential Landscaping",
+        "Seasonal Weed Abatement & Fire Safety Services"
+      ],
+      "h3_count": 6,
+      "h3_sample": ["Landscaping", "Janitorial", "The Complete Appeal"],
+      "h4_count": 2,
+      "h4_sample": ["Help meet local fire season vegetation requirements.", "A Business For Good"],
+      "h5_count": 0,
+      "h6_count": 0,
+      "notes": "Heading hierarchy is GOOD. Single H1 tag (proper), logical H2-H3-H4 cascade. However, the H1 is promotional/sales-oriented rather than keyword-rich for SEO. A better H1 would incorporate target keywords like 'Landscaping Services Chico CA'. The H2s provide good topical organization."
+    },
+
+    "6_image_alt_text": {
+      "total_images": 13,
+      "with_alt_text": 10,
+      "without_alt_text": 0,
+      "empty_alt_text": 3,
+      "alt_text_percentage": "77% (10 of 13)",
+      "sample_alts": [
+        "Inside Out has provided their janitorial services and mainta...",
+        "Inside Out Testimonial Flynn Properties",
+        "Vanessa",
+        "The landscapers and custodians are skilled at their craft..."
+      ],
+      "notes": "Alt text is DECENT but not perfect. 10 of 13 images have descriptive alt text, but 3 have empty alt attributes. The alt text that IS present tends to be testimonial-focused rather than keyword-optimized (e.g., should include terms like 'landscaping Chico CA', 'commercial janitorial Butte County'). Empty alts should be filled with descriptive, keyword-relevant text."
+    },
+
+    "7_blog_content": {
+      "has_blog": true,
+      "blog_url": "https://insideoutlandscapingandjanitorial.com/resources/",
+      "blog_label": "Resources",
+      "total_posts": 6,
+      "post_titles": [
+        "The Complete Guide to Commercial Hard Floor Care and Maintenance",
+        "Local Irrigation Services Butte County",
+        "Landscaping Maintenance Chico CA",
+        "The Importance of Commercial Cleaning for Businesses",
+        "Common Watering Mistakes and How to Prevent Them",
+        "Lawn Weed Control 101: Choosing the Right Weed Killer for a Healthier Yard"
+      ],
+      "notes": "Blog EXISTS but is extremely thin with only 6 total posts. For a 40+ year old business, this is a massive missed opportunity. The topics are solid and locally relevant, but the volume is far too low to compete for organic traffic. Competitors with active blogs publishing 2-4x monthly will dominate long-tail keywords. The blog is labeled 'Resources' in the nav, which is fine for UX but the content production cadence needs to increase dramatically."
+    },
+
+    "8_google_business_profile": {
+      "present": true,
+      "verified": true,
+      "rating": 4.4,
+      "review_count": 13,
+      "category": "Landscaper",
+      "address_listed": "2234 Park Ave, Chico, CA 95928",
+      "phone_listed": "(530) 343-7615",
+      "hours": "Opens 8 AM (currently showing closed/limited hours)",
+      "areas_served": "Chico and nearby areas",
+      "photos": true,
+      "notes": "Google Business Profile IS present and verified with 4.4 stars across 13 reviews. This is a SOLID but not dominant local presence. For context, top landscapers in competitive markets aim for 50+ reviews. 13 reviews for a 40-year-old company is LOW and represents a significant opportunity. The GBP category is 'Landscaper' -- could benefit from additional categories (e.g., 'Janitorial service', 'Landscape designer'). Review velocity needs improvement."
+    },
+
+    "9_page_count": {
+      "sitemap_pages": 14,
+      "sitemap_posts": 7,
+      "total_in_sitemap": 21,
+      "google_indexed": "~15-20 pages (2 pages of site: results)",
+      "key_pages": [
+        "/ (Homepage)",
+        "/services/",
+        "/landscaping-services/",
+        "/janitorial-services/",
+        "/irrigation-services/",
+        "/about-us/",
+        "/careers/",
+        "/bundle-services/",
+        "/contact-us/",
+        "/chico-landscaping/",
+        "/chico-janitorial/",
+        "/resources/",
+        "/spring-cleanup-special-inside-out/"
+      ],
+      "notes": "Approximately 21 total pages including blog posts. This is a SMALL site for a multi-service landscaping company. Missing dedicated pages for: individual service types (lawn care, weed control, pest control), location-specific pages (Paradise, Oroville, Durham), case studies/portfolio, FAQ, and seasonal content. Expanding to 40-60 pages with targeted service+location combinations would dramatically improve organic reach."
+    },
+
+    "10_mobile_responsiveness": {
+      "viewport_tag": "width=device-width, initial-scale=1",
+      "responsive_framework": "Elementor (responsive by default)",
+      "notes": "Viewport meta tag IS properly set. Elementor provides built-in responsive breakpoints. The site uses 'additional_custom_breakpoints' (noted in generator tag), suggesting custom responsive tuning has been done. Mobile responsiveness appears GOOD based on the responsive framework and meta tag setup."
+    },
+
+    "11_social_media": {
+      "facebook": {
+        "present": true,
+        "url": "https://www.facebook.com/insideoutchico"
+      },
+      "instagram": {
+        "present": true,
+        "url": "https://www.instagram.com/insideoutlandscapingjanitorial"
+      },
+      "twitter": { "present": false },
+      "linkedin": { "present": false },
+      "youtube": { "present": false },
+      "tiktok": { "present": false },
+      "yelp": {
+        "present": true,
+        "url": "https://www.yelp.com/biz/inside-out-landscaping-and-janitorial-chico",
+        "note": "Listed on Yelp but link not on website"
+      },
+      "nextdoor": { "present": false },
+      "notes": "Only Facebook and Instagram linked on website. No LinkedIn, YouTube, TikTok, or Nextdoor presence found on the site. For a local service business, missing Nextdoor is a big gap (Nextdoor is the #1 platform for local service recommendations). Also has a Yelp listing but it is NOT linked from the website -- should be added. The Paradise Ridge Chamber of Commerce also lists them."
+    },
+
+    "12_design_quality": {
+      "rating": "Modern / Professional",
+      "color_scheme": "Dark charcoal/black header and nav, green and blue accent colors, white content sections, gold/orange section accents",
+      "logo": "Custom tree/house logo with 'INSIDE OUT LANDSCAPING & JANITORIAL' text",
+      "imagery": "Mix of stock and original photos. Lawn mower close-up, janitorial action shots, branded vehicle photo",
+      "layout": "Full-width hero with overlay text, alternating content/image sections, testimonial carousel, CTA buttons throughout",
+      "cta_buttons": "Green 'GET A QUOTE', 'REVAMP YOUR LANDSCAPING', 'REQUEST WEED ABATEMENT SERVICE', 'JANITORIAL SERVICES', 'OUR MISSION', 'CALL TODAY'",
+      "certifications_shown": "ISSA CIMS-GBAC Certified badge displayed",
+      "footer": "Simple footer with address, email, phone, license number, copyright, social icons, and 'Designed by Method Marketing' credit",
+      "copyright_year": "2024 (OUTDATED -- should be 2025 or auto-updating)",
+      "notes": "Design is MODERN and PROFESSIONAL. Clean layout with good visual hierarchy. The use of branded vehicle photography and certification badges builds trust. Multiple CTAs throughout the page. Testimonial section with named clients from real businesses (Faith Lutheran Church, Sunseri Construction, Flynn Properties) adds credibility. ISSUES: Copyright year is outdated (2024), footer is minimal, and the overall page length is long with some sparse sections. The 'Full-Service Property Beautification' section appears visually thin."
+    }
+  },
+
+  "competitive_landscape": {
+    "search_term": "landscaping Chico CA",
+    "market_assessment": "Moderately competitive local market. Several established players with strong online presence. Inside Out differentiates through bundled landscaping + janitorial services and nonprofit mission, but their digital presence lags behind more aggressive competitors.",
+
+    "top_competitors": [
+      {
+        "name": "Chop Chop Landscaping",
+        "website": "https://www.landscapingchicoca.com",
+        "location": "1120 Forest Ave, Chico, CA 95928",
+        "phone": "(530) 303-6445",
+        "rating": "4.61/5 (52 votes on their platform)",
+        "bbb": "Accredited",
+        "services": ["Landscaping", "Landscape Lighting", "Lawn Aeration", "Lawn Care", "Snow Removal", "Hydroseeding", "Yard Clean Up", "Organic Landscaping", "Desertscape", "Sod", "Mulch", "Fences", "Driveway Pavers", "Sheds"],
+        "strengths": "SEO-optimized domain (landscapingchicoca.com), BBB accredited, wide service range, strong review aggregation",
+        "threat_level": "HIGH -- they own the exact-match local domain"
+      },
+      {
+        "name": "Sal Rodriguez Landscapes",
+        "website": "https://www.rodriguezlandscapes.net",
+        "location": "5400 Cana Hwy, Chico, CA 95973",
+        "rating": "3.5/5 (69 reviews on Chamber of Commerce)",
+        "services": ["Garden Design & Installation", "Shrub Planting", "Tree Trimming", "Lawn Mowing", "Fertilizing", "Retaining Walls", "Walkways", "Landscape Center/Nursery"],
+        "strengths": "Physical landscape center/nursery, 20+ years experience, diverse services including hardscape",
+        "threat_level": "MEDIUM -- strong physical presence but lower online rating"
+      },
+      {
+        "name": "Dawson Landscaping",
+        "website": "https://dawsonlandscaping.com",
+        "location": "1444 Nord Ave, Chico, CA",
+        "rating": "A+ BBB, BuildZoom score 96 (top 20% CA contractors)",
+        "established": 1999,
+        "services": ["Commercial Landscape Construction"],
+        "strengths": "Family-owned since 1999, A+ BBB, top BuildZoom score, Nextdoor Neighborhood Favorite 2023, commercial focus",
+        "threat_level": "MEDIUM -- commercial landscape construction focus, less overlap with maintenance services"
+      },
+      {
+        "name": "Blue Oak Landscaping",
+        "website": "https://www.blueoaklandscaping.com",
+        "location": "1125 Nord Ave, Chico, CA",
+        "services": ["Landscaping", "Pavers", "Walkways"],
+        "platforms": "Active on Yelp (16 reviews with photos), Houzz, BBB",
+        "threat_level": "MEDIUM"
+      },
+      {
+        "name": "Blue Moon Landscape Inc.",
+        "website": "https://www.bluemoonlandscape.com",
+        "rating": "BuildZoom score 95 (top 22% CA), 71 reviews on Birdeye",
+        "services": ["Full landscape services", "Outdoor living spaces"],
+        "threat_level": "MEDIUM-HIGH -- strong review count and professional web presence"
+      },
+      {
+        "name": "Natural Landscaping (Augustine)",
+        "website": "No website found",
+        "services": ["Irrigation", "Yard Maintenance", "Artificial Turf", "Landscape Design", "Tree Services", "Sod Installation"],
+        "notes": "Highly rated on Yelp, appears frequently in top 10 lists. Owner-operated. No website -- operates on word of mouth and directory listings.",
+        "threat_level": "LOW (no web presence to compete with digitally)"
+      },
+      {
+        "name": "LaMora's Yard Service",
+        "website": "No dedicated website found",
+        "notes": "Described as 'hands down the best landscaper in Chico' in reviews. Appears on Yelp top 10.",
+        "threat_level": "LOW (no web presence)"
+      }
+    ],
+
+    "competitive_gaps_for_inside_out": [
+      "Chop Chop owns the exact-match domain landscapingchicoca.com -- hard to outrank for primary keyword",
+      "Inside Out has only 13 Google reviews vs competitors with 50-70+ on aggregated platforms",
+      "No SEO plugin installed -- competitors with Yoast/RankMath have structural SEO advantages",
+      "Only 6 blog posts -- competitors with active content marketing will dominate long-tail keywords",
+      "No YouTube or video content -- competitors leveraging video for before/after projects will capture visual searchers",
+      "Dual-service model (landscaping + janitorial) dilutes SEO focus -- must build separate content strategies for each"
+    ],
+
+    "competitive_advantages_for_inside_out": [
+      "40+ year business history -- strongest legacy brand in the market",
+      "Nonprofit mission (WTC partnership) -- unique emotional differentiator and PR angle",
+      "ISSA CIMS-GBAC Certified -- credibility badge competitors lack",
+      "Bundle services (landscaping + janitorial) -- unique value prop nobody else offers",
+      "Seasonal weed abatement with specific local compliance dates -- timely, searchable content",
+      "Chamber of Commerce membership (Paradise Ridge) -- local authority signal",
+      "Professional website (WordPress/Elementor) -- solid technical foundation to build on"
+    ]
+  },
+
+  "key_opportunities": [
+    {
+      "priority": "CRITICAL",
+      "item": "Install SEO Plugin (Yoast or RankMath)",
+      "rationale": "No SEO plugin detected. This means no XML sitemap optimization, no focus keyword tracking, no schema enhancement, no internal linking suggestions, no content readability scoring. This is the single highest-impact fix."
+    },
+    {
+      "priority": "CRITICAL",
+      "item": "Google Review Generation Campaign",
+      "rationale": "13 reviews after 40 years is critically low. Need a systematic review request process targeting existing commercial clients. Goal: 50+ reviews within 6 months."
+    },
+    {
+      "priority": "HIGH",
+      "item": "Content Marketing / Blog Expansion",
+      "rationale": "Only 6 blog posts. Should target 2-4 posts per month covering: seasonal landscaping tips for Chico climate, fire season preparation guides, irrigation best practices, commercial cleaning guides, and before/after project showcases."
+    },
+    {
+      "priority": "HIGH",
+      "item": "Service + Location Landing Pages",
+      "rationale": "Missing targeted pages like 'Landscaping Services Paradise CA', 'Commercial Janitorial Oroville CA', 'Irrigation Repair Chico CA'. Each service/location combo should have its own optimized page."
+    },
+    {
+      "priority": "HIGH",
+      "item": "Fix OG Image for Social Sharing",
+      "rationale": "Current OG image is an SVG testimonial graphic. Replace with a branded 1200x630px photo showing their work for proper social media previews."
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Add Nextdoor Business Page",
+      "rationale": "Nextdoor is the #1 platform for local service recommendations. Competitors are getting referrals there while Inside Out is absent."
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Google Business Profile Optimization",
+      "rationale": "Add additional categories (Janitorial Service, Landscape Designer, Irrigation Service), post regular GBP updates, add more photos, and respond to all reviews."
+    },
+    {
+      "priority": "MEDIUM",
+      "item": "Update Copyright Year and Footer",
+      "rationale": "Footer shows 2024 copyright. Should auto-update or be set to 2025/2026. Minor but affects perceived site maintenance."
+    },
+    {
+      "priority": "LOW",
+      "item": "Fill Empty Alt Text on 3 Images",
+      "rationale": "3 images have empty alt attributes. Fill with descriptive, keyword-relevant text for accessibility and SEO."
+    },
+    {
+      "priority": "LOW",
+      "item": "Add Yelp Link to Website Footer",
+      "rationale": "They have a Yelp listing but don't link to it from the website. Cross-linking review platforms builds trust."
+    }
+  ],
+
+  "audit_date": "2026-02-18",
+  "audited_by": "Ridge Cell Repair LLC - Digital Marketing Division"
+}

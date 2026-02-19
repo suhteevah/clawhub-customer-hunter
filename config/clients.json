@@ -797,6 +797,62 @@
       "emailSent": true,
       "emailSentDate": "2026-02-17T08:30:00.000Z",
       "notes": "Round 3 Redding scrape. Squarespace. SEO: 4.5/10. No meta desc, has LocalBusiness schema (good), no blog, 11/14 images missing alt. Owner: John Jones."
+    },
+    {
+      "id": "distinctive-landscape",
+      "name": "Distinctive Landscape & Maintenance",
+      "contact": "Todd Young",
+      "email": "distinctivelandscape1@gmail.com",
+      "url": "http://www.distinctivelandscapeandmaintenance.com",
+      "location": "Chico, California",
+      "phone": "(530) 342-5009",
+      "relationship": "cold",
+      "status": "researched",
+      "proposalFile": null,
+      "emailSent": false,
+      "notes": "Est. 1990, 35+ years. Owner Todd Young, licensed contractor, CSU Sacramento grad. Squarespace site. SEO: 4/10. Only 2 pages indexed by Google (of 5 total). No blog, no social media, Gmail email, anonymous reviews, 18 gallery images with zero alt text. GBP: 5.0 stars (1 review). Yelp: listed. BBB: A+ rated. Competitors outperforming significantly (Chop Chop has 20+ pages, schema, FAQs). 10 Whitehall Pl, Chico CA 95928."
+    },
+    {
+      "id": "pro-garage-doors",
+      "name": "Pro Garage Doors",
+      "contact": "Nathan Woodard",
+      "email": "info@getprodoors.com",
+      "url": "https://getprodoors.com",
+      "location": "Chico, California",
+      "phone": "(530) 332-8809",
+      "relationship": "cold",
+      "status": "researched",
+      "proposalFile": null,
+      "emailSent": false,
+      "notes": "Family-owned garage door company, 14+ years experience. Owner Nathan Woodard. Two locations: Chico (13631 Anderson Brothers Dr Suite 400) and Redding. WordPress custom theme with WP Rocket. SEO: 7/10. Has schema markup (WebPage, Organization, BreadcrumbList), responsive design, SSL active, Instagram @getprodoors (4,495 followers). BBB A+ rated, 5-star Google rating. CHI Door and LiftMaster partner. Competitors: The Door Company (30+ yrs, 4 locations), Gates Garage Door, A&Em Garage Doors. Weaknesses: image alt text gaps, location pages thin on content, blog exists but underutilized, no Facebook page found, Chico page is template-thin."
+    },
+    {
+      "id": "north-valley-lawn-care",
+      "name": "North Valley Lawn Care",
+      "contact": "Mike",
+      "email": "mike@northvalleylawncare.com",
+      "url": "https://northvalleylawncare.com",
+      "location": "Chico, California",
+      "phone": "(530) 826-6475",
+      "relationship": "cold",
+      "status": "researched",
+      "proposalFile": null,
+      "emailSent": false,
+      "notes": "Est. 2017. Lawn care & landscape maintenance. GoDaddy Website Builder 8.0. SEO: 4.5/10. No schema markup, no blog, no canonical tags, only 2 images on homepage, 50% missing alt text, heading hierarchy skips H3 (H1>H2>H4), copyright 2023. GBP: 4.7 stars (18 reviews). Yelp: listed. Licensed/bonded/insured (City of Chico, County of Butte, State of CA). Service area: Chico, Durham, Forest Ranch, Paradise, Butte Valley. 441 Hideaway Park, Chico CA 95926. Social: Facebook, Yelp, YouTube. Competitor Mike's Yard Care has WordPress + schema + analytics = significantly outperforming."
+    },
+    {
+      "id": "speedy-clean-painting",
+      "name": "SPEEDY-CLEAN Painting & Pressure Washing",
+      "contact": "Barry Pew",
+      "email": "info@tryspeedy.com",
+      "url": "https://tryspeedy.com",
+      "location": "Chico, California",
+      "phone": "(530) 966-6909",
+      "relationship": "cold",
+      "status": "researched",
+      "proposalFile": null,
+      "emailSent": false,
+      "notes": "Est. 1995, 30+ years. Owner Barry Pew. Campfire survivor business. WordPress/Beaver Builder. SEO: 7.5/10 - BEST digital presence of any painting contractor in Chico market. Has HousePainter schema, active blog (2-3/mo), 15+ pages with dedicated service pages. GBP: 4.9 stars (58 reviews). Yelp: 4.7 (13 reviews). Facebook: 350+ followers. BBB A+ rated. CA Lic #897689. Weaknesses: 40-50% images missing alt text, no Instagram, no location-specific pages, no FAQ schema, GBP hours say '24hrs'. Top competitor Chris Floren owns chicopainting.com (Wix). Bestway Painters (est. 1949) has EXPIRED SSL. SGB Painting already in our pipeline. ~77 painting companies in Chico market. Research file: research/speedy_clean_painting_audit.json"
     }
   ]
 }

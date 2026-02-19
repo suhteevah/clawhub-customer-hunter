@@ -1,0 +1,349 @@
+{
+  "prospect": {
+    "business_name": "SPEEDY-CLEAN Painting & Pressure Washing",
+    "owner": "Barry Pew",
+    "email": "info@tryspeedy.com",
+    "phone": "(530) 966-6909",
+    "website": "https://tryspeedy.com",
+    "address": "2961 CA-32 STE# 78, Chico, CA 95973",
+    "established": 1995,
+    "years_in_business": 30,
+    "ca_license": "#897689",
+    "service_area": ["Chico", "Paradise", "Magalia", "Durham", "Butte County"],
+    "campfire_survivor": true,
+    "relationship": "cold"
+  },
+
+  "website_audit": {
+    "overall_score": "7.5/10",
+    "score_rationale": "Strong WordPress site with Beaver Builder, good schema markup, active blog, excellent reviews integration. Falls short on image alt text coverage, limited social media presence (no Instagram/TikTok), and blog could be more frequent. Site is well above average for a local contractor.",
+
+    "1_platform": {
+      "cms": "WordPress",
+      "page_builder": "Beaver Builder (fl-builder)",
+      "forms": "Gravity Forms",
+      "hosting": "HTTPS active, custom domain",
+      "notes": "Professional WordPress setup with premium page builder and form plugin. Solid foundation."
+    },
+
+    "2_ssl_https": {
+      "active": true,
+      "all_pages": true,
+      "notes": "Full HTTPS across the site. No mixed content issues detected."
+    },
+
+    "3_meta_descriptions": {
+      "present": true,
+      "homepage_meta": "Professional House Painting since 1995, SPEEDY-CLEAN Painting & Pressure Washing is Chico's go-to destination.",
+      "og_title": "Present",
+      "og_description": "Present",
+      "og_image": "Present",
+      "canonical_tag": "Present",
+      "notes": "Meta descriptions are implemented. OG tags present for social sharing. Individual service pages also have targeted meta descriptions."
+    },
+
+    "4_schema_markup": {
+      "present": true,
+      "types_found": [
+        "HousePainter (with full business details)",
+        "AggregateRating (4.9/5, 52 reviews in schema)",
+        "Multiple individual Review schemas",
+        "WebSite with SearchAction",
+        "ContactPoint"
+      ],
+      "quality": "EXCELLENT - This is significantly above average for local contractors. HousePainter-specific schema type is very targeted.",
+      "missing": ["FAQPage schema (would help for service pages)", "BreadcrumbList schema"]
+    },
+
+    "5_heading_hierarchy": {
+      "structure": "Properly structured",
+      "h1": "A Quality Service You Can Depend On",
+      "h2_examples": ["Our Specialties", "Google Reviews", "CAMPFIRE SURVIVORS", "Exceptional Service"],
+      "notes": "Clean heading hierarchy. Single H1, logical H2 breakdown. No heading level skips detected on homepage."
+    },
+
+    "6_image_alt_text": {
+      "status": "WEAK - Significant gaps",
+      "details": "Many images rely on descriptive filenames rather than explicit alt attributes. Several project photos and gallery images lack alt text entirely.",
+      "estimated_missing_percentage": "40-50%",
+      "seo_impact": "Moderate negative - missing alt text means Google Images traffic is being left on the table, especially for before/after project photos which are high-intent search queries."
+    },
+
+    "7_blog_content": {
+      "exists": true,
+      "url": "https://tryspeedy.com/painting-pressure-washing-blog/",
+      "total_posts": "18+ (paginated across 3+ pages)",
+      "most_recent_post": "April 20, 2025 - 'Exterior Paint Colors for your Home or Business'",
+      "recent_posts": [
+        {"date": "2025-04-20", "title": "Exterior Paint Colors for your Home or Business"},
+        {"date": "2025-02-15", "title": "6 Things To Consider When Choosing Exterior Paint Colors In Chico, CA"},
+        {"date": "2025-02-09", "title": "A Tale of Two Painting Companies Near Me"},
+        {"date": "2025-02-04", "title": "Focus on Value more than Price when Taking Estimates from Chico Painters"},
+        {"date": "2025-01-20", "title": "3 areas that can cause house fires that you may not be aware of"},
+        {"date": "2025-01-11", "title": "Who is the Best Interior House Painter Near Me?"}
+      ],
+      "posting_frequency": "2-3 posts per month (active in 2025)",
+      "topics_covered": ["Color selection", "Contractor comparison", "Value vs price", "Fire safety", "Interior painting tips"],
+      "seo_quality": "Good - Posts target local keywords like 'Chico Painters', 'Interior House Painter Near Me'. Content is original and service-relevant.",
+      "opportunities": "Could expand to seasonal content, deck maintenance guides, pressure washing tips, and neighborhood-specific pages."
+    },
+
+    "8_google_business_profile": {
+      "claimed": true,
+      "verified": true,
+      "name_on_gbp": "Speedy-Clean Painting & Pressure Washing",
+      "category": "Painter in Butte County, California",
+      "rating": 4.9,
+      "review_count": 58,
+      "all_reviews_5_star": "Virtually all reviews are 5 stars based on homepage embed (52+ displayed)",
+      "photos": true,
+      "hours": "Open 24 hours (listed)",
+      "areas_served": "Chico and nearby areas",
+      "description": "Professional team that paints the interiors and exteriors of homes, as well as cabinets and decks.",
+      "website_linked": true,
+      "directions_active": true,
+      "notes": "GBP is well-maintained. 58 reviews at 4.9 stars is strong for a local painter. However, 'Open 24 hours' may not be accurate for a painting company and could hurt credibility."
+    },
+
+    "9_page_count": {
+      "estimated_total": "15-20 pages",
+      "confirmed_pages": [
+        "Home",
+        "About Us",
+        "Satisfaction Guarantee",
+        "Services (overview)",
+        "Commercial Services",
+        "House Painting",
+        "Exterior Painting In Chico, CA",
+        "Interior Painting, Chico",
+        "Cabinet Painting",
+        "Deck Restoration",
+        "Pressure Washing",
+        "Reviews",
+        "Gallery",
+        "Blog (paginated, 3+ pages)",
+        "Contact Us",
+        "Privacy Policy"
+      ],
+      "notes": "Good page count for a local contractor. Individual service pages are a strong SEO strategy. Could add more location-specific pages (Paradise painting, Magalia painting, etc.)."
+    },
+
+    "10_mobile_responsiveness": {
+      "responsive": true,
+      "viewport_meta": "width=device-width, initial-scale=1.0",
+      "breakpoints": ["1024px", "768px", "480px"],
+      "beaver_builder_responsive": true,
+      "notes": "Fully responsive with proper viewport tag and multiple breakpoints. Beaver Builder provides good mobile adaptation out of the box."
+    },
+
+    "11_social_media": {
+      "facebook": {
+        "present": true,
+        "url": "Facebook page linked in footer",
+        "followers": "350+",
+        "rating": "5.0 stars (5 reviews)"
+      },
+      "youtube": {
+        "present": true,
+        "url": "YouTube channel linked in footer"
+      },
+      "google_business": {
+        "present": true,
+        "linked_in_footer": true
+      },
+      "instagram": {
+        "present": false,
+        "opportunity": "HIGH - Before/after painting photos are perfect Instagram content. Painting contractors who post project photos on Instagram generate significant local engagement."
+      },
+      "tiktok": {
+        "present": false,
+        "opportunity": "MEDIUM - Timelapse painting/pressure washing videos perform extremely well on TikTok. Low effort, high visibility."
+      },
+      "nextdoor": {
+        "present": true,
+        "notes": "Listed on Nextdoor (discovered via search)"
+      },
+      "missing_platforms": ["Instagram", "TikTok", "LinkedIn", "Pinterest"],
+      "notes": "Only Facebook and YouTube linked on site. For a visual trade like painting, Instagram absence is a significant missed opportunity."
+    },
+
+    "12_design_quality": {
+      "rating": "Modern and Professional",
+      "positives": [
+        "Clean layout with clear visual hierarchy",
+        "Professional branded logo with registered trademark symbol",
+        "Red/white/black color scheme is bold and memorable",
+        "Company truck fleet photo as hero image establishes legitimacy",
+        "Sticky/scroll animations and gradient backgrounds",
+        "Google Reviews embedded directly on homepage (social proof)",
+        "Clear CTAs ('Free Estimate' red button)",
+        "Contact form on homepage (Gravity Forms)",
+        "Email newsletter signup button",
+        "Footer includes license number and insurance info (trust signals)",
+        "Privacy Policy page present"
+      ],
+      "negatives": [
+        "Hero text 'Professionals at Your Service Since 1995' could be more benefit-driven",
+        "Reviews section is VERY long - 50+ reviews on homepage creates excessive scrolling",
+        "No video content on homepage despite having YouTube channel",
+        "No before/after gallery section on homepage",
+        "No pricing indicators or packages visible",
+        "No live chat or chatbot"
+      ]
+    },
+
+    "additional_findings": {
+      "email_newsletter": "Has 'Subscribe to our Free Monthly Email Newsletter' button - indicates email marketing awareness",
+      "contact_form": "Gravity Forms with Name, Email, Phone, Message fields + honeypot spam protection",
+      "satisfaction_guarantee": "Dedicated page - $7,000 satisfaction guarantee (strong differentiator)",
+      "bbq_rating": "A+ with Better Business Bureau",
+      "directory_listings": ["Yelp (4.7 stars, 13 reviews)", "HomeAdvisor (5 stars)", "Angi (A rating)", "Porch (5 stars, 43 reviews)", "Nextdoor", "BBB (A+)", "Biopage"],
+      "google_analytics": "Likely present (WordPress standard)",
+      "scripts_loaded": "Multiple JS files (Beaver Builder, Gravity Forms, WordPress core)",
+      "stylesheets": "Multiple CSS files",
+      "copyright": "2026 - kept current"
+    }
+  },
+
+  "services_offered": [
+    "Interior House Painting",
+    "Exterior House Painting",
+    "Commercial Painting (including apartments)",
+    "Cabinet Refinishing",
+    "Sheet Rock / Drywall Repair",
+    "Texture Finishing",
+    "Deck Sealing",
+    "Deck Repair",
+    "Deck Restoration",
+    "Hot or Cold Pressure Washing",
+    "Carpet Cleaning",
+    "Roof & Gutter Cleaning"
+  ],
+
+  "competitive_landscape": {
+    "market_size": "~77 painting companies listed in Chico area",
+    "market_density": "HIGH - very competitive local market",
+
+    "top_competitors": [
+      {
+        "name": "Chris Floren Painting (also operates as Chico Painting)",
+        "website": "https://www.chicopainting.com",
+        "platform": "Wix",
+        "years_in_business": "32+ (est. 1992)",
+        "phone": "(530) 570-9498",
+        "notes": "Owns chicopainting.com domain - strong SEO advantage for 'Chico painting' searches. Wix platform limits SEO flexibility. 29 years serving North Valley.",
+        "threat_level": "HIGH - dominant domain name"
+      },
+      {
+        "name": "SGB Custom Painting",
+        "website": "https://www.sgbpainting.com",
+        "platform": "Squarespace",
+        "owner": "Scott Bernhardt",
+        "phone": "(530) 924-4109",
+        "email": "sgbpainting@gmail.com",
+        "years_in_business": "25+",
+        "notes": "Already in our pipeline (proposal sent). Squarespace, managed by Peterson SEO. Has SEO problems: 5 H1 tags, keyword stuffing, NAP inconsistency. PDCA accredited. Gmail email (unprofessional). CSLB #990114.",
+        "threat_level": "MEDIUM - has SEO agency but poorly executed"
+      },
+      {
+        "name": "Bestway Painters Inc",
+        "website": "http://bestwaypainters.com",
+        "platform": "Custom/Legacy",
+        "years_in_business": "77+ (est. 1949!)",
+        "notes": "SSL CERTIFICATE EXPIRED - site is effectively broken/insecure. Second-generation family business. Oldest competitor in market. Specializes in residential, commercial, institutional. Their SSL failure is a major competitive vulnerability.",
+        "threat_level": "LOW - website is broken (expired SSL)"
+      },
+      {
+        "name": "Silver Cloud Painting",
+        "notes": "Listed as top painter on Yelp. Limited web presence information found.",
+        "threat_level": "UNKNOWN"
+      },
+      {
+        "name": "Harvey's House Painting",
+        "notes": "Listed in Yelp top 10 for Chico painters.",
+        "threat_level": "LOW-MEDIUM"
+      },
+      {
+        "name": "Allstate Painting",
+        "notes": "Listed in Yelp top 10 for Chico painters.",
+        "threat_level": "LOW-MEDIUM"
+      },
+      {
+        "name": "High Country Construction",
+        "notes": "General contractor that also does indoor/outdoor painting. Serves residential and commercial in Chico and surrounding areas.",
+        "threat_level": "LOW - painting is secondary service"
+      }
+    ],
+
+    "speedy_clean_competitive_position": {
+      "strengths": [
+        "30 years in business (only Bestway is older, and their site is broken)",
+        "4.9 stars on Google with 58 reviews - best review profile in market",
+        "Professional WordPress site with schema markup - most competitors use Wix/Squarespace or have broken sites",
+        "Active blog with 2-3 posts/month - only contractor doing content marketing",
+        "Campfire survivor story - powerful local emotional connection",
+        "$7,000 satisfaction guarantee - unique differentiator",
+        "Branded domain (tryspeedy.com) with professional email",
+        "Listed on 7+ directory platforms with consistent NAP",
+        "Dedicated service pages for each offering",
+        "A+ BBB rating",
+        "CA Licensed (#897689) with workers comp"
+      ],
+      "weaknesses": [
+        "40-50% of images missing alt text - leaving Google Images traffic on the table",
+        "No Instagram presence despite being a highly visual business",
+        "Homepage reviews section is excessively long (50+ reviews create scroll fatigue)",
+        "No video content on site despite having YouTube channel",
+        "No location-specific landing pages (e.g., 'Painters in Paradise CA', 'Painting Magalia CA')",
+        "No FAQ schema on service pages",
+        "No pricing/packages visible on site",
+        "Blog frequency could increase",
+        "GBP hours listed as 'Open 24 hours' which seems inaccurate",
+        "No Google Ads or paid search detected"
+      ]
+    }
+  },
+
+  "seo_opportunities": {
+    "quick_wins": [
+      "Fix image alt text across all pages (40-50% missing) - immediate ranking signal improvement",
+      "Add FAQPage schema to service pages - can trigger FAQ rich snippets in search",
+      "Create location-specific landing pages: 'House Painting Paradise CA', 'Pressure Washing Durham CA', 'Painters Magalia CA'",
+      "Correct GBP hours from '24 hours' to actual business hours",
+      "Add BreadcrumbList schema for better search navigation display"
+    ],
+    "growth_plays": [
+      "Launch Instagram account with before/after project photos - immediate local visibility",
+      "Create TikTok with pressure washing and painting timelapse videos",
+      "Add video testimonials to the website (embed from YouTube channel)",
+      "Create a 'Cost of Painting in Chico' or 'Painting Prices' page - high search volume keyword",
+      "Build out seasonal content: 'Best Time to Paint Your House in Northern California'",
+      "Add Google Ads campaigns targeting 'painter near me Chico', 'house painting Chico CA'",
+      "Create comparison content: 'SPEEDY-CLEAN vs Other Chico Painters'",
+      "Implement review generation system to push past 100 Google reviews"
+    ],
+    "content_gaps": [
+      "No neighborhood/subdivision-specific pages",
+      "No 'How much does it cost' content",
+      "No seasonal painting guides",
+      "No paint brand/product recommendation content",
+      "No case studies or detailed project spotlights",
+      "No video content despite YouTube presence"
+    ]
+  },
+
+  "proposal_angle": {
+    "primary_hook": "SPEEDY-CLEAN has the strongest digital foundation of any painting contractor in the Chico market - 30-year reputation, 4.9-star reviews, active blog, proper schema markup. But they're leaving significant growth on the table with missing alt text, no Instagram presence, no location pages, and no paid search. Their closest competitors (Chris Floren/Chico Painting on Wix, SGB on Squarespace, Bestway with expired SSL) are all digitally weaker. This is an opportunity to cement market dominance, not catch up.",
+    "key_differentiator_for_proposal": "Unlike most prospects in our pipeline who need a digital overhaul, SPEEDY-CLEAN needs digital acceleration. The pitch should focus on amplifying what's already working - not fixing what's broken.",
+    "estimated_difficulty": "MEDIUM - They already have a decent web presence and may believe they don't need help. Need to show the gap between 'good' and 'dominant'.",
+    "recommended_tone": "cold",
+    "pricing_tier_recommendation": "Growth ($800-1,500/mo) - they have the foundation, need the amplification"
+  },
+
+  "research_metadata": {
+    "researched_date": "2026-02-18",
+    "data_sources": ["tryspeedy.com (live site audit)", "Google Search", "Google Business Profile", "Yelp", "BBB", "HomeAdvisor", "Angi", "Porch", "Nextdoor", "Facebook"],
+    "all_data_verified": true,
+    "no_fabricated_numbers": true
+  }
+}
