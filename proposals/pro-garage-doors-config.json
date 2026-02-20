@@ -1,0 +1,146 @@
+{
+  "businessName": "Pro Garage Doors",
+  "contactName": "Nathan",
+  "date": "February 19, 2026",
+  "executiveSummary": [
+    "Nathan, Pro Garage Doors is already one of the strongest digital performers in the Chico garage door market. Your WordPress site has schema markup (WebPage, Organization, BreadcrumbList), responsive design, SSL, and an Instagram account with nearly 4,500 followers. You're BBB A+ rated with 5-star Google reviews, and your CHI Door and LiftMaster partnerships add serious credibility. At a 7/10, your site is well above average for local contractors.",
+    "But there's a clear gap between 'good' and 'dominant.' Your image alt text has gaps across the site, your location pages for Chico and Redding are template-thin with minimal unique content, and your blog exists but is underutilized. No Facebook page was found, which means you're missing one of the highest-converting social platforms for local services. Most importantly -- no LocalBusiness schema, which means Google Maps and local search packs aren't getting the structured data they need to rank you.",
+    "Your main competitor, The Door Company, has 30+ years and 4 locations -- but we've audited their site too, and they have no HTTPS, a broken YouTube embed, and a COVID notice from 2020 still on the homepage. Gates Garage Door's email bounced and their secondary domain is dead. You're positioned to own this market with targeted improvements."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- getprodoors.com",
+      "points": [
+        "Built on WordPress with custom theme and WP Rocket caching -- solid technical foundation.",
+        "Owner: Nathan Woodard, 14+ years experience.",
+        "Two locations: Chico (13631 Anderson Brothers Dr Suite 400) and Redding.",
+        "Phone: (530) 332-8809.",
+        "Schema markup present: WebPage, Organization, BreadcrumbList -- above average.",
+        "Instagram @getprodoors with 4,495 followers -- strong visual presence.",
+        "BBB A+ rated, 5-star Google rating.",
+        "CHI Door and LiftMaster authorized partner."
+      ]
+    },
+    {
+      "title": "SEO & Content Gaps",
+      "points": [
+        "Image alt text has gaps across service and project pages.",
+        "Location pages (Chico, Redding) are template-thin with minimal unique content.",
+        "Blog exists but is underutilized -- not driving organic traffic.",
+        "No LocalBusiness schema -- missing from local search pack signals.",
+        "No Facebook page found -- missing major social platform for local services.",
+        "No FAQ schema on service pages -- missing featured snippet opportunities.",
+        "No review schema to display star ratings in search results."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "The Door Company (30+ years, 4 locations) -- NO HTTPS, broken YouTube embed, 2020 COVID notice still on homepage.",
+        "Gates Garage Door -- email bounced, secondary domain dead, Duda platform with no LocalBusiness schema.",
+        "A&Em Garage Doors -- smaller competitor with limited web presence.",
+        "Pro Garage Doors has the best technical foundation of any competitor in the Chico market.",
+        "Adding LocalBusiness schema, filling content gaps, and launching Facebook would cement market leadership."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "LocalBusiness Schema", "finding": "Missing -- Google Maps/local pack not getting structured business data", "priority": "High", "status": "Missing" },
+    { "area": "Location Pages", "finding": "Chico and Redding pages are template-thin with minimal unique content", "priority": "High", "status": "Needs Fix" },
+    { "area": "Image Alt Text", "finding": "Gaps across service and project pages -- missing Google Images traffic", "priority": "High", "status": "Needs Fix" },
+    { "area": "Blog Utilization", "finding": "Blog exists but underutilized -- not driving organic search traffic", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Facebook Presence", "finding": "No Facebook page found -- missing high-converting local social platform", "priority": "Medium", "status": "Missing" },
+    { "area": "FAQ Schema", "finding": "No FAQ schema on service pages -- missing featured snippet opportunities", "priority": "Medium", "status": "Missing" },
+    { "area": "Review Schema", "finding": "No AggregateRating/Review schema despite strong review profile", "priority": "Medium", "status": "Missing" },
+    { "area": "SSL/HTTPS", "finding": "Active and properly configured -- ahead of main competitor", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Schema & Technical Optimization (Months 1-2)",
+      "actions": [
+        "Implement LocalBusiness schema with both Chico and Redding locations.",
+        "Add AggregateRating and Review schema to showcase 5-star ratings in search results.",
+        "Add FAQPage schema to all service pages for featured snippet eligibility.",
+        "Fix image alt text gaps across the entire site.",
+        "Optimize meta descriptions for location-specific garage door keywords.",
+        "Set up Google Search Console monitoring for both locations."
+      ]
+    },
+    {
+      "title": "Phase 2: Content Expansion & Social (Months 3-5)",
+      "actions": [
+        "Rewrite Chico and Redding location pages with unique, keyword-rich content.",
+        "Launch blog content strategy: monthly posts targeting 'garage door repair Chico', 'garage door installation Redding', etc.",
+        "Create dedicated service pages: spring repair, opener installation, commercial doors, emergency service.",
+        "Launch Facebook business page and cross-promote with Instagram content.",
+        "Build out a before/after project gallery with full image SEO.",
+        "Implement review solicitation to grow Google review count."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Dominance (Months 6-12)",
+      "actions": [
+        "Google Ads targeting emergency garage door keywords in Chico and Redding.",
+        "Video content: installation timelapses, maintenance tips, LiftMaster product demos.",
+        "Build service area pages for Orland, Red Bluff, Anderson, Paradise.",
+        "Competitive monitoring as The Door Company's SSL issues and outdated content continue.",
+        "Monthly ranking reports and strategy calls.",
+        "Email marketing for seasonal garage door maintenance."
+      ]
+    }
+  ],
+  "pricingIntro": "Pro Garage Doors is already in a strong position -- 7/10 is well above average for local contractors. But the difference between 7/10 and 9/10 is the difference between showing up on page one and owning the top 3 results. Your competitors have critical vulnerabilities (no HTTPS, dead domains, broken embeds) that create a window to pull ahead decisively. The improvements here are about acceleration, not rescue.",
+  "pricingTiers": [
+    {
+      "name": "STARTER",
+      "price": "$700/mo",
+      "recommended": false,
+      "features": [
+        "LocalBusiness schema (both locations)",
+        "Review & FAQ schema implementation",
+        "Image alt text optimization",
+        "Meta description rewrite (all pages)",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,200/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Starter, plus:",
+        "Location page rewrites (Chico & Redding)",
+        "4+ new service pages",
+        "Blog content (2 posts/month)",
+        "Facebook page launch & management",
+        "Review generation strategy",
+        "Before/after project gallery"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$2,000/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Video content production",
+        "Service area page expansion",
+        "Competitive monitoring reports",
+        "Weekly strategy calls",
+        "Email marketing campaigns"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Nathan, you've built a strong business and a solid digital presence -- now it's about closing the gap to market dominance. Your competitors have real vulnerabilities right now, and the improvements outlined here would put Pro Garage Doors firmly in the top position for both Chico and Redding.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make Pro Garage Doors the first call when someone's garage door needs attention in Northern California."
+  ]
+}

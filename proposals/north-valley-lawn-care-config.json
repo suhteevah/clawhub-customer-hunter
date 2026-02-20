@@ -1,0 +1,149 @@
+{
+  "businessName": "North Valley Lawn Care",
+  "contactName": "Mike",
+  "date": "February 19, 2026",
+  "executiveSummary": [
+    "Mike, North Valley Lawn Care has built a solid local reputation since 2017 -- 4.7 stars on Google with 18 reviews, licensed and bonded across the City of Chico, County of Butte, and State of California. That's more credibility documentation than most lawn care companies bother with. But your website is holding you back from turning that reputation into consistent leads.",
+    "Your site is built on GoDaddy Website Builder 8.0, which is one of the most limiting platforms for SEO. You have no schema markup of any kind -- no LocalBusiness, no Service, no FAQ. There are no canonical tags, which risks duplicate content issues. Your heading hierarchy skips from H2 straight to H4. Only 2 images on the homepage with 50% missing alt text. And the copyright still says 2023.",
+    "Here's what makes this urgent: your direct competitor Mike's Yard Care has a WordPress site with schema markup, Google Analytics, and proper technical SEO. They're capturing searches that should be going to you. Your service area covers Chico, Durham, Forest Ranch, Paradise, and Butte Valley -- that's a wide net, but without location pages for each area, you're invisible in those markets."
+  ],
+  "assessment": [
+    {
+      "title": "Website Analysis -- northvalleylawncare.com",
+      "points": [
+        "Built on GoDaddy Website Builder 8.0 -- severely limited SEO capabilities.",
+        "Owner: Mike. Phone: (530) 826-6475.",
+        "Email: mike@northvalleylawncare.com -- branded email is good.",
+        "Address: 441 Hideaway Park, Chico, CA 95926.",
+        "Licensed, bonded, insured (City of Chico, County of Butte, State of CA).",
+        "Service area: Chico, Durham, Forest Ranch, Paradise, Butte Valley.",
+        "Social media present: Facebook, Yelp, YouTube links.",
+        "Established 2017."
+      ]
+    },
+    {
+      "title": "Technical SEO Gaps",
+      "points": [
+        "GoDaddy Website Builder has minimal SEO customization options.",
+        "Zero schema markup -- no LocalBusiness, Service, FAQ, or Review schema.",
+        "No canonical tags -- risk of duplicate content indexing.",
+        "Heading hierarchy broken: skips from H2 to H4 (missing H3).",
+        "Only 2 images on homepage -- visual content severely lacking.",
+        "50% of images missing alt text.",
+        "Copyright year shows 2023 -- signals a neglected site.",
+        "No blog or content marketing strategy."
+      ]
+    },
+    {
+      "title": "Competitive Landscape",
+      "points": [
+        "Mike's Yard Care (direct competitor) has WordPress site with schema markup and Google Analytics.",
+        "Mike's Yard Care is technically outperforming North Valley in every SEO metric.",
+        "Most lawn care competitors in Chico have at minimum a blog and Google review strategy.",
+        "North Valley's licensing and bonding documentation is a trust advantage most competitors lack.",
+        "Google Business Profile at 4.7 stars (18 reviews) is solid but needs to grow past 50 for authority."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Website Platform", "finding": "GoDaddy Website Builder 8.0 -- severely limits SEO capabilities", "priority": "High", "status": "Critical" },
+    { "area": "Schema Markup", "finding": "Zero schema of any kind -- invisible to rich results and local pack", "priority": "High", "status": "Missing" },
+    { "area": "Blog/Content", "finding": "No blog or content pages -- zero organic search authority", "priority": "High", "status": "Missing" },
+    { "area": "Location Pages", "finding": "No pages for Durham, Forest Ranch, Paradise, Butte Valley service areas", "priority": "High", "status": "Missing" },
+    { "area": "Heading Structure", "finding": "Skips from H2 to H4 -- confuses search engine crawlers", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Image Content", "finding": "Only 2 images on homepage, 50% missing alt text", "priority": "Medium", "status": "Needs Fix" },
+    { "area": "Copyright Year", "finding": "Shows 2023 -- signals neglected/outdated site to visitors", "priority": "Low", "status": "Needs Fix" },
+    { "area": "Branded Email", "finding": "Using mike@northvalleylawncare.com -- professional", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Platform Migration & Foundation (Months 1-2)",
+      "actions": [
+        "Migrate from GoDaddy Website Builder to WordPress for full SEO control.",
+        "Implement complete LocalBusiness schema with service area data.",
+        "Fix heading hierarchy (proper H1 > H2 > H3 structure).",
+        "Add descriptive alt text to all images and expand visual content.",
+        "Write geo-targeted meta descriptions for every page.",
+        "Add canonical tags to prevent duplicate content.",
+        "Update copyright and site footer with current year and credentials."
+      ]
+    },
+    {
+      "title": "Phase 2: Content & Local SEO (Months 3-5)",
+      "actions": [
+        "Create dedicated service pages: lawn mowing, leaf removal, landscape maintenance, seasonal cleanup.",
+        "Build service area landing pages for Chico, Durham, Forest Ranch, Paradise, Butte Valley.",
+        "Launch blog with monthly posts targeting 'lawn care Chico CA', 'landscaping Paradise CA', etc.",
+        "Optimize Google Business Profile with photos, posts, and Q&A.",
+        "Implement review solicitation strategy to push past 50 Google reviews.",
+        "Build citation consistency across lawn care and home service directories."
+      ]
+    },
+    {
+      "title": "Phase 3: Growth & Expansion (Months 6-12)",
+      "actions": [
+        "Google Ads targeting seasonal lawn care keywords in Butte County.",
+        "Before/after project galleries with full image SEO.",
+        "Video content: lawn care tips, seasonal maintenance guides.",
+        "Email marketing for recurring maintenance reminders.",
+        "Monthly competitive analysis and ranking reports.",
+        "Social media content strategy for Facebook and Instagram."
+      ]
+    }
+  ],
+  "pricingIntro": "Mike, the core issue is that your GoDaddy Website Builder site can't do what you need it to do for SEO. It's like trying to win a race with the parking brake on. The licensing, the reviews, the service area -- you have all the ingredients. What's missing is a platform and strategy that lets search engines actually see and rank that credibility. A WordPress migration plus proper SEO would immediately put you in competition with Mike's Yard Care and the other established players in the Chico market.",
+  "pricingTiers": [
+    {
+      "name": "LAUNCH",
+      "price": "$800/mo",
+      "recommended": false,
+      "features": [
+        "WordPress site build (migration from GoDaddy)",
+        "LocalBusiness & Service schema markup",
+        "Meta description optimization",
+        "Heading hierarchy fix",
+        "Image optimization & alt text",
+        "Google Search Console setup",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "GROWTH",
+      "price": "$1,200/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Launch, plus:",
+        "5 service area landing pages",
+        "4+ dedicated service pages",
+        "Blog launch with monthly content",
+        "Review generation strategy",
+        "Citation building & management",
+        "Google Business Profile optimization"
+      ]
+    },
+    {
+      "name": "PREMIUM",
+      "price": "$1,800/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Growth, plus:",
+        "Google Ads management",
+        "Before/after project galleries",
+        "Video content production",
+        "Social media management",
+        "Weekly performance reports",
+        "Dedicated strategy calls"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm specializing in helping service-industry businesses grow their online presence and generate more leads. We focus on practical, results-driven strategies rather than flashy marketing that doesn't convert.",
+    "Our approach is data-first: we research your market, identify what your competitors are doing (and not doing), and build a strategy that delivers real business outcomes.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work -- no layers of account managers."
+  ],
+  "nextSteps": [
+    "Mike, you've built North Valley Lawn Care the right way -- licensed, bonded, insured, and with real customer reviews behind you. The platform is the bottleneck. Moving off GoDaddy and onto a proper WordPress site with SEO built in from day one would put you in a completely different league.",
+    "Free 30-minute strategy call -- reach me at (530) 786-3655 or reply to this email.",
+    "Let's make North Valley Lawn Care the top search result when Chico and Butte County residents need yard help."
+  ]
+}
