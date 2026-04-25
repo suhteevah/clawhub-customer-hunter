@@ -1,0 +1,119 @@
+
+key   = "film"
+
+label = "Film / Production Armorer"
+
+executive_summary = [
+  "This brief is prepared for {{business}} to outline night vision rental, on-set support, and ITAR-compliant procurement for production work.",
+  "Most armorers loop through generic prop houses for NV — and end up with non-functional dummy units, mismatched eras, or gear that won't survive a 14-hour shoot day. RANV ships real, current-gen, ITAR-compliant kit and handles the paperwork end-to-end.",
+  "RANV operates inside the ITAR framework daily. End-user paperwork, deemed-export awareness, and on-set compliance are baseline — not a learning curve we charge you for.",
+]
+
+about = [
+  "Rocking-A Night Vision is a U.S.-based authorized dealer that works inside ITAR every day. The compliance load on your production is less, not more.",
+  "We know the difference between a prop and a working unit — and we know which one a director actually wants on the monitor.",
+]
+
+next_steps = [
+  "Confirm shoot dates, location, and on-screen NV requirements for {{business}}.",
+  "Lock rental vs. purchase and run paperwork end-to-end before the shoot day.",
+]
+
+pricing_intro = "Tiers reflect production scale. All pricing assumes ITAR paperwork is handled by RANV — operating in this space is baseline, not an upsell."
+
+[[capability_overview]]
+title  = "Production Rental"
+points = [
+  "Real PVS-14, dual-tube, and current-gen thermal — not dummy props.",
+  "Period-correct loadouts on request (historical mount and tube generation matching).",
+  "On-camera-friendly green or white phosphor as the look requires.",
+]
+
+[[capability_overview]]
+title  = "On-Set Support"
+points = [
+  "Day-rate technician availability for shoot duration.",
+  "Battery logistics, IR illumination, and quick-swap spare kits.",
+  "Talent walk-through on safe handling.",
+]
+
+[[capability_overview]]
+title  = "ITAR-Compliant Procurement"
+points = [
+  "End-user paperwork handled cleanly — RANV operates in ITAR daily.",
+  "Awareness of foreign-national-on-set deemed-export rules.",
+  "Honest read on what is and isn't allowable for the production.",
+]
+
+[[findings]]
+area     = "Source"
+finding  = "Most prop-house NV is non-functional or aged out — won't read on camera the way the director thinks."
+priority = "High"
+status   = "Replace"
+
+[[findings]]
+area     = "Compliance"
+finding  = "ITAR awareness is uneven across armorers — exposure risk on foreign-national crew."
+priority = "High"
+status   = "Mitigate"
+
+[[findings]]
+area     = "On-Set Reliability"
+finding  = "Single failed unit during a night shoot blows the schedule."
+priority = "Medium"
+status   = "Address"
+
+[[strategy]]
+title   = "Phase 1 — Pre-Production"
+actions = [
+  "Confirm look, generation, and phosphor type with director / DP.",
+  "Run end-user paperwork well ahead of shoot day.",
+  "Spec quantity + spare kits.",
+]
+
+[[strategy]]
+title   = "Phase 2 — Shoot"
+actions = [
+  "Deliver kit with on-set walk-through.",
+  "Day-rate tech on call for issues.",
+  "Quick-swap spares pre-staged.",
+]
+
+[[strategy]]
+title   = "Phase 3 — Wrap"
+actions = [
+  "Full kit return + condition check.",
+  "Documentation closeout for ITAR records.",
+  "Reference for future productions.",
+]
+
+[[pricing_tiers]]
+name     = "Day Shoot"
+price    = "$1,500–3,500 / day"
+features = [
+  "1–2 working NV units",
+  "Battery + IR illumination",
+  "Drop-off / pickup",
+  "ITAR paperwork included",
+]
+
+[[pricing_tiers]]
+name        = "Production Standard"
+price       = "$8,000–18,000 / week"
+recommended = true
+features = [
+  "Multi-unit kit (NV + thermal mix)",
+  "Day-rate on-set tech",
+  "Quick-swap spares",
+  "End-to-end ITAR handling",
+]
+
+[[pricing_tiers]]
+name     = "Feature / Series"
+price    = "Custom"
+features = [
+  "Full-shoot rental + tech",
+  "Period-correct loadouts",
+  "Foreign-crew compliance review",
+  "Wrap documentation closeout",
+]

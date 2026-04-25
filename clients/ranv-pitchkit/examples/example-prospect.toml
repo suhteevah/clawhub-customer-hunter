@@ -1,0 +1,26 @@
+# Example prospect TOML — copy to prospects/<your-name>.toml and edit.
+#
+# Generate with:
+#   ranv-pitch generate --prospect prospects/<your-name>.toml --audience le
+
+business_name = "Yuba County Sheriff Department"
+contact_name  = "Lt. J. Doe"
+location      = "Marysville, CA"
+
+# One-line hook that opens the executive summary. Be specific to the prospect.
+hook = "YCSD's tactical team is running a mix of Gen 2+ and early Gen 3 tubes that are well past their service curve, and white-phosphor Gen 3 is now in your procurement window."
+
+# Optional: override the audience executive summary with prospect-specific paragraphs.
+# Each entry is one paragraph. {{business}} / {{contact}} / {{location}} substitute at render time.
+executive_summary = [
+  "This brief outlines a coordinated NV/thermal upgrade for {{business}}'s tactical team. Current production white-phosphor Gen 3 tubes are now in a price band where a full team standardization is realistic on a single procurement cycle.",
+  "RANV ships current-gen hardware through authorized U.S. distribution, vets every tube against its spec sheet before assignment, and handles ITAR end-user paperwork end-to-end. {{location}}-area agencies don't have to staff up to do business with us.",
+  "Three procurement tiers below cover patrol, SWAT/tactical, and thermal-augmented loadouts. Final pricing depends on tube spec and unit count — we provide the spec sheet for every unit before assignment so you can match procurement intent to delivered hardware.",
+]
+
+# Optional: override the audience findings with what you actually saw on prospect research.
+# [[findings]]
+# area     = "Tube Service Life"
+# finding  = "Current YCSD tubes show >2,000 hours of operational time."
+# priority = "High"
+# status   = "Replace"

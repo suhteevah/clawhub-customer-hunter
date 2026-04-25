@@ -1,0 +1,134 @@
+
+key   = "le"
+
+label = "Law Enforcement / Agency"
+
+executive_summary = [
+  "Rocking-A Night Vision (RANV) is a U.S.-based dealer specializing in current-generation image intensified night vision and thermal optics for tactical end-users. This brief is prepared for {{business}} to outline procurement options, capability tradeoffs, and a path to fielding gear that matches your operational profile.",
+  "Most agencies in your size band are running a mix of aging Gen 2+ tubes, mismatched mounts, and IR illuminators that flag the wearer's position to anyone else with NV. We can resolve all three in a single coordinated buy with white-phosphor Gen 3 tubes, current-spec helmet mounts, and laser/illuminator combos vetted for tactical use.",
+  "Pricing below assumes direct dealer pricing — no middleman markup. ITAR-controlled items are restricted to verified U.S. agency end-users; RANV operates inside ITAR daily and handles end-user paperwork cleanly — agencies don't have to staff up to do business with us.",
+]
+
+about = [
+  "Rocking-A Night Vision is a U.S.-based authorized dealer serving verified end-users only. Every order is filled with current-production hardware sourced through authorized U.S. distribution channels.",
+  "We are not a Big-Box reseller drop-shipping from a warehouse. Tubes are spec'd, mounts are torqued, and units leave with a written QC pass. If a unit fails in the field we replace it.",
+]
+
+next_steps = [
+  "Confirm unit count, audience tier, and any specific spec requirements (FOM minimums, MIL-spec mounts, etc.) for {{business}}.",
+  "Sign and return the dealer-end-user paperwork. We invoice net-30 for verified agencies; payment terms negotiable on volume orders.",
+]
+
+pricing_intro = "Procurement tiers below are baseline configurations. Final pricing depends on tube spec, mount selection, and agency volume — quote provided after the audit phase."
+
+[[capability_overview]]
+title  = "Image Intensified Night Vision"
+points = [
+  "PVS-14 monocular kits — single-tube, helmet- or weapon-mounted, white phosphor Gen 3 standard.",
+  "Dual-tube binocular systems (RNVG / DTNVG-style) for patrol and entry teams that need depth perception.",
+  "Tube spec sheets provided per unit — FOM, SNR, EBI, halo, photocathode response — no surprises at delivery.",
+]
+
+[[capability_overview]]
+title  = "Thermal Optics"
+points = [
+  "Bering Optics, IRay, and current-gen handheld thermal monoculars for surveillance and search.",
+  "Clip-on thermal solutions (CTS-style) that mount in front of existing day optics — no zero shift.",
+  "Sensor resolution options from 384x288 up to 640x512, with 12µm pixel pitch on current models.",
+]
+
+[[capability_overview]]
+title  = "Mounts, IR Lasers, and Accessories"
+points = [
+  "Wilcox / Norotos / RQE helmet mounts — agency budget tier and premium options both stocked.",
+  "Class 1 visible / IR aiming lasers that pair with deployed weapon systems.",
+  "Bridge plates, sacrificial windows, and battery/cabling kits — full kit-out, not just tubes.",
+]
+
+[[findings]]
+area     = "NV Inventory"
+finding  = "Existing tubes likely Gen 2+ or early Gen 3 — well below current production FOM benchmarks."
+priority = "High"
+status   = "Replace"
+
+[[findings]]
+area     = "Helmet Mounts"
+finding  = "Mixed legacy mounts create maintenance overhead and inconsistent eye relief across the team."
+priority = "Medium"
+status   = "Standardize"
+
+[[findings]]
+area     = "IR Illumination"
+finding  = "Older illuminators flag wearer position to any third party using current NV."
+priority = "High"
+status   = "Upgrade"
+
+[[findings]]
+area     = "Thermal Capability"
+finding  = "Most agencies in this size band have no organic thermal capability — gap for search/rescue and pursuit."
+priority = "Medium"
+status   = "Add"
+
+[[findings]]
+area     = "Training Reps"
+finding  = "Hardware is only half the system. Operators need reps under NV before it pays out."
+priority = "Low"
+status   = "Plan"
+
+[[strategy]]
+title   = "Phase 1 — Audit & Spec"
+actions = [
+  "Inventory current NV/thermal in service with serials, hours, and tube data.",
+  "Confirm operational profile: patrol, SWAT, K9, search/rescue.",
+  "Lock unit-count target and tier (single tube / dual tube / thermal mix).",
+]
+
+[[strategy]]
+title   = "Phase 2 — Procurement"
+actions = [
+  "Place coordinated order via RANV — one PO, one delivery, one warranty channel.",
+  "Spec-sheet review on tubes before final assignment.",
+  "Coordinate ITAR end-user docs and shipping windows.",
+]
+
+[[strategy]]
+title   = "Phase 3 — Field & Sustain"
+actions = [
+  "On-delivery boresight and zero check.",
+  "Rolling tube QC on a 12-month cadence.",
+  "Replacement-part stock kept on hand to keep loaners flowing.",
+]
+
+[[pricing_tiers]]
+name     = "Patrol Tier"
+price    = "$3,800–4,500 / kit"
+features = [
+  "PVS-14 monocular, white phosphor Gen 3",
+  "Skull-crusher or budget helmet mount",
+  "Sacrificial window + lens caps",
+  "Battery + cabling kit",
+  "Standard 2-year tube warranty",
+]
+
+[[pricing_tiers]]
+name        = "SWAT / Tactical Tier"
+price       = "$6,500–8,500 / kit"
+recommended = true
+features = [
+  "Dual-tube RNVG/DTNVG, white phosphor Gen 3",
+  "Wilcox or Norotos current-spec mount",
+  "IR laser + visible aiming combo",
+  "Bridge + sacrificial windows",
+  "Spec-sheet vetting before assignment",
+]
+
+[[pricing_tiers]]
+name     = "Thermal-Augmented Tier"
+price    = "$9,500–13,000 / kit"
+features = [
+  "Dual-tube NV + clip-on thermal",
+  "Premium mount and counterweight",
+  "640x512 thermal sensor option",
+  "Field zero / boresight on delivery",
+  "Priority warranty replacement",
+]

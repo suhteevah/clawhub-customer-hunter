@@ -1,0 +1,121 @@
+
+key   = "dealer"
+
+label = "Dealer / Wholesale"
+
+executive_summary = [
+  "This brief is prepared for {{business}} to outline a wholesale relationship with Rocking-A Night Vision (RANV).",
+  "Dealer pricing on current-production NV and thermal optics, NET-30 terms after first-order verification, and direct ordering with no minimum monthly volume after onboarding.",
+  "We back the gear with replacement and priority warranty handling so your end-user doesn't bounce back to you for tube QC issues.",
+]
+
+about = [
+  "Rocking-A Night Vision is a U.S.-based authorized dealer working with smaller dealers and storefronts looking for an authorized supply channel without 'enterprise' overhead. RANV operates inside ITAR every day — your downstream compliance load is less, not more.",
+  "Our reputation is staked on tube spec honesty and warranty follow-through. That's what your end-users will remember.",
+]
+
+next_steps = [
+  "Sign the dealer agreement and exchange tax/business documentation for {{business}}.",
+  "Place a verification order on NET-30 terms.",
+  "Set up direct ordering channel.",
+]
+
+pricing_intro = "Dealer pricing is set at order time based on tube spec and volume. Tiers below indicate volume bands."
+
+[[capability_overview]]
+title  = "Inventory Available"
+points = [
+  "PVS-14 kits, white phosphor Gen 3 — multiple FOM tiers.",
+  "Dual-tube binocular systems (RNVG / DTNVG-style).",
+  "Bering / IRay / current-gen thermal scopes and monoculars.",
+  "Mount, laser, illuminator, battery accessories.",
+]
+
+[[capability_overview]]
+title  = "Dealer Support"
+points = [
+  "Spec sheets on every tube — pass-through to your end-user.",
+  "Drop-ship to verified end-users available.",
+  "Co-marketing assets for your storefront.",
+]
+
+[[capability_overview]]
+title  = "Compliance"
+points = [
+  "ITAR-controlled items handled with end-user paperwork at order time.",
+  "We do not ship ITAR items outside the U.S.",
+  "Transparent on what is and isn't restricted before you commit.",
+]
+
+[[findings]]
+area     = "Channel"
+finding  = "Most small dealers buy through a layer of distributors — pricing reflects it."
+priority = "High"
+status   = "Cut"
+
+[[findings]]
+area     = "Tube Transparency"
+finding  = "End-users increasingly demand FOM/SNR data before purchase — most distributors won't provide."
+priority = "High"
+status   = "Differentiate"
+
+[[findings]]
+area     = "Warranty Path"
+finding  = "End-user warranty issues bounce back to the storefront — costs you time."
+priority = "Medium"
+status   = "Resolve"
+
+[[strategy]]
+title   = "Phase 1 — Onboard"
+actions = [
+  "Dealer agreement + tax docs.",
+  "Verification order with full spec pass-through.",
+  "First end-user warranty round-trip to confirm process.",
+]
+
+[[strategy]]
+title   = "Phase 2 — Stock & Sell"
+actions = [
+  "Lock baseline inventory mix.",
+  "Set drop-ship cadence with end-user paperwork flow.",
+  "Co-marketing on the dealer storefront.",
+]
+
+[[strategy]]
+title   = "Phase 3 — Scale"
+actions = [
+  "Volume-tier pricing on demonstrated throughput.",
+  "Joint planning on inventory ahead of seasonal peaks.",
+  "Dedicated point-of-contact for high-volume orders.",
+]
+
+[[pricing_tiers]]
+name     = "Onboarding"
+price    = "First 1–3 orders"
+features = [
+  "Dealer pricing on full catalog",
+  "Pre-pay or COD on first order",
+  "Spec-sheet pass-through",
+  "Standard warranty handling",
+]
+
+[[pricing_tiers]]
+name        = "Standard Dealer"
+price       = "NET-30"
+recommended = true
+features = [
+  "NET-30 terms after verification",
+  "Drop-ship to verified end-users",
+  "Co-marketing assets",
+  "Priority warranty path",
+]
+
+[[pricing_tiers]]
+name     = "Volume Dealer"
+price    = "Custom"
+features = [
+  "Volume-tier pricing",
+  "Joint inventory planning",
+  "Dedicated point-of-contact",
+  "Quarterly business review",
+]

@@ -1,0 +1,154 @@
+{
+  "businessName": "Rocking-A Night Vision",
+  "contactName": "Smoothy",
+  "date": "April 25, 2026",
+  "executiveSummary": [
+    "I spent some time digging into Rocking-A Night Vision (RANV) and the broader U.S. night vision dealer market. The product positioning is solid — Bering Optics, AN/PVS-14, ITAR-compliant — and the brand has a real personality (the horned lizard patch is a community hook most dealers wouldn't think of). What's holding the storefront back isn't the product line. It's that the digital footprint is several layers behind the dealers RANV is competing with for the same buyer.",
+    "The biggest single issue: rockinganightvision.bigcartel.com lives on a Big Cartel subdomain. In a niche where buyers are dropping $3,000–$15,000 on a single tube and validating dealers obsessively before clicking 'Buy,' a third-party subdomain reads as 'side hustle' next to TNVC.com, NightGoggles.net, Steele Industries, JRH Enterprises, and Ready Tactical — all of whom run custom domains, deep content libraries, dealer authorization badges, and active YouTube/Reddit presences. The platform itself is also choking SEO authority that should be compounding for RANV every month.",
+    "The second issue is buyer journey friction. The flagship listing — AN/PVS-14, $2,999–$4,250 — is currently sold out with no waitlist, no notify-me, no spec sheet, and no ITAR purchase flow visible to the buyer. That's the keyword that drives the most traffic in the entire niche. Every visitor who lands on it right now bounces to a competitor. Fixable in week one.",
+    "Good news: RANV has the hardest part already locked — real product access, real dealer relationships, and a genuine community-friendly brand voice. The rest is execution. This proposal lays out exactly what to fix, in what order, and what it would cost to run it as a managed engagement."
+  ],
+  "assessment": [
+    {
+      "title": "Storefront Analysis — rockinganightvision.bigcartel.com",
+      "points": [
+        "Hosted on a Big Cartel subdomain — no custom domain (e.g. rockinganightvision.com or ranv.com). This caps SEO authority, kills brand recall, and signals 'hobbyist' to high-AOV buyers comparison-shopping against TNVC, NightGoggles, and Steele Industries.",
+        "Total live SKU count is small (PVS-14, Bering Optics Crisp 384 LRF demo, horned lizard patch). The flagship — PVS-14 — is sold out with no back-in-stock email capture, costing the highest-intent traffic in the niche.",
+        "Product descriptions are minimal. NV/thermal buyers expect: tube data sheet (FOM, SNR, halo, EBI), gain control type, autogated/filmless status, tube manufacturer (L3, Elbit, Photonis), housing material, warranty terms, MIL-SPEC compliance notes. Currently absent.",
+        "ITAR Statement page exists — good. But there is no end-user attestation flow at checkout, no U.S. person verification, no LE/agency PO workflow, and no 'restricted countries' notice on product pages. This is both a compliance exposure and a trust-signal miss.",
+        "No dealer authorization graphics visible (Bering Optics Authorized Dealer, etc.). In this niche, authorization badges are conversion-critical — buyers are paranoid about gray-market tubes and counterfeit Gen 3.",
+        "No customer review/testimonial system, no third-party trust badges (BBB, Google Reviews link), no Instagram/Facebook embed showing real-world units shipped. Big Cartel's default theme contributes to a 'thin' feel.",
+        "No phone number, no business address, no 'About / Who Is Smoothy' page. In a community where buyers want to know they're dealing with a person who knows tubes, this absence is a significant rapport gap.",
+        "The horned lizard patch is the only piece of brand identity work on the site and it's excellent — RANV is leaving a community-building lever sitting on the table."
+      ]
+    },
+    {
+      "title": "SEO & Search Visibility — Night Vision / Thermal Niche",
+      "points": [
+        "RANV does not rank on page one for any major commercial keyword in the niche: 'PVS-14 for sale,' 'AN/PVS-14 dealer,' 'white phosphor PVS-14,' 'Bering Optics dealer,' 'thermal monocular for hunting,' 'DTNVS,' 'RNVG,' 'BNVD-1431,' 'autogated night vision.'",
+        "The Big Cartel subdomain is the single largest SEO blocker — search engines weight root-domain authority heavily, and *.bigcartel.com URLs accumulate authority for Big Cartel, not for RANV.",
+        "Zero blog or educational content. The NV buyer journey is education-heavy: Gen 2 vs Gen 3, autogated vs filmless, FOM ratings explained, white phosphor vs green, MIL-SPEC vs commercial, thermal sensor resolution and refresh rate. Every one of those is a high-intent search query RANV is not capturing.",
+        "No structured data on product pages beyond Big Cartel's defaults — missing Product schema with detailed spec fields, Review schema, FAQPage schema, and BreadcrumbList. These are how Google decides whether to show price, availability, and ratings in the SERP.",
+        "No image alt text strategy. NV product imagery is searched heavily — 'PVS-14 reticle view,' 'thermal hog hunting' — and RANV is invisible in image search.",
+        "Backlink profile is effectively nonexistent. Competitors have inbound links from r/nightvision threads, YouTube descriptions (TNVC, BattleAura, AaronOcker, Steele Industries), gun/tactical forums, and dealer directory sites. RANV has none of these signals built up."
+      ]
+    },
+    {
+      "title": "Competitive Landscape — U.S. NVG / Thermal Dealers",
+      "points": [
+        "TNVC.com (Tactical Night Vision Company) — the gold standard. Custom domain, deep blog, owns 'PVS-14' SERP, runs a YouTube channel that doubles as the de facto consumer education library for the niche.",
+        "NightGoggles.net — heavy product depth, custom-built tubes, ranks for nearly every 'Gen 3 PVS-14' long-tail query, active in r/nightvision.",
+        "Steele Industries (steeleind.com) — content-driven, large social following, owns the 'beginner buyer' search traffic with explainer pieces.",
+        "JRH Enterprises (jrhenterprises.com) — long-tenured dealer, dominates LE/agency procurement keywords.",
+        "Ready Tactical (readytactical.com), TNV/C, Bravo Co partnerships, and several smaller boutique dealers — most run their own domains, push monthly content, and maintain Reddit/YouTube footprints.",
+        "Reddit (r/nightvision, ~80k members) and YouTube (specifically reviewers like AaronOcker, Demolition Ranch, Garand Thumb, BattleAura) are the actual top-of-funnel for this market. RANV does not currently appear in either ecosystem.",
+        "The niche is small, vocal, and validation-obsessed. Two or three positive r/nightvision threads about a dealer move significant inventory. RANV has the inventory access to compete here — what's missing is the surface area."
+      ]
+    }
+  ],
+  "findings": [
+    { "area": "Domain", "finding": "On Big Cartel subdomain — no custom domain, capping SEO and brand authority", "priority": "High", "status": "Critical" },
+    { "area": "Flagship SKU (PVS-14)", "finding": "Sold out with no waitlist, no notify-me, no spec sheet — bleeds highest-intent traffic", "priority": "High", "status": "Critical" },
+    { "area": "Product Detail Depth", "finding": "Missing FOM, SNR, tube manufacturer, gain type, MIL-SPEC notes — buyers expect this", "priority": "High", "status": "Needs Fix" },
+    { "area": "Content / SEO", "finding": "Zero educational content — losing all top-of-funnel NV buyer search traffic", "priority": "High", "status": "Missing" },
+    { "area": "Trust Signals", "finding": "No dealer authorization badges, no reviews, no founder/about page", "priority": "High", "status": "Missing" },
+    { "area": "ITAR Buyer Flow", "finding": "ITAR page exists but no checkout attestation, U.S. person verification, or LE PO flow", "priority": "High", "status": "Needs Fix" },
+    { "area": "Schema Markup", "finding": "Default Big Cartel only — no Product, Review, FAQ, or BreadcrumbList schema", "priority": "High", "status": "Missing" },
+    { "area": "Community Presence", "finding": "Not active on r/nightvision, YouTube, Instagram, or NV forums", "priority": "Medium", "status": "Missing" },
+    { "area": "Backlink Profile", "finding": "No inbound links from forums, reviewers, or dealer directories", "priority": "Medium", "status": "Missing" },
+    { "area": "Brand Identity", "finding": "Horned lizard patch is strong — community lever currently underused", "priority": "Low", "status": "Good" },
+    { "area": "Product Sourcing", "finding": "Real Bering Optics dealer relationship, real PVS-14 inventory access", "priority": "Low", "status": "Good" },
+    { "area": "ITAR Compliance Posture", "finding": "ITAR statement is published — most small dealers skip this entirely", "priority": "Low", "status": "Good" }
+  ],
+  "strategy": [
+    {
+      "title": "Phase 1: Foundation & Quick Wins (Months 1-2)",
+      "actions": [
+        "Register and migrate to a custom domain (rockinganightvision.com or RANV-branded short domain) with proper 301 redirects from the Big Cartel URL — single biggest SEO unlock available.",
+        "Evaluate platform: stay on Big Cartel with custom domain pointed at it (fast/cheap) or migrate to Shopify with the night-vision-friendly app stack (recommended long-term — better schema, ITAR app integrations, age/geo gating).",
+        "Rewrite every product page with full spec sheet: tube data (FOM, SNR, halo, EBI, gain), manufacturer, autogated/filmless, warranty, MIL-SPEC notes, included accessories, image gallery with alt text.",
+        "Add back-in-stock email capture on the PVS-14 listing immediately — the single highest-ROI fix on the site.",
+        "Implement Product schema, Review schema, and BreadcrumbList schema on every listing.",
+        "Add dealer authorization graphics (Bering Optics Authorized Dealer, etc.) to homepage and product pages.",
+        "Add ITAR end-user attestation checkbox at checkout, U.S. person verification language, and LE/agency PO instructions on a dedicated page.",
+        "Create a real 'About / Meet Smoothy' page with photo, background, and why-RANV-exists story — the rapport gap closes fast with this one page."
+      ]
+    },
+    {
+      "title": "Phase 2: Authority & Community (Months 3-6)",
+      "actions": [
+        "Launch a content engine targeting the NV buyer journey: 'PVS-14 vs DTNVS,' 'White phosphor vs green phosphor — which is right for you,' 'How to read a tube data sheet,' 'Bering Optics Crisp 384 review,' 'What FOM actually means.' 2-3 posts/month, each 1,200+ words with original imagery.",
+        "Stand up a YouTube channel with unboxing, tube-data walk-throughs, and field-use clips. Even 1-2 videos/month creates compounding inbound traffic in this niche.",
+        "Active engagement on r/nightvision and r/nightvisionsales — answer questions, build account history, become a recognized dealer voice (not spammy — community-first).",
+        "Build dealer directory and review presence: BBB listing, Google Business Profile (if a public-facing address can be used), Trustpilot, and dealer-listing sites.",
+        "Expand the patch/merch program — turn the horned lizard into a full identity: stickers, hat, morale patch series, t-shirt. These items are loss-leaders that build community and drive return traffic.",
+        "Outreach to NV-focused YouTube reviewers (AaronOcker, Steele Industries collabs, smaller channels) for review units — earned content > paid ads in this niche."
+      ]
+    },
+    {
+      "title": "Phase 3: Market Position & Scale (Months 7-12)",
+      "actions": [
+        "Launch targeted Google Ads on long-tail commercial keywords: 'AN/PVS-14 in stock,' 'white phosphor PVS-14 dealer,' 'Bering Optics Crisp 384 dealer.' Avoid the burned-out generic 'night vision' head terms.",
+        "Build an LE/agency procurement landing page with quote-request workflow, NCAGE/CAGE-friendly invoicing notes, and references — opens up a revenue lane most boutique dealers ignore.",
+        "Add a 'tube finder' interactive tool: buyer answers 3-4 questions (use case, budget, hand vs helmet) and gets matched to the right SKU. Strong conversion lift in this niche, also a backlink magnet.",
+        "Develop comparison content owning the long-tail: 'RANV vs TNVC,' 'PVS-14 vs RNVG,' 'best thermal monocular under $3K' — each one is a compounding asset.",
+        "Monthly performance dashboard: organic traffic by keyword cluster, PVS-14 waitlist signups, product page conversion rate, average order value, top inbound referrers. Data drives the next quarter's plan."
+      ]
+    }
+  ],
+  "pricingIntro": "RANV is a high-AOV, low-volume, regulated-niche dealer — the engagement structure has to reflect that. The goal is not blasting generic SEO at the site; it's owning a small, specific corner of the night vision market through correct technical foundation, authentic community presence, and content that the niche actually wants to read. Pricing below assumes a single-operator business with a small SKU count.",
+  "pricingTiers": [
+    {
+      "name": "FOUNDATION",
+      "price": "$750/mo",
+      "recommended": false,
+      "features": [
+        "Custom domain setup & migration",
+        "Product page rewrites (spec sheets, alt text)",
+        "Schema markup (Product, Review, Breadcrumb)",
+        "PVS-14 waitlist / back-in-stock capture",
+        "ITAR checkout flow & attestation",
+        "About / Meet Smoothy page build",
+        "Monthly reporting"
+      ]
+    },
+    {
+      "name": "AUTHORITY",
+      "price": "$1,400/mo",
+      "recommended": true,
+      "features": [
+        "Everything in Foundation, plus:",
+        "2-3 NV-focused blog posts/month",
+        "YouTube channel setup + 1-2 videos/month coordination",
+        "r/nightvision & forum engagement strategy",
+        "Dealer directory + Google Business + review systems",
+        "Patch / merch program expansion",
+        "Reviewer outreach (YouTube unboxing units)"
+      ]
+    },
+    {
+      "name": "MARKET POSITION",
+      "price": "$2,400/mo",
+      "recommended": false,
+      "features": [
+        "Everything in Authority, plus:",
+        "Google Ads on long-tail commercial NV keywords",
+        "LE/agency procurement landing page + quote flow",
+        "Interactive tube-finder tool build",
+        "Comparison content series ('vs TNVC' / 'vs DTNVS' / etc.)",
+        "Quarterly competitive intelligence reports",
+        "Weekly performance dashboards"
+      ]
+    }
+  ],
+  "about": [
+    "Ridge Cell Repair LLC is a California-based digital marketing and business analysis firm. We work with small operators in regulated, high-trust niches — manufacturing, defense optics, firearms, ammunition, tactical equipment — where generic SEO playbooks don't work because the buyer journey is technical and the audience is skeptical by default.",
+    "Our approach is data-first and niche-specific: we research the actual community where your buyers spend time (Reddit, YouTube, forums), reverse-engineer what your competitors are doing right, and build out the content, technical foundation, and trust signals that move qualified buyers from research to checkout. No fluff, no generic blog mills, no vanity metrics.",
+    "What sets us apart is that we treat every client like a partner, not an account number. You get direct access to the people doing the work — no layers of account managers — and we'll tell you when something isn't worth doing."
+  ],
+  "nextSteps": [
+    "Smoothy — happy to walk through these findings on a call and dig into the specifics. No obligation, no pitch deck, just a working conversation about what's worth doing first and what can wait.",
+    "Reach me at (530) 786-3655 or reply to this email and we'll set a 30-minute call.",
+    "RANV has the hardest piece — real dealer access in a regulated niche — locked in. The rest is foundation work and consistent content. Done right, this turns rockinganightvision.com into the place buyers in this niche default to. Let's build it."
+  ]
+}

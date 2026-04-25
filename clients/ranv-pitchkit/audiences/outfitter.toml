@@ -1,0 +1,121 @@
+
+key   = "outfitter"
+
+label = "Hunting Outfitter / Guide"
+
+executive_summary = [
+  "This brief is prepared for {{business}} to outline night vision and thermal capability that turns a guided hunt into a repeatable premium offering.",
+  "Hog hunts, predator hunts, and after-dark glassing are high-margin add-ons when your guide kit can deliver a clean, ethical shot in low light. The right loaner-grade thermal scopes pay for themselves in the first 4–6 booked hunts.",
+  "Tiers below assume operator/guide use — civilian end-user, no ITAR. Includes loaner-fleet considerations.",
+]
+
+about = [
+  "Rocking-A Night Vision sells the same gear we'd run ourselves. We back what we ship — including in-season replacement when a unit goes down on you.",
+  "We understand outfitter economics. Pricing reflects that the gear has to earn its keep across a season, not sit in a safe.",
+]
+
+next_steps = [
+  "Confirm hunt mix at {{business}} (hogs / predator / mixed) and number of clients per season.",
+  "Spec a loaner fleet vs. guide-only kit, then quote.",
+]
+
+pricing_intro = "Tiers scale from a single guide kit to a small fleet."
+
+[[capability_overview]]
+title  = "Loaner-Grade Thermal Scopes"
+points = [
+  "Built to survive guide-kit abuse — drops, transport, weather.",
+  "Quick-detach mounts so a single optic can move across rifle platforms.",
+  "Video-record output you can send the client home with.",
+]
+
+[[capability_overview]]
+title  = "Handheld Scanners for Guides"
+points = [
+  "Lightweight 384/640 monoculars for the guide to spot before the client commits.",
+  "Long battery life and easy battery swaps mid-hunt.",
+  "Rangefinder integration on premium models.",
+]
+
+[[capability_overview]]
+title  = "NV for Stalking & Recovery"
+points = [
+  "PVS-14 monocular for hands-free movement to the stand.",
+  "IR illumination for tracking and recovery after dark.",
+  "Pairs cleanly with thermal for two-tool detect/identify workflow.",
+]
+
+[[findings]]
+area     = "Booking Mix"
+finding  = "Most outfitters in your bracket leave $20k+/yr on the table by not running a thermal hunt offering."
+priority = "High"
+status   = "Develop"
+
+[[findings]]
+area     = "Loaner Fleet"
+finding  = "Guides use personal optics — inconsistent client experience and no recovery path on failure."
+priority = "Medium"
+status   = "Standardize"
+
+[[findings]]
+area     = "Recovery Capability"
+finding  = "Bow / blood-trail recovery after dark is currently flashlight-driven."
+priority = "Low"
+status   = "Add"
+
+[[strategy]]
+title   = "Phase 1 — Offering Design"
+actions = [
+  "Define the thermal hunt SKU and price it.",
+  "Decide loaner-kit count vs. guide-only.",
+  "Set policy on client damage / loss.",
+]
+
+[[strategy]]
+title   = "Phase 2 — Procure & Field"
+actions = [
+  "Order primary thermal scopes + handheld scanners.",
+  "Set up QD mount system across rifle platforms.",
+  "Train guides on the new kit.",
+]
+
+[[strategy]]
+title   = "Phase 3 — Iterate"
+actions = [
+  "Capture per-hunt spec data — ranges, terrain, what worked.",
+  "Plan a refresh cadence as sensor tech moves.",
+  "Cross-sell to repeat clients on private-buy upgrades.",
+]
+
+[[pricing_tiers]]
+name     = "Single Guide"
+price    = "$3,500–5,500"
+features = [
+  "1x 384 thermal scope",
+  "1x 384 handheld scanner",
+  "QD mount kit",
+  "Battery + charge kit",
+]
+
+[[pricing_tiers]]
+name        = "Outfitter Standard"
+price       = "$9,500–14,500"
+recommended = true
+features = [
+  "2–3x thermal scopes (384/640 mix)",
+  "2x handheld scanners",
+  "Loaner-grade cases",
+  "PVS-14 NV for stalking",
+  "Priority replacement",
+]
+
+[[pricing_tiers]]
+name     = "Premium Fleet"
+price    = "$18,000–28,000"
+features = [
+  "4–5x 640 thermal scopes",
+  "Handheld scanners across the team",
+  "Helmet-mount NV kits",
+  "On-site support visit",
+  "Annual refresh consult",
+]

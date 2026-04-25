@@ -1,0 +1,121 @@
+
+key   = "training"
+
+label = "Training School / Range"
+
+executive_summary = [
+  "This brief is prepared for {{business}} to outline NV/thermal capability as a curriculum offering and revenue line.",
+  "NV courses are a high-margin specialty that few schools can deliver because few can field a consistent fleet of student-grade gear. RANV provides the gear plus the warranty/replacement spine that keeps a class running on schedule.",
+  "Pricing reflects fleet-buy structure — student kits, instructor kits, and range support gear.",
+]
+
+about = [
+  "Rocking-A Night Vision is a U.S.-based authorized dealer supporting training schools running NV curriculum. RANV is fluent in ITAR and handles end-user paperwork end-to-end so the school doesn't carry compliance overhead.",
+  "We understand that a class can't wait on a 6-week RMA. Our warranty spine is built for time-pressured operations.",
+]
+
+next_steps = [
+  "Confirm class size, frequency, and curriculum scope at {{business}}.",
+  "Spec student fleet count and instructor kit, then quote.",
+]
+
+pricing_intro = "Tiers reflect fleet-buy structure — per-class economics typically break even by class 4–6."
+
+[[capability_overview]]
+title  = "Student Fleet Kits"
+points = [
+  "Standardized PVS-14 monocular kits — same mount, same battery, same setup across every student.",
+  "Helmet + mount package built to survive student abuse.",
+  "Replacement-on-demand on units that go down mid-course.",
+]
+
+[[capability_overview]]
+title  = "Instructor Gear"
+points = [
+  "Dual-tube NV for instructor use (broader situational awareness during night drills).",
+  "Thermal handheld for safety scanning of the range.",
+  "IR laser/illuminator for live-fire instruction.",
+]
+
+[[capability_overview]]
+title  = "Range Infrastructure"
+points = [
+  "IR-friendly target packages.",
+  "Recharge / battery logistics for multi-day classes.",
+  "On-site support for course launches.",
+]
+
+[[findings]]
+area     = "Curriculum Gap"
+finding  = "NV courses are underprovided in the market — schools that field consistent gear book out fast."
+priority = "High"
+status   = "Build"
+
+[[findings]]
+area     = "Fleet Consistency"
+finding  = "Mismatched student gear creates instructor overhead and hurts course outcomes."
+priority = "High"
+status   = "Standardize"
+
+[[findings]]
+area     = "Replacement Path"
+finding  = "Single failed unit can derail a paid class if there's no replacement spine."
+priority = "Medium"
+status   = "Address"
+
+[[strategy]]
+title   = "Phase 1 — Curriculum & Spec"
+actions = [
+  "Define course scope (intro / intermediate / advanced).",
+  "Spec student kit at the lowest cost that holds up.",
+  "Spec instructor kit at the lowest cost that's authoritative.",
+]
+
+[[strategy]]
+title   = "Phase 2 — Fleet Build"
+actions = [
+  "Order initial fleet with matched mount/battery setup.",
+  "Pre-stage range infrastructure (targets, recharge stations).",
+  "Run a pilot class to find friction.",
+]
+
+[[strategy]]
+title   = "Phase 3 — Run & Scale"
+actions = [
+  "Replacement kit on hand — failed unit swap inside one drill.",
+  "Refresh tubes on a 2–3 yr cadence.",
+  "Add thermal module as student demand grows.",
+]
+
+[[pricing_tiers]]
+name     = "Pilot Class"
+price    = "$8,000–14,000"
+features = [
+  "4 student PVS-14 kits",
+  "1 instructor dual-tube",
+  "Range support gear",
+  "Standard warranty",
+]
+
+[[pricing_tiers]]
+name        = "Working Fleet"
+price       = "$22,000–32,000"
+recommended = true
+features = [
+  "8–10 student PVS-14 kits",
+  "2 instructor dual-tube",
+  "Replacement spare units",
+  "Battery logistics package",
+  "Priority warranty",
+]
+
+[[pricing_tiers]]
+name     = "Full Curriculum"
+price    = "$45,000+"
+features = [
+  "12+ student PVS-14 kits",
+  "Multiple instructor dual-tubes",
+  "Thermal module for advanced course",
+  "On-site launch support",
+  "Annual refresh consult",
+]

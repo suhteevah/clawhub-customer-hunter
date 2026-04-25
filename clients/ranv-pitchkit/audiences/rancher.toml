@@ -1,0 +1,126 @@
+
+key   = "rancher"
+
+label = "Ranch / Predator Control"
+
+executive_summary = [
+  "This brief is prepared for {{business}} to outline night vision and thermal options for predator control, livestock protection, and after-dark property monitoring.",
+  "Coyotes, hogs, and big cats don't punch a clock. The right thermal/NV setup turns a 2 a.m. emergency into a 30-second resolution from the porch — without flooding your land in white light that spooks every animal in a half-mile radius.",
+  "Pricing reflects civilian-end-user tiers — no ITAR paperwork required for thermal-only and Gen 2+ NV options.",
+]
+
+about = [
+  "Rocking-A Night Vision operates direct-to-end-user — no big-box markup, no distributor middleman.",
+  "We sell what works on real ground at night, not what reads well in a catalog. Honest spec sheets, real range expectations, real warranty.",
+]
+
+next_steps = [
+  "Confirm property size, primary predator pressure, and shooter profile for {{business}}.",
+  "Lock thermal scope vs handheld vs combo, then quote.",
+]
+
+pricing_intro = "Tiers below cover the ranch use case from budget-conscious to flagship."
+
+[[capability_overview]]
+title  = "Thermal Scopes for Predator Control"
+points = [
+  "Dedicated thermal weapon scopes — 384x288 entry, 640x512 premium.",
+  "Real detection ranges quoted honestly: man-sized target out past 1,000 yds on 640 sensors.",
+  "Reticle / zero / video record built into current-gen scopes.",
+]
+
+[[capability_overview]]
+title  = "Handheld & Helmet-Mount Thermals"
+points = [
+  "Handheld monoculars for scanning fence lines and pasture before you commit.",
+  "Helmet-mounted options for hands-free scanning while walking the property.",
+  "Battery life of 6+ hours on current-gen units.",
+]
+
+[[capability_overview]]
+title  = "NV for General Use"
+points = [
+  "PVS-14 single-tube kits for general night work — feeding, foaling, perimeter checks.",
+  "Cheaper Gen 2+ tube options for budget-conscious general-purpose use.",
+  "IR illuminator pairs for closer-range work in barns and pens.",
+]
+
+[[findings]]
+area     = "Predator Detection"
+finding  = "Spotlights spook predators before a shot is possible — thermal closes that gap."
+priority = "High"
+status   = "Add"
+
+[[findings]]
+area     = "Coverage Hours"
+finding  = "Most ranch losses happen 10pm–4am when nobody is patrolling."
+priority = "High"
+status   = "Address"
+
+[[findings]]
+area     = "Optic Compatibility"
+finding  = "Existing day optics don't pair cleanly with NV — need clip-on or dedicated NV scope."
+priority = "Medium"
+status   = "Plan"
+
+[[findings]]
+area     = "Battery Logistics"
+finding  = "Older units burn through CR123s — current-gen run on rechargeable 18650s."
+priority = "Low"
+status   = "Modernize"
+
+[[strategy]]
+title   = "Phase 1 — Lock the Use Case"
+actions = [
+  "Identify primary nuisance (coyote / hog / cat / multiple).",
+  "Confirm primary engagement range.",
+  "Pick weapon platform the optic will live on.",
+]
+
+[[strategy]]
+title   = "Phase 2 — Procure"
+actions = [
+  "Order primary thermal + handheld scanner.",
+  "Confirm zero/sight-in window after delivery.",
+  "Stock spare batteries and lens caps.",
+]
+
+[[strategy]]
+title   = "Phase 3 — Run It"
+actions = [
+  "Run weekly perimeter scans during high-pressure season.",
+  "Log encounters to refine scope-vs-handheld balance.",
+  "Plan a thermal upgrade path on a 3–5 yr cadence.",
+]
+
+[[pricing_tiers]]
+name     = "Starter"
+price    = "$1,800–2,800"
+features = [
+  "Entry thermal monocular (256 / 384 sensor)",
+  "PVS-14 Gen 2+ monocular option",
+  "Basic mounting kit",
+  "Battery + charging kit",
+]
+
+[[pricing_tiers]]
+name        = "Working Ranch"
+price       = "$4,500–6,500"
+recommended = true
+features = [
+  "384 thermal weapon scope",
+  "Handheld 384 thermal scanner",
+  "Mount kit + zero service",
+  "Spare battery pack",
+]
+
+[[pricing_tiers]]
+name     = "Flagship"
+price    = "$8,500–12,500"
+features = [
+  "640x512 thermal weapon scope",
+  "640 handheld scanner",
+  "PVS-14 Gen 3 NV monocular",
+  "Helmet mount + counterweight",
+  "Priority warranty replacement",
+]
