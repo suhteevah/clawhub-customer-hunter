@@ -25,7 +25,14 @@
 ### 3. Final deliverable
 - `clients/RANV-PitchKit-v1.zip` (4.6 MB, 20 entries) — ready to drop into Discord
 
-### 4. OpenClaw OAuth + Opus full restoration
+### 4. agentapi PTY hang root-caused and fixed (later in session)
+- Symptom: POST /message hung indefinitely; status returned "stable" but claude burned 0 CPU
+- Root cause: claude TUI shows a non-dismissible "Bypass Permissions mode" consent prompt whenever `--dangerously-skip-permissions` is used. agentapi can't autonomously acknowledge it
+- Fix: swapped `--dangerously-skip-permissions` → `--permission-mode dontAsk` in `claude-agentapi.service`. Added `Environment="CI=true"` to both services for any other interactive gates. Pushed updated service file to cnc-server, daemon-reload, restart.
+- Verified: POST /message → `{"ok":true}` immediately, /messages shows clean banner ("Claude Code v2.1.119 · Opus 4.7 · Claude Max") and a "PING-OK" response.
+- Committed: distcc `54d9313 Fix agentapi PTY hang on long prompts`
+
+### 5. OpenClaw OAuth + Opus full restoration
 **Plumbing** (in `J:\distcc for claw project\`):
 - `cnc-server-bootstrap.sh` Phase 5 now picks auth in priority order: OAuth (`CLAUDE_CREDENTIALS_FILE` → `/home/claude-agent/.claude/.credentials.json`) → API key fallback → empty (Ollama-only). Always writes `/etc/claude/model-env` with `ANTHROPIC_MODEL=claude-opus-4-7`
 - `service-files/systemd/claude-agentapi.service` + `claude-orchestrator.service`: added `Environment="HOME=/home/claude-agent"` (so claude CLI finds OAuth creds), `EnvironmentFile=-/etc/claude/api-key` (optional), `EnvironmentFile=-/etc/claude/model-env`
@@ -55,8 +62,8 @@
 - Existing clawhub customer hunter pipeline (clients.json, build_proposal.js, send_email.js) untouched
 
 ### Broken / Unverified
-- **agentapi POST /message hangs**: even after upgrading claude to 2.1.119, dispatching a long prompt through agentapi's PTY layer hung at 1s CPU after 18 min. Direct `claude --print` works perfectly. Workaround: bypass agentapi for one-shot dispatches. Worth investigating if the orchestrator path needs to be reliable
-- **Whether OpenClaw OAuth creates claude.ai chat threads** — token format suggests no, but user should physically check the claude.ai sidebar after a fleet job runs. If it does, switch the CLI to a separate API key
+- ~~agentapi POST /message hangs~~ — **FIXED later in session.** Root cause: `--dangerously-skip-permissions` triggers a non-dismissible "Bypass Permissions mode" consent gate. Swapped to `--permission-mode dontAsk` + added `CI=true` env. Verified: POST /message returns `{"ok":true}`, claude responds in seconds. Committed in distcc as `54d9313`.
+- ~~Whether OpenClaw OAuth creates claude.ai chat threads~~ — **CONFIRMED NO.** User checked sidebar; nothing surfaced. OpenClaw is back to silent/headless mode as it used to be.
 
 ### Stubbed / Deferred
 - War doc was generated despite WebFetch stripping the HTML `<head>` — security/SEO findings on meta tags / JSON-LD / canonical are inferences from Big Cartel defaults, not direct measurements. Smoothy needs to view-source verify before quoting in any external deck. The war doc says this explicitly upfront.
@@ -70,10 +77,9 @@ None.
 ## What's Next
 
 1. **Send `RANV-PitchKit-v1.zip` to Smoothy via Discord** — it's at `J:\clawhub customer hunter\clients\RANV-PitchKit-v1.zip`
-2. **Verify chat-pollution claim**: have a fleet agent (e.g. seo-auditor) actually call out to Anthropic, then check claude.ai sidebar. If chats appear → switch CLI to `ANTHROPIC_API_KEY` mode
-3. **Fix or replace agentapi PTY routing**: long prompts through agentapi POST /message hang. Investigate whether this is an agentapi 0.12.1 bug, a claude TUI startup quirk, or an agent-side issue. Direct `claude --print` works as workaround
-4. **Roll OAuth + Opus to remaining fleet nodes** (faye, satibook, FCP, Swoop) when those machines are reachable
-5. **Per-subagent model discipline**: ensure `.claude/agents/*.md` frontmatter in projects routinely declares `model: sonnet` or `model: haiku` for delegated subagents so Opus quota isn't burned on routine work
+2. **Roll OAuth + Opus to satibook + faye** when those machines come back online (both timed out at end of session). FCP and Swoop are excluded — not Matt's fleet. One-liner: `./scripts/flip-to-opus.sh <node>` from `J:\distcc for claw project\`
+3. **Per-subagent model discipline**: ensure `.claude/agents/*.md` frontmatter in projects routinely declares `model: sonnet` or `model: haiku` for delegated subagents so Opus quota isn't burned on routine work
+4. **Push the unpushed commits** when ready: `git -C "J:\clawhub customer hunter" push` (62 commits ahead) and `git -C "J:\distcc for claw project" push` (3 commits ahead, branch has diverged from origin — may need rebase first)
 
 ## Notes for Next Session
 
