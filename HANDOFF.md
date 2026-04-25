@@ -25,14 +25,29 @@
 ### 3. Final deliverable
 - `clients/RANV-PitchKit-v1.zip` (4.6 MB, 20 entries) — ready to drop into Discord
 
-### 4. agentapi PTY hang root-caused and fixed (later in session)
+### 4. Repository history scrubbed of leaked secrets and made public again
+- **Trigger:** Discord Safety Jim DM — flagged a leaked bot token at `docs/discord-bot-token.secret` in distcc history. Discord auto-rotated the token, but the surface scan revealed broader contamination.
+- **Root cause of the contamination:** the `github-uploader-buildout` tool that originally seeded these repos uploaded the entire working directory including (a) literal Windows-pathed files (`C:Users\Matt\...` encoded as Unicode-escaped paths in the git tree) and (b) an SSH private key (`satibook-key`) sitting at the repo root.
+- **Removed from history (all branches, all commits):**
+  - `satibook-key` (RSA private key — real concern, but satibook runs ClaudioOS so no standard sshd to attack)
+  - `docs/discord-bot-token.secret` (Discord bot token, already rotated)
+  - 6× `C:UsersMatt...` files (local Discord configs, screenshot, openclaw extension dumps)
+  - 1× `C:WindowsSystem32...hosts` (local hosts file)
+  - String scrubs: previously-leaked Anthropic API key, Tailscale auth key, Discord bot token (all already dead by this point)
+- **Process:** `git filter-repo --invert-paths --path ... --path-regex 'C\xef\x80\xba.*' --replace-text replacements.txt --force`. Re-ran after first attempt missed scrubs on non-current branches.
+- **Verified clean:** all 4 distcc branches (main + 3 claude/*) and clawhub main pass broad pattern sweep (Anthropic, Tailscale, Discord, GitHub PAT, Google API, Groq, RSA private keys).
+- **Backup tags pushed:** `pre-scrub-2026-04-25`, `pre-scrub2-2026-04-25` on origin (delete after confirming nothing's lost).
+- **Both repos flipped private → scrubbed → public again.**
+- **Belt-and-suspenders for next time:** the github-uploader-buildout tool needs an exclude list before re-running. Don't ever bulk-upload a working dir that has private keys, `.env`, or `~/.claude.json` in it.
+
+### 5. agentapi PTY hang root-caused and fixed (later in session)
 - Symptom: POST /message hung indefinitely; status returned "stable" but claude burned 0 CPU
 - Root cause: claude TUI shows a non-dismissible "Bypass Permissions mode" consent prompt whenever `--dangerously-skip-permissions` is used. agentapi can't autonomously acknowledge it
 - Fix: swapped `--dangerously-skip-permissions` → `--permission-mode dontAsk` in `claude-agentapi.service`. Added `Environment="CI=true"` to both services for any other interactive gates. Pushed updated service file to cnc-server, daemon-reload, restart.
 - Verified: POST /message → `{"ok":true}` immediately, /messages shows clean banner ("Claude Code v2.1.119 · Opus 4.7 · Claude Max") and a "PING-OK" response.
 - Committed: distcc `54d9313 Fix agentapi PTY hang on long prompts`
 
-### 5. OpenClaw OAuth + Opus full restoration
+### 6. OpenClaw OAuth + Opus full restoration
 **Plumbing** (in `J:\distcc for claw project\`):
 - `cnc-server-bootstrap.sh` Phase 5 now picks auth in priority order: OAuth (`CLAUDE_CREDENTIALS_FILE` → `/home/claude-agent/.claude/.credentials.json`) → API key fallback → empty (Ollama-only). Always writes `/etc/claude/model-env` with `ANTHROPIC_MODEL=claude-opus-4-7`
 - `service-files/systemd/claude-agentapi.service` + `claude-orchestrator.service`: added `Environment="HOME=/home/claude-agent"` (so claude CLI finds OAuth creds), `EnvironmentFile=-/etc/claude/api-key` (optional), `EnvironmentFile=-/etc/claude/model-env`
