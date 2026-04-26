@@ -25,6 +25,14 @@
 ### 3. Final deliverable
 - `clients/RANV-PitchKit-v1.zip` (4.6 MB, 20 entries) — ready to drop into Discord
 
+### 7. Hardened the github-uploader-buildout tool itself
+- **Location:** `C:\Users\Matt\Documents\GitHub\githubuploaderbuildout\` (also at github.com/suhteevah/githubuploaderbuildout)
+- **secret_scanner.py** — added Tailscale (`tskey-*`) and Anthropic OAuth (`sk-ant-oat0N-*`) regex patterns; expanded suspicious-filename list (id_rsa, id_ed25519, .credentials.json, discord-bot-token.secret); new `_BLOCKED_PATH_PATTERNS` regex set that hard-blocks Windows-absolute-path filenames (both literal `:` and U+F03A-encoded) and bare `*-key` files at repo root.
+- **github_api.py DEFAULT_GITIGNORE** — added SSH private-key forms (id_rsa, id_ed25519, *-key with `!*-key.pub` exception), `.claude/.credentials.json`, `C:Users*` / `C:Windows*` globs to block bulk-upload-of-home-dir leakage. Bumped `_REQUIRED_ENTRIES` accordingly.
+- **github_api.py urllib calls** — added scheme guards before `urllib.request.urlopen` (asserts URL is api.github.com) to satisfy CWE-939 static-analysis warnings.
+- Committed as `47bdadd Harden secret-scanner + gitignore against bulk-upload leaks`, pushed to origin.
+- Effect: the next time someone runs github-uploader-buildout, the same class of leaks (SSH keys, OAuth tokens, Windows home-dir files) will be either gitignored or hard-blocked at scan time.
+
 ### 4. Repository history scrubbed of leaked secrets and made public again
 - **Trigger:** Discord Safety Jim DM — flagged a leaked bot token at `docs/discord-bot-token.secret` in distcc history. Discord auto-rotated the token, but the surface scan revealed broader contamination.
 - **Root cause of the contamination:** the `github-uploader-buildout` tool that originally seeded these repos uploaded the entire working directory including (a) literal Windows-pathed files (`C:Users\Matt\...` encoded as Unicode-escaped paths in the git tree) and (b) an SSH private key (`satibook-key`) sitting at the repo root.
